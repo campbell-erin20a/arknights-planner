@@ -1,0 +1,30 @@
+
+type Plan {
+  id: ID!
+
+  name: String!
+  upgrade(id: ID!): UpgradePlan
+  upgrades: [UpgradePlan!]!
+  cost(enabled: Boolean = true): [ItemCount!]!
+}
+
+input PlanUpgradeInput {
+  operator_id: ID!
+  upgrade_id: ID!
+}
+extend type Mutation {
+  setPlanName(plan_id: ID!, value: String!): Plan!
+
+  createPlanUpgrade(plan_id: ID!, upgrade: PlanUpgradeInput!): Plan!
+  deletePlanUpgrade(plan_id: ID!, upgrade: PlanUpgradeInput!): Plan!
+  orderPlanUpgrades(plan_id: ID!, upgrades: [PlanUpgradeInput!]!): Plan!
+}
+
+type UpgradePlan {
+  enabled: Boolean!
+  upgrade: Upgrade!
+}
+
+extend type Mutation {
+  setUpgradeEnabled(plan_id: ID!, input: PlanUpgradeInput!, enabled: Boolean!): UpgradePlan!
+}

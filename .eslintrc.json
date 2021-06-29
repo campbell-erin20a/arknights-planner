@@ -1,0 +1,56 @@
+{
+  "parser": "@babel/eslint-parser",
+  "plugins": [
+    "babel",
+    "i18next",
+    "jest",
+    "jest-dom",
+    "jsx-a11y",
+    "react",
+    "react-hooks",
+    "testing-library"
+  ],
+  "extends": [
+    "eslint:recommended",
+    "plugin:jest/recommended",
+    "plugin:jest/style",
+    "plugin:jest-dom/recommended",
+    "plugin:jsx-a11y/recommended",
+    "plugin:react/recommended",
+    "plugin:react-hooks/recommended"
+  ],
+  "env": {
+    "es6": true
+  },
+  "settings": {
+    "react": {
+      "version": "default"
+    }
+  },
+  "globals": {
+    "Intl": "readonly",
+    "module": "readonly"
+  },
+  "rules": {
+    "no-unused-vars": [
+      "warn",
+      {
+        "varsIgnorePattern": "_$",
+        "argsIgnorePattern": "_$"
+      }
+    ],
+    "react/react-in-jsx-scope": "off",
+    "react/jsx-uses-react": "off"
+  },
+  "overrides": [
+    {
+      "files": [
+        "**/__tests__/**/*.[jt]s?(x)",
+        "**/?(*.)+(spec|test).[jt]s?(x)"
+      ],
+      "extends": [
+        "plugin:testing-library/react"
+      ]
+    }
+  ]
+}

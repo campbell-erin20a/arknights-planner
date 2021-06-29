@@ -1,0 +1,16 @@
+{
+  "id": "castle3",
+  "game_id": "char_286_cast3",
+  "stars": 1,
+  "global": true,
+  "upgrades": [],
+  "name": {
+    "en": "Castle-3",
+    "ja": "Castle-3",
+    "ko": "Castle-3",
+    "zh": "Castle-3"
+  },
+  "alias": [],
+  "skills": [],
+  "kind": "GUARD"
+}

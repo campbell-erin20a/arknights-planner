@@ -1,0 +1,84 @@
+{
+  "id": "vanilla",
+  "game_id": "char_240_wyvern",
+  "stars": 3,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 1
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-SUG-1": 1,
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-EST-2": 1,
+        "K-GRE-3": 1
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "Y-LMD-4": 10000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-IRO-2": 2,
+        "K-GRE-3": 1
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-KET-3": 1,
+        "K-GRE-3": 1
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-DEV-3": 1,
+        "K-BLU-4": 2
+      }
+    }
+  ],
+  "name": {
+    "en": "Vanilla",
+    "ja": "バニラ",
+    "ko": "바닐라",
+    "zh": "香草"
+  },
+  "alias": [
+    "ばにら",
+    "xiang cao",
+    "xiangcao"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Command - Reinforcement",
+        "ja": "突撃指令・援軍",
+        "ko": "돌격지령-원군",
+        "zh": "冲锋号令·援军"
+      }
+    }
+  ],
+  "kind": "VANGUARD"
+}

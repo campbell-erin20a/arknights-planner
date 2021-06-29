@@ -1,0 +1,26 @@
+{
+  "id": "reserve_caster",
+  "game_id": "char_505_rcast",
+  "stars": 3,
+  "global": false,
+  "upgrades": [
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "Y-LMD-4": 10000
+      }
+    }
+  ],
+  "name": {
+    "en": "Reserve (Caster)",
+    "zh": "预备干员-术师"
+  },
+  "alias": [
+    "yu bei gan yuan - shu shi",
+    "yubeiganyuan-shushi"
+  ],
+  "skills": [],
+  "temporary": true,
+  "kind": "CASTER"
+}

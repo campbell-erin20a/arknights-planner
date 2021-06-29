@@ -1,0 +1,29 @@
+{
+  "id": "M-DEV-2",
+  "game_id": 30062,
+  "tier": 2,
+  "global": true,
+  "kind": "DEVICE",
+  "sort": 1902,
+  "name": {
+    "en": "Device",
+    "ja": "初級装置",
+    "ko": "장치",
+    "zh": "装置"
+  },
+  "alias": [
+    "zhuang zhi",
+    "zhuangzhi"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 1,
+      "morale": 1,
+      "cost": {
+        "Y-LMD-4": 100,
+        "M-DEV-1": 3
+      }
+    }
+  ]
+}

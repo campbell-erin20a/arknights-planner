@@ -1,0 +1,165 @@
+{
+  "id": "matterhorn",
+  "game_id": "char_199_yak",
+  "stars": 4,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-DEV-1": 2,
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-ROC-2": 2,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-DEF-3": 3,
+        "M-DEV-2": 1,
+        "M-IRO-2": 1,
+        "Y-LMD-4": 15000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-SUG-2": 3,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-ROC-3": 3,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-SUG-3": 3,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-DEF-4": 5,
+        "M-MAN-3": 14,
+        "M-DEV-3": 7,
+        "Y-LMD-4": 60000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-EST-4": 1,
+        "M-ROC-3": 5,
+        "K-BLU-4": 2
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-KET-4": 2,
+        "M-EST-4": 2,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 2,
+        "M-DEV-4": 2,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-IRO-4": 1,
+        "M-SUG-3": 4,
+        "K-BLU-4": 2
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-DEV-4": 1,
+        "M-IRO-4": 2,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-KET-5": 2,
+        "M-EST-4": 2,
+        "K-BLU-4": 6
+      }
+    }
+  ],
+  "name": {
+    "en": "Matterhorn",
+    "ja": "マッターホルン",
+    "ko": "마터호른",
+    "zh": "角峰"
+  },
+  "alias": [
+    "まったーほるん",
+    "jiao feng",
+    "jiaofeng"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Stamina Enhancement",
+        "ja": "肉体強化",
+        "ko": "체력 강화",
+        "zh": "体能强化"
+      }
+    },
+    {
+      "name": {
+        "en": "Cold Resistance",
+        "ja": "寒冷順化",
+        "ko": "내한 체질",
+        "zh": "抗寒体质"
+      }
+    }
+  ],
+  "kind": "DEFENDER"
+}

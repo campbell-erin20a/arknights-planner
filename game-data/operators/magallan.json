@@ -1,0 +1,206 @@
+{
+  "id": "magallan",
+  "game_id": "char_248_mgllan",
+  "stars": 6,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 5
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-IRO-1": 5,
+        "M-SUG-1": 4,
+        "K-WHI-2": 5
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-KET-2": 4,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-SUP-3": 5,
+        "M-IRO-2": 7,
+        "M-EST-2": 4,
+        "Y-LMD-4": 30000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-DEV-2": 3,
+        "M-EST-2": 3,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-GRI-3": 5,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-RMA-3": 3,
+        "M-EST-3": 5,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-SUP-5": 4,
+        "M-KET-5": 4,
+        "M-MAN-4": 6,
+        "Y-LMD-4": 180000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-RMA-4": 4,
+        "M-MAN-3": 5,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-EST-4": 4,
+        "M-ROC-4": 10,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-KET-5": 6,
+        "M-MAN-4": 6,
+        "K-BLU-4": 15
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-ROC-4": 4,
+        "M-GRI-3": 7,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-IRO-4": 4,
+        "M-SUG-4": 7,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 6,
+        "M-KET-4": 5,
+        "K-BLU-4": 15
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 8,
+      "cost": {
+        "M-SUG-4": 4,
+        "M-RMA-3": 5,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 9,
+      "cost": {
+        "M-KET-4": 4,
+        "M-EST-4": 7,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 6,
+        "M-DEV-4": 4,
+        "K-BLU-4": 15
+      }
+    }
+  ],
+  "name": {
+    "en": "Magallan",
+    "ja": "マゼラン",
+    "ko": "마젤란",
+    "zh": "麦哲伦"
+  },
+  "alias": [
+    "まぜらん",
+    "mai zhe lun",
+    "maizhelun"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "High-Efficiency Freezing Module",
+        "ja": "フリーズモジュール",
+        "ko": "고효율 냉각 모드",
+        "zh": "高效制冷模块"
+      }
+    },
+    {
+      "name": {
+        "en": "Laser Mining Module",
+        "ja": "レーザーモジュール",
+        "ko": "레이저 채굴 모드",
+        "zh": "激光开采模块"
+      }
+    },
+    {
+      "name": {
+        "en": "Armed Combat Module",
+        "ja": "アサルトモジュール",
+        "ko": "무장 타격 모드",
+        "zh": "武装打击模块"
+      }
+    }
+  ],
+  "kind": "SUPPORTER"
+}

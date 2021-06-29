@@ -1,0 +1,166 @@
+{
+  "id": "astesia",
+  "game_id": "char_274_astesi",
+  "stars": 5,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-SUG-1": 7,
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-EST-2": 3,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-GUA-3": 4,
+        "M-EST-2": 5,
+        "M-IRO-2": 3,
+        "Y-LMD-4": 20000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-IRO-2": 4,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-ROC-3": 5,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-SUG-3": 3,
+        "M-IRO-3": 3,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-GUA-5": 3,
+        "M-EST-4": 7,
+        "M-IRO-3": 14,
+        "Y-LMD-4": 120000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-EST-4": 3,
+        "M-ROC-3": 4,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-KET-4": 3,
+        "M-EST-4": 5,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 4,
+        "M-MAN-4": 3,
+        "K-BLU-4": 10
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-IRO-4": 3,
+        "M-SUG-3": 1,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-DEV-4": 2,
+        "M-IRO-4": 5,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 4,
+        "M-KOH-4": 5,
+        "K-BLU-4": 10
+      }
+    }
+  ],
+  "name": {
+    "en": "Astesia",
+    "ja": "アステシア",
+    "ko": "아스테시아",
+    "zh": "星极"
+  },
+  "alias": [
+    "あすてしあ",
+    "xing ji",
+    "xingji"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Astral Protection",
+        "ja": "星座の守護",
+        "ko": "성좌의 수호자",
+        "zh": "星座守护"
+      }
+    },
+    {
+      "name": {
+        "en": "Astral Sword",
+        "ja": "星輝剣",
+        "ko": "빛나는 별의 검",
+        "zh": "星辉剑"
+      }
+    }
+  ],
+  "kind": "GUARD"
+}

@@ -1,0 +1,38 @@
+
+interface Upgrade {
+  id: ID!
+
+  # Will probably have to remove this from the interface :c
+  # Hopefully i'll be able to leave it without putting level on Everything
+  cost: [ItemCount!]!
+}
+
+type EliteUpgrade implements Upgrade {
+  id: ID!
+  cost: [ItemCount!]!
+
+  level: Int!
+}
+
+type LevelUpgrade implements Upgrade {
+  id: ID!
+  cost(from: Int = 1): [ItemCount!]!
+
+  elite: Int!
+  level: Int!
+}
+
+type SkillUpgrade implements Upgrade {
+  id: ID!
+  cost: [ItemCount!]!
+
+  level: Int!
+}
+
+type MasteryUpgrade implements Upgrade {
+  id: ID!
+  cost: [ItemCount!]!
+
+  skill: Skill!
+  level: Int!
+}

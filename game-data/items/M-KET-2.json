@@ -1,0 +1,30 @@
+{
+  "id": "M-KET-2",
+  "game_id": 30052,
+  "tier": 2,
+  "global": true,
+  "kind": "KETON",
+  "sort": 2302,
+  "name": {
+    "en": "Polyketon",
+    "ja": "初級アケトン",
+    "ko": "아케톤 응집체",
+    "zh": "酮凝集"
+  },
+  "alias": [
+    "初級あけとん",
+    "tong ning ji",
+    "tongningji"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 1,
+      "morale": 1,
+      "cost": {
+        "Y-LMD-4": 100,
+        "M-KET-1": 3
+      }
+    }
+  ]
+}

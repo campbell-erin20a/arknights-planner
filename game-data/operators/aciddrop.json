@@ -1,0 +1,156 @@
+{
+  "id": "aciddrop",
+  "game_id": "char_366_acdrop",
+  "stars": 4,
+  "global": false,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-ROC-1": 5,
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-SUG-2": 2,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-SNI-3": 3,
+        "M-DEV-2": 1,
+        "M-ROC-2": 1,
+        "Y-LMD-4": 15000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-EST-2": 3,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-KET-3": 2,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-GEL-3": 2,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-SNI-4": 5,
+        "M-RMA-3": 10,
+        "M-DEV-3": 8,
+        "Y-LMD-4": 60000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-GRI-4": 1,
+        "M-KOH-3": 4,
+        "K-BLU-4": 2
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-KET-4": 2,
+        "M-GEL-4": 2,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 2,
+        "M-GEL-4": 2,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-KOH-4": 1,
+        "M-KET-3": 4,
+        "K-BLU-4": 2
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-ALL-4": 2,
+        "M-RMA-4": 2,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 2,
+        "M-ROC-4": 2,
+        "K-BLU-4": 6
+      }
+    }
+  ],
+  "name": {
+    "en": "Aciddrop",
+    "zh": "酸糖"
+  },
+  "alias": [
+    "suan tang",
+    "suantang"
+  ],
+  "skills": [
+    {
+      "name": {
+        "zh": "花式点射"
+      }
+    },
+    {
+      "name": {
+        "zh": "扳机时刻"
+      }
+    }
+  ],
+  "kind": "SNIPER"
+}

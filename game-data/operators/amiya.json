@@ -1,0 +1,365 @@
+[
+  {
+    "id": "amiya",
+    "game_id": "char_002_amiya",
+    "stars": 5,
+    "global": true,
+    "upgrades": [
+      {
+        "kind": "SKILL",
+        "level": 2,
+        "cost": {
+          "K-WHI-2": 4
+        }
+      },
+      {
+        "kind": "SKILL",
+        "level": 3,
+        "cost": {
+          "M-DEV-1": 4,
+          "K-WHI-2": 4
+        }
+      },
+      {
+        "kind": "SKILL",
+        "level": 4,
+        "cost": {
+          "M-ROC-2": 4,
+          "K-GRE-3": 6
+        }
+      },
+      {
+        "kind": "ELITE",
+        "level": 1,
+        "cost": {
+          "C-CAS-3": 4,
+          "M-DEV-2": 4,
+          "M-IRO-2": 4,
+          "Y-LMD-4": 20000
+        }
+      },
+      {
+        "kind": "SKILL",
+        "level": 5,
+        "cost": {
+          "M-SUG-2": 5,
+          "K-GRE-3": 6
+        }
+      },
+      {
+        "kind": "SKILL",
+        "level": 6,
+        "cost": {
+          "M-KET-3": 4,
+          "K-GRE-3": 6
+        }
+      },
+      {
+        "kind": "SKILL",
+        "level": 7,
+        "cost": {
+          "M-DEV-3": 2,
+          "M-SUG-3": 3,
+          "K-BLU-4": 6
+        }
+      },
+      {
+        "kind": "ELITE",
+        "level": 2,
+        "cost": {
+          "C-CAS-5": 3,
+          "M-ROC-4": 10,
+          "M-KOH-3": 10,
+          "Y-LMD-4": 120000
+        }
+      },
+      {
+        "kind": "MASTERY",
+        "index": 0,
+        "level": 8,
+        "cost": {
+          "M-KOH-4": 3,
+          "M-KET-3": 5,
+          "K-BLU-4": 5
+        }
+      },
+      {
+        "kind": "MASTERY",
+        "index": 0,
+        "level": 9,
+        "cost": {
+          "M-GRI-4": 3,
+          "M-KOH-4": 6,
+          "K-BLU-4": 6
+        }
+      },
+      {
+        "kind": "MASTERY",
+        "index": 0,
+        "level": 10,
+        "cost": {
+          "M-RMA-5": 4,
+          "M-ROC-4": 5,
+          "K-BLU-4": 10
+        }
+      },
+      {
+        "kind": "MASTERY",
+        "index": 1,
+        "level": 8,
+        "cost": {
+          "M-MAN-4": 3,
+          "M-DEV-3": 2,
+          "K-BLU-4": 5
+        }
+      },
+      {
+        "kind": "MASTERY",
+        "index": 1,
+        "level": 9,
+        "cost": {
+          "M-RMA-4": 3,
+          "M-MAN-4": 5,
+          "K-BLU-4": 6
+        }
+      },
+      {
+        "kind": "MASTERY",
+        "index": 1,
+        "level": 10,
+        "cost": {
+          "M-KET-5": 4,
+          "M-KOH-4": 5,
+          "K-BLU-4": 10
+        }
+      },
+      {
+        "kind": "MASTERY",
+        "index": 2,
+        "level": 8,
+        "cost": {
+          "M-GRI-4": 3,
+          "M-KOH-3": 4,
+          "K-BLU-4": 5
+        }
+      },
+      {
+        "kind": "MASTERY",
+        "index": 2,
+        "level": 9,
+        "cost": {
+          "M-ROC-4": 3,
+          "M-GRI-4": 6,
+          "K-BLU-4": 6
+        }
+      },
+      {
+        "kind": "MASTERY",
+        "index": 2,
+        "level": 10,
+        "cost": {
+          "M-DEV-5": 4,
+          "M-EST-4": 4,
+          "K-BLU-4": 10
+        }
+      }
+    ],
+    "name": {
+      "en": "Amiya",
+      "ja": "アーミヤ",
+      "ko": "아미야",
+      "zh": "阿米娅"
+    },
+    "alias": [
+      "あーみや",
+      "a mi ya",
+      "amiya"
+    ],
+    "skills": [
+      {
+        "name": {
+          "en": "Tactical Chant γ",
+          "ja": "戦術詠唱γ",
+          "ko": "전술영창γ",
+          "zh": "战术咏唱·γ型"
+        }
+      },
+      {
+        "name": {
+          "en": "Spirit Burst",
+          "ja": "ソウルブースト",
+          "ko": "스피릿 버스트",
+          "zh": "精神爆发"
+        }
+      },
+      {
+        "name": {
+          "en": "Chimera",
+          "ja": "キメラ",
+          "ko": "키메라",
+          "zh": "奇美拉"
+        }
+      }
+    ],
+    "kind": "CASTER"
+  },
+  {
+    "id": "amiya_guard",
+    "game_id": "char_1001_amiya2",
+    "stars": 5,
+    "global": false,
+    "upgrades": [
+      {
+        "kind": "SKILL",
+        "level": 2,
+        "cost": {
+          "K-WHI-2": 4
+        }
+      },
+      {
+        "kind": "SKILL",
+        "level": 3,
+        "cost": {
+          "M-DEV-1": 4,
+          "K-WHI-2": 4
+        }
+      },
+      {
+        "kind": "SKILL",
+        "level": 4,
+        "cost": {
+          "M-ROC-2": 4,
+          "K-GRE-3": 6
+        }
+      },
+      {
+        "kind": "ELITE",
+        "level": 1,
+        "cost": {
+          "C-CAS-3": 3,
+          "M-DEV-2": 4,
+          "M-IRO-2": 4,
+          "Y-LMD-4": 20000,
+          "C-GUA-3": 4
+        }
+      },
+      {
+        "kind": "SKILL",
+        "level": 5,
+        "cost": {
+          "M-SUG-2": 5,
+          "K-GRE-3": 6
+        }
+      },
+      {
+        "kind": "SKILL",
+        "level": 6,
+        "cost": {
+          "M-KET-3": 4,
+          "K-GRE-3": 6
+        }
+      },
+      {
+        "kind": "SKILL",
+        "level": 7,
+        "cost": {
+          "M-DEV-3": 2,
+          "M-SUG-3": 3,
+          "K-BLU-4": 6
+        }
+      },
+      {
+        "kind": "ELITE",
+        "level": 2,
+        "cost": {
+          "C-CAS-5": 3,
+          "M-ROC-4": 10,
+          "M-KOH-3": 10,
+          "Y-LMD-4": 120000,
+          "C-GUA-5": 3
+        }
+      },
+      {
+        "kind": "MASTERY",
+        "index": 0,
+        "level": 8,
+        "cost": {
+          "M-CRY-4": 4,
+          "M-GEL-3": 4,
+          "K-BLU-4": 5
+        }
+      },
+      {
+        "kind": "MASTERY",
+        "index": 0,
+        "level": 9,
+        "cost": {
+          "M-ALL-4": 4,
+          "M-RMA-4": 5,
+          "K-BLU-4": 6
+        }
+      },
+      {
+        "kind": "MASTERY",
+        "index": 0,
+        "level": 10,
+        "cost": {
+          "M-CRY-5": 4,
+          "M-KOH-4": 4,
+          "K-BLU-4": 10
+        }
+      },
+      {
+        "kind": "MASTERY",
+        "index": 1,
+        "level": 8,
+        "cost": {
+          "M-KET-4": 4,
+          "M-GEL-3": 4,
+          "K-BLU-4": 5
+        }
+      },
+      {
+        "kind": "MASTERY",
+        "index": 1,
+        "level": 9,
+        "cost": {
+          "M-CRY-4": 4,
+          "M-GEL-4": 5,
+          "K-BLU-4": 6
+        }
+      },
+      {
+        "kind": "MASTERY",
+        "index": 1,
+        "level": 10,
+        "cost": {
+          "M-CRY-5": 4,
+          "M-DEV-4": 4,
+          "K-BLU-4": 10
+        }
+      }
+    ],
+    "name": {
+      "en": "Amiya",
+      "zh": "升变阿米娅"
+    },
+    "alias": [
+      "sheng bian a mi ya",
+      "shengbianamiya"
+    ],
+    "skills": [
+      {
+        "name": {
+          "zh": "影霄·奔夜"
+        }
+      },
+      {
+        "name": {
+          "zh": "影霄·绝影"
+        }
+      }
+    ],
+    "kind": "GUARD"
+  }
+]

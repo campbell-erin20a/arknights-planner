@@ -1,0 +1,16 @@
+{
+  "id": "M-RMA-3",
+  "game_id": 30103,
+  "tier": 3,
+  "global": true,
+  "kind": "RMA",
+  "sort": 1701,
+  "name": {
+    "en": "RMA70-12",
+    "ja": "RMA70-12",
+    "ko": "RMA70-12",
+    "zh": "RMA70-12"
+  },
+  "alias": [],
+  "producers": []
+}

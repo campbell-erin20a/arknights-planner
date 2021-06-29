@@ -1,0 +1,84 @@
+{
+  "id": "midnight",
+  "game_id": "char_283_midn",
+  "stars": 3,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 1
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-IRO-1": 1,
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-KET-2": 1,
+        "K-GRE-3": 1
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "Y-LMD-4": 10000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-DEV-2": 1,
+        "K-GRE-3": 1
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-GRI-3": 1,
+        "K-GRE-3": 1
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-RMA-3": 1,
+        "K-BLU-4": 2
+      }
+    }
+  ],
+  "name": {
+    "en": "Midnight",
+    "ja": "ミッドナイト",
+    "ko": "미드나이트",
+    "zh": "月见夜"
+  },
+  "alias": [
+    "みっどないと",
+    "yue jian ye",
+    "yuejianye"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Enchant Weapon α",
+        "ja": "エンチャントα",
+        "ko": "무기 인챈트α",
+        "zh": "武器附魔·α型"
+      }
+    }
+  ],
+  "kind": "GUARD"
+}

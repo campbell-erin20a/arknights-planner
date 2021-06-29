@@ -1,0 +1,2094 @@
+{
+  "M-D32-5": {
+    "id": "M-D32-5",
+    "game_id": 30135,
+    "tier": 5,
+    "global": true,
+    "type": "Rare",
+    "en_US": {
+      "name": "D32 Steel"
+    },
+    "ja_JP": {
+      "name": "D32鋼"
+    },
+    "ko_KR": {
+      "name": "D32강"
+    },
+    "zh_CN": {
+      "name": "D32钢",
+      "alias": [
+        "D32 gang",
+        "D32gang"
+      ]
+    },
+    "zh_TW": {
+      "name": "D32鋼"
+    },
+    "sort": 1200
+  },
+  "M-BIP-5": {
+    "id": "M-BIP-5",
+    "game_id": 30125,
+    "tier": 5,
+    "global": true,
+    "type": "Rare",
+    "en_US": {
+      "name": "Bipolar Nanoflake"
+    },
+    "ja_JP": {
+      "name": "ナノフレーク",
+      "alias": [
+        "なのふれーく"
+      ]
+    },
+    "ko_KR": {
+      "name": "바이폴라 나노플레이크 칩"
+    },
+    "zh_CN": {
+      "name": "双极纳米片",
+      "alias": [
+        "shuang ji na mi pian",
+        "shuangjinamipian"
+      ]
+    },
+    "zh_TW": {
+      "name": "雙極納米片"
+    },
+    "sort": 1201
+  },
+  "M-POL-5": {
+    "id": "M-POL-5",
+    "game_id": 30115,
+    "tier": 5,
+    "global": true,
+    "type": "Rare",
+    "en_US": {
+      "name": "Polymerization Preparation"
+    },
+    "ja_JP": {
+      "name": "融合剤"
+    },
+    "ko_KR": {
+      "name": "중합제"
+    },
+    "zh_CN": {
+      "name": "聚合剂",
+      "alias": [
+        "ju he ji",
+        "juheji"
+      ]
+    },
+    "zh_TW": {
+      "name": "聚合劑"
+    },
+    "sort": 1202
+  },
+  "M-CRY-5": {
+    "id": "M-CRY-5",
+    "game_id": 30145,
+    "tier": 5,
+    "global": false,
+    "type": "Rare",
+    "zh_CN": {
+      "name": "晶体电子单元",
+      "alias": [
+        "jing ti dian zi dan yuan",
+        "jingtidianzidanyuan"
+      ]
+    },
+    "sort": 2500
+  },
+  "M-KOH-4": {
+    "id": "M-KOH-4",
+    "game_id": 30074,
+    "tier": 4,
+    "global": true,
+    "type": "Kohl",
+    "en_US": {
+      "name": "White Horse Kohl"
+    },
+    "ja_JP": {
+      "name": "上級合成コール",
+      "alias": [
+        "上級合成こーる"
+      ]
+    },
+    "ko_KR": {
+      "name": "화이트 호스 콜"
+    },
+    "zh_CN": {
+      "name": "白马醇",
+      "alias": [
+        "bai ma chun",
+        "baimachun"
+      ]
+    },
+    "zh_TW": {
+      "name": "白馬醇"
+    },
+    "sort": 1300
+  },
+  "M-KOH-3": {
+    "id": "M-KOH-3",
+    "game_id": 30073,
+    "tier": 3,
+    "global": true,
+    "type": "Kohl",
+    "en_US": {
+      "name": "Loxic Kohl"
+    },
+    "ja_JP": {
+      "name": "合成コール",
+      "alias": [
+        "合成こーる"
+      ]
+    },
+    "ko_KR": {
+      "name": "로식 콜"
+    },
+    "zh_CN": {
+      "name": "扭转醇",
+      "alias": [
+        "niu zhuan chun",
+        "niuzhuanchun"
+      ]
+    },
+    "zh_TW": {
+      "name": "扭轉醇"
+    },
+    "sort": 1301
+  },
+  "M-MAN-4": {
+    "id": "M-MAN-4",
+    "game_id": 30084,
+    "tier": 4,
+    "global": true,
+    "type": "Manganese",
+    "en_US": {
+      "name": "Manganese Trihydrate"
+    },
+    "ja_JP": {
+      "name": "上級マンガン",
+      "alias": [
+        "上級まんがん"
+      ]
+    },
+    "ko_KR": {
+      "name": "망간 중합체"
+    },
+    "zh_CN": {
+      "name": "三水锰矿",
+      "alias": [
+        "san shui meng kuang",
+        "sanshuimengkuang"
+      ]
+    },
+    "zh_TW": {
+      "name": "三水錳礦"
+    },
+    "sort": 1500
+  },
+  "M-MAN-3": {
+    "id": "M-MAN-3",
+    "game_id": 30083,
+    "tier": 3,
+    "global": true,
+    "type": "Manganese",
+    "en_US": {
+      "name": "Manganese Ore"
+    },
+    "ja_JP": {
+      "name": "マンガン",
+      "alias": [
+        "まんがん"
+      ]
+    },
+    "ko_KR": {
+      "name": "망간 광석"
+    },
+    "zh_CN": {
+      "name": "轻锰矿",
+      "alias": [
+        "qing meng kuang",
+        "qingmengkuang"
+      ]
+    },
+    "zh_TW": {
+      "name": "輕錳礦"
+    },
+    "sort": 1501
+  },
+  "M-GRI-4": {
+    "id": "M-GRI-4",
+    "game_id": 30094,
+    "tier": 4,
+    "global": true,
+    "type": "Grindstone",
+    "en_US": {
+      "name": "Grindstone Pentahydrate"
+    },
+    "ja_JP": {
+      "name": "上級砥石"
+    },
+    "ko_KR": {
+      "name": "고급연마석"
+    },
+    "zh_CN": {
+      "name": "五水研磨石",
+      "alias": [
+        "wu shui yan mo shi",
+        "wushuiyanmoshi"
+      ]
+    },
+    "zh_TW": {
+      "name": "五水研磨石"
+    },
+    "sort": 1400
+  },
+  "M-GRI-3": {
+    "id": "M-GRI-3",
+    "game_id": 30093,
+    "tier": 3,
+    "global": true,
+    "type": "Grindstone",
+    "en_US": {
+      "name": "Grindstone"
+    },
+    "ja_JP": {
+      "name": "砥石"
+    },
+    "ko_KR": {
+      "name": "연마석"
+    },
+    "zh_CN": {
+      "name": "研磨石",
+      "alias": [
+        "yan mo shi",
+        "yanmoshi"
+      ]
+    },
+    "zh_TW": {
+      "name": "研磨石"
+    },
+    "sort": 1401
+  },
+  "M-RMA-4": {
+    "id": "M-RMA-4",
+    "game_id": 30104,
+    "tier": 4,
+    "global": true,
+    "type": "RMA",
+    "en_US": {
+      "name": "RMA70-24"
+    },
+    "ja_JP": {
+      "name": "RMA70-24"
+    },
+    "ko_KR": {
+      "name": "RMA70-24"
+    },
+    "zh_CN": {
+      "name": "RMA70-24"
+    },
+    "zh_TW": {
+      "name": "RMA70-24"
+    },
+    "sort": 1600
+  },
+  "M-RMA-3": {
+    "id": "M-RMA-3",
+    "game_id": 30103,
+    "tier": 3,
+    "global": true,
+    "type": "RMA",
+    "en_US": {
+      "name": "RMA70-12"
+    },
+    "ja_JP": {
+      "name": "RMA70-12"
+    },
+    "ko_KR": {
+      "name": "RMA70-12"
+    },
+    "zh_CN": {
+      "name": "RMA70-12"
+    },
+    "zh_TW": {
+      "name": "RMA70-12"
+    },
+    "sort": 1601
+  },
+  "M-ROC-4": {
+    "id": "M-ROC-4",
+    "game_id": 30014,
+    "tier": 4,
+    "global": true,
+    "type": "Rock",
+    "en_US": {
+      "name": "Orirock Concentration"
+    },
+    "ja_JP": {
+      "name": "上級源岩"
+    },
+    "ko_KR": {
+      "name": "정제 원암"
+    },
+    "zh_CN": {
+      "name": "提纯源岩",
+      "alias": [
+        "ti chun yuan yan",
+        "tichunyuanyan"
+      ]
+    },
+    "zh_TW": {
+      "name": "提純源岩"
+    },
+    "sort": 1700
+  },
+  "M-ROC-3": {
+    "id": "M-ROC-3",
+    "game_id": 30013,
+    "tier": 3,
+    "global": true,
+    "type": "Rock",
+    "en_US": {
+      "name": "Orirock Cluster"
+    },
+    "ja_JP": {
+      "name": "中級源岩"
+    },
+    "ko_KR": {
+      "name": "원암 큐브 번들"
+    },
+    "zh_CN": {
+      "name": "固源岩组",
+      "alias": [
+        "gu yuan yan zu",
+        "guyuanyanzu"
+      ]
+    },
+    "zh_TW": {
+      "name": "固源岩組"
+    },
+    "sort": 1701
+  },
+  "M-ROC-2": {
+    "id": "M-ROC-2",
+    "game_id": 30012,
+    "tier": 2,
+    "global": true,
+    "type": "Rock",
+    "en_US": {
+      "name": "Orirock Cube"
+    },
+    "ja_JP": {
+      "name": "初級源岩"
+    },
+    "ko_KR": {
+      "name": "원암 큐브"
+    },
+    "zh_CN": {
+      "name": "固源岩",
+      "alias": [
+        "gu yuan yan",
+        "guyuanyan"
+      ]
+    },
+    "zh_TW": {
+      "name": "固源岩"
+    },
+    "sort": 1702
+  },
+  "M-ROC-1": {
+    "id": "M-ROC-1",
+    "game_id": 30011,
+    "tier": 1,
+    "global": true,
+    "type": "Rock",
+    "en_US": {
+      "name": "Orirock"
+    },
+    "ja_JP": {
+      "name": "源岩鉱"
+    },
+    "ko_KR": {
+      "name": "원암"
+    },
+    "zh_CN": {
+      "name": "源岩",
+      "alias": [
+        "yuan yan",
+        "yuanyan"
+      ]
+    },
+    "zh_TW": {
+      "name": "源岩"
+    },
+    "sort": 1703
+  },
+  "M-DEV-4": {
+    "id": "M-DEV-4",
+    "game_id": 30064,
+    "tier": 4,
+    "global": true,
+    "type": "Device",
+    "en_US": {
+      "name": "Optimized Device"
+    },
+    "ja_JP": {
+      "name": "上級装置"
+    },
+    "ko_KR": {
+      "name": "개량 장치"
+    },
+    "zh_CN": {
+      "name": "改量装置",
+      "alias": [
+        "gai liang zhuang zhi",
+        "gailiangzhuangzhi"
+      ]
+    },
+    "zh_TW": {
+      "name": "改量裝置"
+    },
+    "sort": 1800
+  },
+  "M-DEV-3": {
+    "id": "M-DEV-3",
+    "game_id": 30063,
+    "tier": 3,
+    "global": true,
+    "type": "Device",
+    "en_US": {
+      "name": "Integrated Device"
+    },
+    "ja_JP": {
+      "name": "中級装置"
+    },
+    "ko_KR": {
+      "name": "리뉴얼 장치"
+    },
+    "zh_CN": {
+      "name": "全新装置",
+      "alias": [
+        "quan xin zhuang zhi",
+        "quanxinzhuangzhi"
+      ]
+    },
+    "zh_TW": {
+      "name": "全新裝置"
+    },
+    "sort": 1801
+  },
+  "M-DEV-2": {
+    "id": "M-DEV-2",
+    "game_id": 30062,
+    "tier": 2,
+    "global": true,
+    "type": "Device",
+    "en_US": {
+      "name": "Device"
+    },
+    "ja_JP": {
+      "name": "初級装置"
+    },
+    "ko_KR": {
+      "name": "장치"
+    },
+    "zh_CN": {
+      "name": "装置",
+      "alias": [
+        "zhuang zhi",
+        "zhuangzhi"
+      ]
+    },
+    "zh_TW": {
+      "name": "裝置"
+    },
+    "sort": 1802
+  },
+  "M-DEV-1": {
+    "id": "M-DEV-1",
+    "game_id": 30061,
+    "tier": 1,
+    "global": true,
+    "type": "Device",
+    "en_US": {
+      "name": "Damaged Device"
+    },
+    "ja_JP": {
+      "name": "破損装置"
+    },
+    "ko_KR": {
+      "name": "파손된 장치"
+    },
+    "zh_CN": {
+      "name": "破损装置",
+      "alias": [
+        "po sun zhuang zhi",
+        "posunzhuangzhi"
+      ]
+    },
+    "zh_TW": {
+      "name": "破損裝置"
+    },
+    "sort": 1803
+  },
+  "M-EST-4": {
+    "id": "M-EST-4",
+    "game_id": 30034,
+    "tier": 4,
+    "global": true,
+    "type": "Ester",
+    "en_US": {
+      "name": "Polyester Lump"
+    },
+    "ja_JP": {
+      "name": "上級エステル",
+      "alias": [
+        "上級えすてる"
+      ]
+    },
+    "ko_KR": {
+      "name": "폴리에스테르 팩"
+    },
+    "zh_CN": {
+      "name": "聚酸酯块",
+      "alias": [
+        "ju suan zhi kuai",
+        "jusuanzhikuai"
+      ]
+    },
+    "zh_TW": {
+      "name": "聚酸酯塊"
+    },
+    "sort": 1900
+  },
+  "M-EST-3": {
+    "id": "M-EST-3",
+    "game_id": 30033,
+    "tier": 3,
+    "global": true,
+    "type": "Ester",
+    "en_US": {
+      "name": "Polyester Pack"
+    },
+    "ja_JP": {
+      "name": "中級エステル",
+      "alias": [
+        "中級えすてる"
+      ]
+    },
+    "ko_KR": {
+      "name": "폴리에스테르 번들"
+    },
+    "zh_CN": {
+      "name": "聚酸酯组",
+      "alias": [
+        "ju suan zhi zu",
+        "jusuanzhizu"
+      ]
+    },
+    "zh_TW": {
+      "name": "聚酸酯組"
+    },
+    "sort": 1901
+  },
+  "M-EST-2": {
+    "id": "M-EST-2",
+    "game_id": 30032,
+    "tier": 2,
+    "global": true,
+    "type": "Ester",
+    "en_US": {
+      "name": "Polyester"
+    },
+    "ja_JP": {
+      "name": "初級エステル",
+      "alias": [
+        "初級えすてる"
+      ]
+    },
+    "ko_KR": {
+      "name": "폴리에스테르"
+    },
+    "zh_CN": {
+      "name": "聚酸酯",
+      "alias": [
+        "ju suan zhi",
+        "jusuanzhi"
+      ]
+    },
+    "zh_TW": {
+      "name": "聚酸酯"
+    },
+    "sort": 1902
+  },
+  "M-EST-1": {
+    "id": "M-EST-1",
+    "game_id": 30031,
+    "tier": 1,
+    "global": true,
+    "type": "Ester",
+    "en_US": {
+      "name": "Ester"
+    },
+    "ja_JP": {
+      "name": "エステル原料",
+      "alias": [
+        "えすてる原料"
+      ]
+    },
+    "ko_KR": {
+      "name": "에스테르 원료"
+    },
+    "zh_CN": {
+      "name": "酯原料",
+      "alias": [
+        "zhi yuan liao",
+        "zhiyuanliao"
+      ]
+    },
+    "zh_TW": {
+      "name": "酯原料"
+    },
+    "sort": 1903
+  },
+  "M-SUG-4": {
+    "id": "M-SUG-4",
+    "game_id": 30024,
+    "tier": 4,
+    "global": true,
+    "type": "Sugar",
+    "en_US": {
+      "name": "Sugar Lump"
+    },
+    "ja_JP": {
+      "name": "上級糖原"
+    },
+    "ko_KR": {
+      "name": "포도당 팩"
+    },
+    "zh_CN": {
+      "name": "糖聚块",
+      "alias": [
+        "tang ju kuai",
+        "tangjukuai"
+      ]
+    },
+    "zh_TW": {
+      "name": "糖聚塊"
+    },
+    "sort": 2000
+  },
+  "M-SUG-3": {
+    "id": "M-SUG-3",
+    "game_id": 30023,
+    "tier": 3,
+    "global": true,
+    "type": "Sugar",
+    "en_US": {
+      "name": "Sugar Pack"
+    },
+    "ja_JP": {
+      "name": "中級糖原"
+    },
+    "ko_KR": {
+      "name": "포도당 번들"
+    },
+    "zh_CN": {
+      "name": "糖组",
+      "alias": [
+        "tang zu",
+        "tangzu"
+      ]
+    },
+    "zh_TW": {
+      "name": "糖組"
+    },
+    "sort": 2001
+  },
+  "M-SUG-2": {
+    "id": "M-SUG-2",
+    "game_id": 30022,
+    "tier": 2,
+    "global": true,
+    "type": "Sugar",
+    "en_US": {
+      "name": "Sugar"
+    },
+    "ja_JP": {
+      "name": "初級糖原"
+    },
+    "ko_KR": {
+      "name": "포도당"
+    },
+    "zh_CN": {
+      "name": "糖",
+      "alias": [
+        "tang",
+        "tang"
+      ]
+    },
+    "zh_TW": {
+      "name": "糖"
+    },
+    "sort": 2002
+  },
+  "M-SUG-1": {
+    "id": "M-SUG-1",
+    "game_id": 30021,
+    "tier": 1,
+    "global": true,
+    "type": "Sugar",
+    "en_US": {
+      "name": "Sugar Substitute"
+    },
+    "ja_JP": {
+      "name": "ブドウ糖",
+      "alias": [
+        "ぶどう糖"
+      ]
+    },
+    "ko_KR": {
+      "name": "대체당"
+    },
+    "zh_CN": {
+      "name": "代糖",
+      "alias": [
+        "dai tang",
+        "daitang"
+      ]
+    },
+    "zh_TW": {
+      "name": "代糖"
+    },
+    "sort": 2003
+  },
+  "M-IRO-4": {
+    "id": "M-IRO-4",
+    "game_id": 30044,
+    "tier": 4,
+    "global": true,
+    "type": "Iron",
+    "en_US": {
+      "name": "Oriron Block"
+    },
+    "ja_JP": {
+      "name": "上級異鉄"
+    },
+    "ko_KR": {
+      "name": "이철 팩"
+    },
+    "zh_CN": {
+      "name": "异铁块",
+      "alias": [
+        "yi tie kuai",
+        "yitiekuai"
+      ]
+    },
+    "zh_TW": {
+      "name": "異鐵塊"
+    },
+    "sort": 2100
+  },
+  "M-IRO-3": {
+    "id": "M-IRO-3",
+    "game_id": 30043,
+    "tier": 3,
+    "global": true,
+    "type": "Iron",
+    "en_US": {
+      "name": "Oriron Cluster"
+    },
+    "ja_JP": {
+      "name": "中級異鉄"
+    },
+    "ko_KR": {
+      "name": "이철 번들"
+    },
+    "zh_CN": {
+      "name": "异铁组",
+      "alias": [
+        "yi tie zu",
+        "yitiezu"
+      ]
+    },
+    "zh_TW": {
+      "name": "異鐵組"
+    },
+    "sort": 2101
+  },
+  "M-IRO-2": {
+    "id": "M-IRO-2",
+    "game_id": 30042,
+    "tier": 2,
+    "global": true,
+    "type": "Iron",
+    "en_US": {
+      "name": "Oriron"
+    },
+    "ja_JP": {
+      "name": "初級異鉄"
+    },
+    "ko_KR": {
+      "name": "이철"
+    },
+    "zh_CN": {
+      "name": "异铁",
+      "alias": [
+        "yi tie",
+        "yitie"
+      ]
+    },
+    "zh_TW": {
+      "name": "異鐵"
+    },
+    "sort": 2102
+  },
+  "M-IRO-1": {
+    "id": "M-IRO-1",
+    "game_id": 30041,
+    "tier": 1,
+    "global": true,
+    "type": "Iron",
+    "en_US": {
+      "name": "Oriron Shard"
+    },
+    "ja_JP": {
+      "name": "異鉄の欠片"
+    },
+    "ko_KR": {
+      "name": "이철 조각"
+    },
+    "zh_CN": {
+      "name": "异铁碎片",
+      "alias": [
+        "yi tie sui pian",
+        "yitiesuipian"
+      ]
+    },
+    "zh_TW": {
+      "name": "異鐵碎片"
+    },
+    "sort": 2103
+  },
+  "M-KET-4": {
+    "id": "M-KET-4",
+    "game_id": 30054,
+    "tier": 4,
+    "global": true,
+    "type": "Keton",
+    "en_US": {
+      "name": "Keton Colloid"
+    },
+    "ja_JP": {
+      "name": "上級アケトン",
+      "alias": [
+        "上級あけとん"
+      ]
+    },
+    "ko_KR": {
+      "name": "아케톤 팩"
+    },
+    "zh_CN": {
+      "name": "酮阵列",
+      "alias": [
+        "tong zhen lie",
+        "tongzhenlie"
+      ]
+    },
+    "zh_TW": {
+      "name": "酮陣列"
+    },
+    "sort": 2200
+  },
+  "M-KET-3": {
+    "id": "M-KET-3",
+    "game_id": 30053,
+    "tier": 3,
+    "global": true,
+    "type": "Keton",
+    "en_US": {
+      "name": "Aketon"
+    },
+    "ja_JP": {
+      "name": "中級アケトン",
+      "alias": [
+        "中級あけとん"
+      ]
+    },
+    "ko_KR": {
+      "name": "아케톤 응집체 번들"
+    },
+    "zh_CN": {
+      "name": "酮凝集组",
+      "alias": [
+        "tong ning ji zu",
+        "tongningjizu"
+      ]
+    },
+    "zh_TW": {
+      "name": "酮凝集組"
+    },
+    "sort": 2201
+  },
+  "M-KET-2": {
+    "id": "M-KET-2",
+    "game_id": 30052,
+    "tier": 2,
+    "global": true,
+    "type": "Keton",
+    "en_US": {
+      "name": "Polyketon"
+    },
+    "ja_JP": {
+      "name": "初級アケトン",
+      "alias": [
+        "初級あけとん"
+      ]
+    },
+    "ko_KR": {
+      "name": "아케톤 응집체"
+    },
+    "zh_CN": {
+      "name": "酮凝集",
+      "alias": [
+        "tong ning ji",
+        "tongningji"
+      ]
+    },
+    "zh_TW": {
+      "name": "酮凝集"
+    },
+    "sort": 2202
+  },
+  "M-KET-1": {
+    "id": "M-KET-1",
+    "game_id": 30051,
+    "tier": 1,
+    "global": true,
+    "type": "Keton",
+    "en_US": {
+      "name": "Diketon"
+    },
+    "ja_JP": {
+      "name": "アケトン試剤",
+      "alias": [
+        "あけとん試剤"
+      ]
+    },
+    "ko_KR": {
+      "name": "디케톤"
+    },
+    "zh_CN": {
+      "name": "双酮",
+      "alias": [
+        "shuang tong",
+        "shuangtong"
+      ]
+    },
+    "zh_TW": {
+      "name": "雙酮"
+    },
+    "sort": 2203
+  },
+  "M-GEL-4": {
+    "id": "M-GEL-4",
+    "game_id": 31014,
+    "tier": 4,
+    "global": true,
+    "type": "Gel",
+    "en_US": {
+      "name": "Polymerized Gel"
+    },
+    "ja_JP": {
+      "name": "融合ゲル",
+      "alias": [
+        "融合げる"
+      ]
+    },
+    "ko_KR": {
+      "name": "중합젤"
+    },
+    "zh_CN": {
+      "name": "聚合凝胶",
+      "alias": [
+        "ju he ning jiao",
+        "juheningjiao"
+      ]
+    },
+    "zh_TW": {
+      "name": "聚合凝膠"
+    },
+    "sort": 2300
+  },
+  "M-GEL-3": {
+    "id": "M-GEL-3",
+    "game_id": 31013,
+    "tier": 3,
+    "global": true,
+    "type": "Gel",
+    "en_US": {
+      "name": "Coagulating Gel"
+    },
+    "ja_JP": {
+      "name": "人工ゲル",
+      "alias": [
+        "人工げる"
+      ]
+    },
+    "ko_KR": {
+      "name": "젤"
+    },
+    "zh_CN": {
+      "name": "凝胶",
+      "alias": [
+        "ning jiao",
+        "ningjiao"
+      ]
+    },
+    "zh_TW": {
+      "name": "凝膠"
+    },
+    "sort": 2301
+  },
+  "M-ALL-4": {
+    "id": "M-ALL-4",
+    "game_id": 31024,
+    "tier": 4,
+    "global": true,
+    "type": "Alloy",
+    "en_US": {
+      "name": "Incandescent Alloy Block"
+    },
+    "ja_JP": {
+      "name": "上級熾合金"
+    },
+    "ko_KR": {
+      "name": "열합금 팩"
+    },
+    "zh_CN": {
+      "name": "炽合金块",
+      "alias": [
+        "chi he jin kuai",
+        "chihejinkuai"
+      ]
+    },
+    "zh_TW": {
+      "name": "熾合金塊"
+    },
+    "sort": 2400
+  },
+  "M-ALL-3": {
+    "id": "M-ALL-3",
+    "game_id": 31023,
+    "tier": 3,
+    "global": true,
+    "type": "Alloy",
+    "en_US": {
+      "name": "Incandescent Alloy"
+    },
+    "ja_JP": {
+      "name": "熾合金"
+    },
+    "ko_KR": {
+      "name": "열합금"
+    },
+    "zh_CN": {
+      "name": "炽合金",
+      "alias": [
+        "chi he jin",
+        "chihejin"
+      ]
+    },
+    "zh_TW": {
+      "name": "熾合金"
+    },
+    "sort": 2401
+  },
+  "M-CRY-4": {
+    "id": "M-CRY-4",
+    "game_id": 31034,
+    "tier": 4,
+    "global": false,
+    "type": "Crystal",
+    "zh_CN": {
+      "name": "晶体电路",
+      "alias": [
+        "jing ti dian lu",
+        "jingtidianlu"
+      ]
+    },
+    "sort": 2501
+  },
+  "M-CRY-3": {
+    "id": "M-CRY-3",
+    "game_id": 31033,
+    "tier": 3,
+    "global": false,
+    "type": "Crystal",
+    "zh_CN": {
+      "name": "晶体元件",
+      "alias": [
+        "jing ti yuan jian",
+        "jingtiyuanjian"
+      ]
+    },
+    "sort": 2502
+  },
+  "K-BLU-4": {
+    "id": "K-BLU-4",
+    "game_id": 3303,
+    "tier": 4,
+    "global": true,
+    "type": "Skill",
+    "en_US": {
+      "name": "Skill Summary - 3"
+    },
+    "ja_JP": {
+      "name": "アーツ学Ⅲ",
+      "alias": [
+        "あーつ学Ⅲ"
+      ]
+    },
+    "ko_KR": {
+      "name": "스킬개론 제3권"
+    },
+    "zh_CN": {
+      "name": "技巧概要·卷3",
+      "alias": [
+        "ji qiao gai yao · juan 3",
+        "jiqiaogaiyao·juan3"
+      ]
+    },
+    "zh_TW": {
+      "name": "技巧概要·卷3"
+    },
+    "sort": 2600
+  },
+  "K-GRE-3": {
+    "id": "K-GRE-3",
+    "game_id": 3302,
+    "tier": 3,
+    "global": true,
+    "type": "Skill",
+    "en_US": {
+      "name": "Skill Summary - 2"
+    },
+    "ja_JP": {
+      "name": "アーツ学Ⅱ",
+      "alias": [
+        "あーつ学Ⅱ"
+      ]
+    },
+    "ko_KR": {
+      "name": "스킬개론 제2권"
+    },
+    "zh_CN": {
+      "name": "技巧概要·卷2",
+      "alias": [
+        "ji qiao gai yao · juan 2",
+        "jiqiaogaiyao·juan2"
+      ]
+    },
+    "zh_TW": {
+      "name": "技巧概要·卷2"
+    },
+    "sort": 2601
+  },
+  "K-WHI-2": {
+    "id": "K-WHI-2",
+    "game_id": 3301,
+    "tier": 2,
+    "global": true,
+    "type": "Skill",
+    "en_US": {
+      "name": "Skill Summary - 1"
+    },
+    "ja_JP": {
+      "name": "アーツ学Ⅰ",
+      "alias": [
+        "あーつ学Ⅰ"
+      ]
+    },
+    "ko_KR": {
+      "name": "스킬개론 제1권"
+    },
+    "zh_CN": {
+      "name": "技巧概要·卷1",
+      "alias": [
+        "ji qiao gai yao · juan 1",
+        "jiqiaogaiyao·juan1"
+      ]
+    },
+    "zh_TW": {
+      "name": "技巧概要·卷1"
+    },
+    "sort": 2602
+  },
+  "C-VAN-4": {
+    "id": "C-VAN-4",
+    "game_id": 3212,
+    "tier": 4,
+    "global": true,
+    "type": "Chip",
+    "en_US": {
+      "name": "Vanguard Chip Pack"
+    },
+    "ja_JP": {
+      "name": "中級先鋒SoC"
+    },
+    "ko_KR": {
+      "name": "뱅가드 칩셋"
+    },
+    "zh_CN": {
+      "name": "先锋芯片组",
+      "alias": [
+        "xian feng xin pian zu",
+        "xianfengxinpianzu"
+      ]
+    },
+    "zh_TW": {
+      "name": "先鋒晶片組"
+    },
+    "sort": 2702
+  },
+  "C-VAN-5": {
+    "id": "C-VAN-5",
+    "game_id": 3213,
+    "tier": 5,
+    "global": true,
+    "type": "Chip",
+    "en_US": {
+      "name": "Vanguard Dualchip"
+    },
+    "ja_JP": {
+      "name": "上級先鋒SoC"
+    },
+    "ko_KR": {
+      "name": "뱅가드 듀얼 칩"
+    },
+    "zh_CN": {
+      "name": "先锋双芯片",
+      "alias": [
+        "xian feng shuang xin pian",
+        "xianfengshuangxinpian"
+      ]
+    },
+    "zh_TW": {
+      "name": "先鋒雙晶片"
+    },
+    "sort": 2701
+  },
+  "C-VAN-3": {
+    "id": "C-VAN-3",
+    "game_id": 3211,
+    "tier": 3,
+    "global": true,
+    "type": "Chip",
+    "en_US": {
+      "name": "Vanguard Chip"
+    },
+    "ja_JP": {
+      "name": "初級先鋒SoC"
+    },
+    "ko_KR": {
+      "name": "뱅가드 칩"
+    },
+    "zh_CN": {
+      "name": "先锋芯片",
+      "alias": [
+        "xian feng xin pian",
+        "xianfengxinpian"
+      ]
+    },
+    "zh_TW": {
+      "name": "先鋒晶片"
+    },
+    "sort": 2703
+  },
+  "C-GUA-5": {
+    "id": "C-GUA-5",
+    "game_id": 3223,
+    "tier": 5,
+    "global": true,
+    "type": "Chip",
+    "en_US": {
+      "name": "Guard Dualchip"
+    },
+    "ja_JP": {
+      "name": "上級前衛SoC"
+    },
+    "ko_KR": {
+      "name": "가드 듀얼 칩"
+    },
+    "zh_CN": {
+      "name": "近卫双芯片",
+      "alias": [
+        "jin wei shuang xin pian",
+        "jinweishuangxinpian"
+      ]
+    },
+    "zh_TW": {
+      "name": "近衛雙晶片"
+    },
+    "sort": 2704
+  },
+  "C-GUA-4": {
+    "id": "C-GUA-4",
+    "game_id": 3222,
+    "tier": 4,
+    "global": true,
+    "type": "Chip",
+    "en_US": {
+      "name": "Guard Chip Pack"
+    },
+    "ja_JP": {
+      "name": "中級前衛SoC"
+    },
+    "ko_KR": {
+      "name": "가드 칩셋"
+    },
+    "zh_CN": {
+      "name": "近卫芯片组",
+      "alias": [
+        "jin wei xin pian zu",
+        "jinweixinpianzu"
+      ]
+    },
+    "zh_TW": {
+      "name": "近衛晶片組"
+    },
+    "sort": 2705
+  },
+  "C-GUA-3": {
+    "id": "C-GUA-3",
+    "game_id": 3221,
+    "tier": 3,
+    "global": true,
+    "type": "Chip",
+    "en_US": {
+      "name": "Guard Chip"
+    },
+    "ja_JP": {
+      "name": "初級前衛SoC"
+    },
+    "ko_KR": {
+      "name": "가드 칩"
+    },
+    "zh_CN": {
+      "name": "近卫芯片",
+      "alias": [
+        "jin wei xin pian",
+        "jinweixinpian"
+      ]
+    },
+    "zh_TW": {
+      "name": "近衛晶片"
+    },
+    "sort": 2706
+  },
+  "C-DEF-5": {
+    "id": "C-DEF-5",
+    "game_id": 3233,
+    "tier": 5,
+    "global": true,
+    "type": "Chip",
+    "en_US": {
+      "name": "Defender Dualchip"
+    },
+    "ja_JP": {
+      "name": "上級重装SoC"
+    },
+    "ko_KR": {
+      "name": "디펜더 듀얼 칩"
+    },
+    "zh_CN": {
+      "name": "重装双芯片",
+      "alias": [
+        "zhong zhuang shuang xin pian",
+        "zhongzhuangshuangxinpian"
+      ]
+    },
+    "zh_TW": {
+      "name": "重裝雙晶片"
+    },
+    "sort": 2707
+  },
+  "C-DEF-4": {
+    "id": "C-DEF-4",
+    "game_id": 3232,
+    "tier": 4,
+    "global": true,
+    "type": "Chip",
+    "en_US": {
+      "name": "Defender Chip Pack"
+    },
+    "ja_JP": {
+      "name": "中級重装SoC"
+    },
+    "ko_KR": {
+      "name": "디펜더 칩셋"
+    },
+    "zh_CN": {
+      "name": "重装芯片组",
+      "alias": [
+        "zhong zhuang xin pian zu",
+        "zhongzhuangxinpianzu"
+      ]
+    },
+    "zh_TW": {
+      "name": "重裝晶片組"
+    },
+    "sort": 2708
+  },
+  "C-DEF-3": {
+    "id": "C-DEF-3",
+    "game_id": 3231,
+    "tier": 3,
+    "global": true,
+    "type": "Chip",
+    "en_US": {
+      "name": "Defender Chip"
+    },
+    "ja_JP": {
+      "name": "初級重装SoC"
+    },
+    "ko_KR": {
+      "name": "디펜더 칩"
+    },
+    "zh_CN": {
+      "name": "重装芯片",
+      "alias": [
+        "zhong zhuang xin pian",
+        "zhongzhuangxinpian"
+      ]
+    },
+    "zh_TW": {
+      "name": "重裝晶片"
+    },
+    "sort": 2709
+  },
+  "C-SNI-5": {
+    "id": "C-SNI-5",
+    "game_id": 3243,
+    "tier": 5,
+    "global": true,
+    "type": "Chip",
+    "en_US": {
+      "name": "Sniper Dualchip"
+    },
+    "ja_JP": {
+      "name": "上級狙撃SoC"
+    },
+    "ko_KR": {
+      "name": "스나이퍼 듀얼 칩"
+    },
+    "zh_CN": {
+      "name": "狙击双芯片",
+      "alias": [
+        "ju ji shuang xin pian",
+        "jujishuangxinpian"
+      ]
+    },
+    "zh_TW": {
+      "name": "狙擊雙晶片"
+    },
+    "sort": 2710
+  },
+  "C-SNI-4": {
+    "id": "C-SNI-4",
+    "game_id": 3242,
+    "tier": 4,
+    "global": true,
+    "type": "Chip",
+    "en_US": {
+      "name": "Sniper Chip Pack"
+    },
+    "ja_JP": {
+      "name": "中級狙撃SoC"
+    },
+    "ko_KR": {
+      "name": "스나이퍼 칩셋"
+    },
+    "zh_CN": {
+      "name": "狙击芯片组",
+      "alias": [
+        "ju ji xin pian zu",
+        "jujixinpianzu"
+      ]
+    },
+    "zh_TW": {
+      "name": "狙擊晶片組"
+    },
+    "sort": 2711
+  },
+  "C-SNI-3": {
+    "id": "C-SNI-3",
+    "game_id": 3241,
+    "tier": 3,
+    "global": true,
+    "type": "Chip",
+    "en_US": {
+      "name": "Sniper Chip"
+    },
+    "ja_JP": {
+      "name": "初級狙撃SoC"
+    },
+    "ko_KR": {
+      "name": "스나이퍼 칩"
+    },
+    "zh_CN": {
+      "name": "狙击芯片",
+      "alias": [
+        "ju ji xin pian",
+        "jujixinpian"
+      ]
+    },
+    "zh_TW": {
+      "name": "狙擊晶片"
+    },
+    "sort": 2712
+  },
+  "C-CAS-5": {
+    "id": "C-CAS-5",
+    "game_id": 3253,
+    "tier": 5,
+    "global": true,
+    "type": "Chip",
+    "en_US": {
+      "name": "Caster Dualchip"
+    },
+    "ja_JP": {
+      "name": "上級術師SoC"
+    },
+    "ko_KR": {
+      "name": "캐스터 듀얼 칩"
+    },
+    "zh_CN": {
+      "name": "术师双芯片",
+      "alias": [
+        "shu shi shuang xin pian",
+        "shushishuangxinpian"
+      ]
+    },
+    "zh_TW": {
+      "name": "術師雙晶片"
+    },
+    "sort": 2713
+  },
+  "C-CAS-4": {
+    "id": "C-CAS-4",
+    "game_id": 3252,
+    "tier": 4,
+    "global": true,
+    "type": "Chip",
+    "en_US": {
+      "name": "Caster Chip Pack"
+    },
+    "ja_JP": {
+      "name": "中級術師SoC"
+    },
+    "ko_KR": {
+      "name": "캐스터 칩셋"
+    },
+    "zh_CN": {
+      "name": "术师芯片组",
+      "alias": [
+        "shu shi xin pian zu",
+        "shushixinpianzu"
+      ]
+    },
+    "zh_TW": {
+      "name": "術師晶片組"
+    },
+    "sort": 2714
+  },
+  "C-CAS-3": {
+    "id": "C-CAS-3",
+    "game_id": 3251,
+    "tier": 3,
+    "global": true,
+    "type": "Chip",
+    "en_US": {
+      "name": "Caster Chip"
+    },
+    "ja_JP": {
+      "name": "初級術師SoC"
+    },
+    "ko_KR": {
+      "name": "캐스터 칩"
+    },
+    "zh_CN": {
+      "name": "术师芯片",
+      "alias": [
+        "shu shi xin pian",
+        "shushixinpian"
+      ]
+    },
+    "zh_TW": {
+      "name": "術師晶片"
+    },
+    "sort": 2715
+  },
+  "C-MED-5": {
+    "id": "C-MED-5",
+    "game_id": 3263,
+    "tier": 5,
+    "global": true,
+    "type": "Chip",
+    "en_US": {
+      "name": "Medic Dualchip"
+    },
+    "ja_JP": {
+      "name": "上級医療SoC"
+    },
+    "ko_KR": {
+      "name": "메딕 듀얼 칩"
+    },
+    "zh_CN": {
+      "name": "医疗双芯片",
+      "alias": [
+        "yi liao shuang xin pian",
+        "yiliaoshuangxinpian"
+      ]
+    },
+    "zh_TW": {
+      "name": "醫療雙晶片"
+    },
+    "sort": 2716
+  },
+  "C-MED-4": {
+    "id": "C-MED-4",
+    "game_id": 3262,
+    "tier": 4,
+    "global": true,
+    "type": "Chip",
+    "en_US": {
+      "name": "Medic Chip Pack"
+    },
+    "ja_JP": {
+      "name": "中級医療SoC"
+    },
+    "ko_KR": {
+      "name": "메딕 칩셋"
+    },
+    "zh_CN": {
+      "name": "医疗芯片组",
+      "alias": [
+        "yi liao xin pian zu",
+        "yiliaoxinpianzu"
+      ]
+    },
+    "zh_TW": {
+      "name": "醫療晶片組"
+    },
+    "sort": 2717
+  },
+  "C-MED-3": {
+    "id": "C-MED-3",
+    "game_id": 3261,
+    "tier": 3,
+    "global": true,
+    "type": "Chip",
+    "en_US": {
+      "name": "Medic Chip"
+    },
+    "ja_JP": {
+      "name": "初級医療SoC"
+    },
+    "ko_KR": {
+      "name": "메딕 칩"
+    },
+    "zh_CN": {
+      "name": "医疗芯片",
+      "alias": [
+        "yi liao xin pian",
+        "yiliaoxinpian"
+      ]
+    },
+    "zh_TW": {
+      "name": "醫療晶片"
+    },
+    "sort": 2718
+  },
+  "C-SUP-5": {
+    "id": "C-SUP-5",
+    "game_id": 3273,
+    "tier": 5,
+    "global": true,
+    "type": "Chip",
+    "en_US": {
+      "name": "Supporter Dualchip"
+    },
+    "ja_JP": {
+      "name": "上級補助SoC"
+    },
+    "ko_KR": {
+      "name": "서포터 듀얼 칩"
+    },
+    "zh_CN": {
+      "name": "辅助双芯片",
+      "alias": [
+        "fu zhu shuang xin pian",
+        "fuzhushuangxinpian"
+      ]
+    },
+    "zh_TW": {
+      "name": "輔助雙晶片"
+    },
+    "sort": 2719
+  },
+  "C-SUP-4": {
+    "id": "C-SUP-4",
+    "game_id": 3272,
+    "tier": 4,
+    "global": true,
+    "type": "Chip",
+    "en_US": {
+      "name": "Supporter Chip Pack"
+    },
+    "ja_JP": {
+      "name": "中級補助SoC"
+    },
+    "ko_KR": {
+      "name": "서포터 칩셋"
+    },
+    "zh_CN": {
+      "name": "辅助芯片组",
+      "alias": [
+        "fu zhu xin pian zu",
+        "fuzhuxinpianzu"
+      ]
+    },
+    "zh_TW": {
+      "name": "輔助晶片組"
+    },
+    "sort": 2720
+  },
+  "C-SUP-3": {
+    "id": "C-SUP-3",
+    "game_id": 3271,
+    "tier": 3,
+    "global": true,
+    "type": "Chip",
+    "en_US": {
+      "name": "Supporter Chip"
+    },
+    "ja_JP": {
+      "name": "初級補助SoC"
+    },
+    "ko_KR": {
+      "name": "서포터 칩"
+    },
+    "zh_CN": {
+      "name": "辅助芯片",
+      "alias": [
+        "fu zhu xin pian",
+        "fuzhuxinpian"
+      ]
+    },
+    "zh_TW": {
+      "name": "輔助晶片"
+    },
+    "sort": 2721
+  },
+  "C-SPE-5": {
+    "id": "C-SPE-5",
+    "game_id": 3283,
+    "tier": 5,
+    "global": true,
+    "type": "Chip",
+    "en_US": {
+      "name": "Specialist Dualchip"
+    },
+    "ja_JP": {
+      "name": "上級特殊SoC"
+    },
+    "ko_KR": {
+      "name": "스페셜리스트 듀얼 칩"
+    },
+    "zh_CN": {
+      "name": "特种双芯片",
+      "alias": [
+        "te zhong shuang xin pian",
+        "tezhongshuangxinpian"
+      ]
+    },
+    "zh_TW": {
+      "name": "特種雙晶片"
+    },
+    "sort": 2722
+  },
+  "C-SPE-4": {
+    "id": "C-SPE-4",
+    "game_id": 3282,
+    "tier": 4,
+    "global": true,
+    "type": "Chip",
+    "en_US": {
+      "name": "Specialist Chip Pack"
+    },
+    "ja_JP": {
+      "name": "中級特殊SoC"
+    },
+    "ko_KR": {
+      "name": "스페셜리스트 칩셋"
+    },
+    "zh_CN": {
+      "name": "特种芯片组",
+      "alias": [
+        "te zhong xin pian zu",
+        "tezhongxinpianzu"
+      ]
+    },
+    "zh_TW": {
+      "name": "特種晶片組"
+    },
+    "sort": 2723
+  },
+  "C-SPE-3": {
+    "id": "C-SPE-3",
+    "game_id": 3281,
+    "tier": 3,
+    "global": true,
+    "type": "Chip",
+    "en_US": {
+      "name": "Specialist Chip"
+    },
+    "ja_JP": {
+      "name": "初級特殊SoC"
+    },
+    "ko_KR": {
+      "name": "스페셜리스트 칩"
+    },
+    "zh_CN": {
+      "name": "特种芯片",
+      "alias": [
+        "te zhong xin pian",
+        "tezhongxinpian"
+      ]
+    },
+    "zh_TW": {
+      "name": "特種晶片"
+    },
+    "sort": 2724
+  },
+  "Y-LMD-4": {
+    "id": "Y-LMD-4",
+    "game_id": 4001,
+    "tier": 4,
+    "global": true,
+    "type": "Currency",
+    "en_US": {
+      "name": "LMD"
+    },
+    "ja_JP": {
+      "name": "龍門幣"
+    },
+    "ko_KR": {
+      "name": "용문폐"
+    },
+    "zh_CN": {
+      "name": "龙门币",
+      "alias": [
+        "long men bi",
+        "longmenbi"
+      ]
+    },
+    "zh_TW": {
+      "name": "龍門幣"
+    },
+    "sort": 1000
+  },
+  "Y-RED-3": {
+    "id": "Y-RED-3",
+    "game_id": 4006,
+    "tier": 3,
+    "global": true,
+    "type": "Currency",
+    "en_US": {
+      "name": "Shop Voucher"
+    },
+    "ja_JP": {
+      "name": "購買資格証"
+    },
+    "ko_KR": {
+      "name": "구매증명서"
+    },
+    "zh_CN": {
+      "name": "采购凭证",
+      "alias": [
+        "cai gou ping zheng",
+        "caigoupingzheng"
+      ]
+    },
+    "zh_TW": {
+      "name": "採購憑證"
+    },
+    "sort": 1001
+  },
+  "X-ALL-4": {
+    "id": "X-ALL-4",
+    "game_id": 5001,
+    "tier": 4,
+    "global": true,
+    "type": "Experience",
+    "en_US": {
+      "name": "EXP"
+    },
+    "ja_JP": {
+      "name": "名声"
+    },
+    "ko_KR": {
+      "name": "명성"
+    },
+    "zh_CN": {
+      "name": "声望",
+      "alias": [
+        "sheng wang",
+        "shengwang"
+      ]
+    },
+    "zh_TW": {
+      "name": "聲望"
+    },
+    "sort": 1100
+  },
+  "X-EXP-5": {
+    "id": "X-EXP-5",
+    "game_id": 2004,
+    "tier": 5,
+    "global": true,
+    "type": "Experience",
+    "en_US": {
+      "name": "Strategic Battle Record"
+    },
+    "ja_JP": {
+      "name": "上級作戦記録"
+    },
+    "ko_KR": {
+      "name": "고급작전기록"
+    },
+    "zh_CN": {
+      "name": "高级作战记录",
+      "alias": [
+        "gao ji zuo zhan ji lu",
+        "gaojizuozhanjilu"
+      ]
+    },
+    "zh_TW": {
+      "name": "高級作戰記錄"
+    },
+    "sort": 1101
+  },
+  "X-EXP-4": {
+    "id": "X-EXP-4",
+    "game_id": 2003,
+    "tier": 4,
+    "global": true,
+    "type": "Experience",
+    "en_US": {
+      "name": "Tactical Battle Record"
+    },
+    "ja_JP": {
+      "name": "中級作戦記録"
+    },
+    "ko_KR": {
+      "name": "중급작전기록"
+    },
+    "zh_CN": {
+      "name": "中级作战记录",
+      "alias": [
+        "zhong ji zuo zhan ji lu",
+        "zhongjizuozhanjilu"
+      ]
+    },
+    "zh_TW": {
+      "name": "中級作戰記錄"
+    },
+    "sort": 1102
+  },
+  "X-EXP-3": {
+    "id": "X-EXP-3",
+    "game_id": 2002,
+    "tier": 3,
+    "global": true,
+    "type": "Experience",
+    "en_US": {
+      "name": "Frontline Battle Record"
+    },
+    "ja_JP": {
+      "name": "初級作戦記録"
+    },
+    "ko_KR": {
+      "name": "초급작전기록"
+    },
+    "zh_CN": {
+      "name": "初级作战记录",
+      "alias": [
+        "chu ji zuo zhan ji lu",
+        "chujizuozhanjilu"
+      ]
+    },
+    "zh_TW": {
+      "name": "初級作戰記錄"
+    },
+    "sort": 1103
+  },
+  "X-EXP-2": {
+    "id": "X-EXP-2",
+    "game_id": 2001,
+    "tier": 2,
+    "global": true,
+    "type": "Experience",
+    "en_US": {
+      "name": "Drill Battle Record"
+    },
+    "ja_JP": {
+      "name": "入門作戦記録"
+    },
+    "ko_KR": {
+      "name": "기초작전기록"
+    },
+    "zh_CN": {
+      "name": "基础作战记录",
+      "alias": [
+        "ji chu zuo zhan ji lu",
+        "jichuzuozhanjilu"
+      ]
+    },
+    "zh_TW": {
+      "name": "基礎作戰記錄"
+    },
+    "sort": 1104
+  },
+  "C-CAT-4": {
+    "id": "C-CAT-4",
+    "game_id": 32001,
+    "tier": 4,
+    "global": true,
+    "type": "Chip",
+    "en_US": {
+      "name": "Chip Catalyst"
+    },
+    "ja_JP": {
+      "name": "SoC強化剤"
+    },
+    "ko_KR": {
+      "name": "칩 첨가제"
+    },
+    "zh_CN": {
+      "name": "芯片助剂",
+      "alias": [
+        "xin pian zhu ji",
+        "xinpianzhuji"
+      ]
+    },
+    "zh_TW": {
+      "name": "晶片助劑"
+    },
+    "sort": 2700
+  }
+}

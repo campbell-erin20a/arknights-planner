@@ -1,0 +1,165 @@
+{
+  "id": "shaw",
+  "game_id": "char_277_sqrrel",
+  "stars": 4,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-SUG-1": 4,
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-EST-2": 2,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-SPE-3": 3,
+        "M-SUG-2": 1,
+        "M-ROC-2": 1,
+        "Y-LMD-4": 15000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-IRO-2": 2,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-GRI-3": 2,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-RMA-3": 2,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-SPE-4": 5,
+        "M-DEV-3": 12,
+        "M-EST-3": 11,
+        "Y-LMD-4": 60000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-ROC-4": 1,
+        "M-GRI-3": 4,
+        "K-BLU-4": 2
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-EST-4": 2,
+        "M-ROC-4": 3,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-KET-5": 2,
+        "M-DEV-4": 2,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-SUG-4": 1,
+        "M-RMA-3": 3,
+        "K-BLU-4": 2
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-IRO-4": 2,
+        "M-SUG-4": 2,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 2,
+        "M-IRO-4": 2,
+        "K-BLU-4": 6
+      }
+    }
+  ],
+  "name": {
+    "en": "Shaw",
+    "ja": "ショウ",
+    "ko": "쇼",
+    "zh": "阿消"
+  },
+  "alias": [
+    "しょう",
+    "a xiao",
+    "axiao"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Steam Pump",
+        "ja": "消火ポンプ",
+        "ko": "스팀 펌프",
+        "zh": "水蒸气泵"
+      }
+    },
+    {
+      "name": {
+        "en": "High-Pressure Water Cannon",
+        "ja": "高圧放水",
+        "ko": "하이드로캐논",
+        "zh": "高压水炮"
+      }
+    }
+  ],
+  "kind": "SPECIALIST"
+}

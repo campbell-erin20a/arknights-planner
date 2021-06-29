@@ -1,0 +1,156 @@
+{
+  "id": "beanstalk",
+  "game_id": "char_452_bstalk",
+  "stars": 4,
+  "global": false,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-EST-1": 4,
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-IRO-2": 2,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-VAN-3": 3,
+        "M-IRO-2": 1,
+        "M-SUG-2": 1,
+        "Y-LMD-4": 15000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-KET-2": 2,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-DEV-3": 2,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-KOH-3": 3,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-VAN-4": 5,
+        "M-GEL-3": 13,
+        "M-MAN-3": 10,
+        "Y-LMD-4": 60000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-GRI-4": 1,
+        "M-KOH-3": 4,
+        "K-BLU-4": 2
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-GEL-4": 2,
+        "M-ROC-4": 3,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 2,
+        "M-GEL-4": 2,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-ROC-4": 1,
+        "M-GRI-3": 4,
+        "K-BLU-4": 2
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-ALL-4": 2,
+        "M-RMA-4": 2,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-CRY-5": 2,
+        "M-ROC-4": 2,
+        "K-BLU-4": 6
+      }
+    }
+  ],
+  "name": {
+    "en": "Beanstalk",
+    "zh": "豆苗"
+  },
+  "alias": [
+    "dou miao",
+    "doumiao"
+  ],
+  "skills": [
+    {
+      "name": {
+        "zh": "定点指令"
+      }
+    },
+    {
+      "name": {
+        "zh": "“大家一起上”"
+      }
+    }
+  ],
+  "kind": "VANGUARD"
+}

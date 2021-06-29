@@ -1,0 +1,164 @@
+{
+  "id": "may",
+  "game_id": "char_133_mm",
+  "stars": 4,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-EST-1": 4,
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-IRO-2": 2,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-SNI-3": 3,
+        "M-IRO-2": 1,
+        "M-DEV-2": 1,
+        "Y-LMD-4": 15000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-KET-2": 2,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-DEV-3": 2,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-KOH-3": 3,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-SNI-4": 5,
+        "M-IRO-3": 14,
+        "M-EST-3": 12,
+        "Y-LMD-4": 60000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-MAN-4": 1,
+        "M-DEV-3": 3,
+        "K-BLU-4": 2
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-RMA-4": 2,
+        "M-MAN-4": 2,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 2,
+        "M-EST-4": 2,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-GRI-4": 1,
+        "M-KOH-3": 4,
+        "K-BLU-4": 2
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-ROC-4": 2,
+        "M-GRI-4": 3,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-KET-5": 2,
+        "M-DEV-4": 2,
+        "K-BLU-4": 6
+      }
+    }
+  ],
+  "name": {
+    "en": "May",
+    "ja": "メイ",
+    "ko": "메이",
+    "zh": "梅"
+  },
+  "alias": [
+    "めい",
+    "mei"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Paralyzing Shell",
+        "ja": "ストップショット",
+        "ko": "마비탄",
+        "zh": "麻痹弹"
+      }
+    },
+    {
+      "name": {
+        "en": "Binding Shock",
+        "ja": "スタンショック",
+        "ko": "속박 전격",
+        "zh": "束缚电击"
+      }
+    }
+  ],
+  "kind": "SNIPER"
+}

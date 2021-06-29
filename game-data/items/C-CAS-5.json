@@ -1,0 +1,31 @@
+{
+  "id": "C-CAS-5",
+  "game_id": 3253,
+  "tier": 5,
+  "global": true,
+  "kind": "CHIP",
+  "operator": "CASTER",
+  "sort": 2714,
+  "name": {
+    "en": "Caster Dualchip",
+    "ja": "上級術師SoC",
+    "ko": "캐스터 듀얼 칩",
+    "zh": "术师双芯片"
+  },
+  "alias": [
+    "shu shi shuang xin pian",
+    "shushishuangxinpian"
+  ],
+  "producers": [
+    {
+      "kind": "FACTORY",
+      "count": 1,
+      "duration": 60,
+      "unit": "MINUTE",
+      "cost": {
+        "C-CAT-4": 1,
+        "C-CAS-4": 2
+      }
+    }
+  ]
+}

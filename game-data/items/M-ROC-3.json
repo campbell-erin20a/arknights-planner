@@ -1,0 +1,29 @@
+{
+  "id": "M-ROC-3",
+  "game_id": 30013,
+  "tier": 3,
+  "global": true,
+  "kind": "ROCK",
+  "sort": 1801,
+  "name": {
+    "en": "Orirock Cluster",
+    "ja": "中級源岩",
+    "ko": "원암 큐브 번들",
+    "zh": "固源岩组"
+  },
+  "alias": [
+    "gu yuan yan zu",
+    "guyuanyanzu"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 1,
+      "morale": 2,
+      "cost": {
+        "Y-LMD-4": 200,
+        "M-ROC-2": 5
+      }
+    }
+  ]
+}

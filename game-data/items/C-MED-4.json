@@ -1,0 +1,29 @@
+{
+  "id": "C-MED-4",
+  "game_id": 3262,
+  "tier": 4,
+  "global": true,
+  "kind": "CHIP",
+  "operator": "MEDIC",
+  "sort": 2725,
+  "name": {
+    "en": "Medic Chip Pack",
+    "ja": "中級医療SoC",
+    "ko": "메딕 칩셋",
+    "zh": "医疗芯片组"
+  },
+  "alias": [
+    "yi liao xin pian zu",
+    "yiliaoxinpianzu"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 2,
+      "morale": 2,
+      "cost": {
+        "C-DEF-4": 3
+      }
+    }
+  ]
+}

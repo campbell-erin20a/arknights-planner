@@ -1,0 +1,165 @@
+{
+  "id": "vigna",
+  "game_id": "char_290_vigna",
+  "stars": 4,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-DEV-1": 2,
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-ROC-2": 2,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-VAN-3": 3,
+        "M-DEV-2": 1,
+        "M-EST-2": 1,
+        "Y-LMD-4": 15000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-SUG-2": 3,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-KOH-3": 2,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-MAN-3": 3,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-VAN-4": 5,
+        "M-IRO-3": 16,
+        "M-ROC-3": 11,
+        "Y-LMD-4": 60000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-GRI-4": 1,
+        "M-KOH-3": 4,
+        "K-BLU-4": 2
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-ROC-4": 2,
+        "M-GRI-4": 3,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 2,
+        "M-ROC-4": 2,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-RMA-4": 1,
+        "M-MAN-3": 3,
+        "K-BLU-4": 2
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-SUG-4": 2,
+        "M-RMA-4": 2,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 2,
+        "M-EST-4": 2,
+        "K-BLU-4": 6
+      }
+    }
+  ],
+  "name": {
+    "en": "Vigna",
+    "ja": "ヴィグナ",
+    "ko": "비그나",
+    "zh": "红豆"
+  },
+  "alias": [
+    "ゔぃぐな",
+    "hong dou",
+    "hongdou"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "ATK Up β",
+        "ja": "攻撃力強化β",
+        "ko": "공격 강화β",
+        "zh": "攻击力强化·β型"
+      }
+    },
+    {
+      "name": {
+        "en": "Hammer-On",
+        "ja": "ハンマリング・オン",
+        "ko": "망치 소리",
+        "zh": "槌音"
+      }
+    }
+  ],
+  "kind": "VANGUARD"
+}

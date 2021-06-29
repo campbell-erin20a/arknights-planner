@@ -1,0 +1,20 @@
+{
+  "id": "M-GEL-3",
+  "game_id": 31013,
+  "tier": 3,
+  "global": true,
+  "kind": "GEL",
+  "sort": 2401,
+  "name": {
+    "en": "Coagulating Gel",
+    "ja": "人工ゲル",
+    "ko": "젤",
+    "zh": "凝胶"
+  },
+  "alias": [
+    "人工げる",
+    "ning jiao",
+    "ningjiao"
+  ],
+  "producers": []
+}

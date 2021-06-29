@@ -1,0 +1,37 @@
+{
+  "id": "X-EXP-3",
+  "game_id": 2002,
+  "tier": 3,
+  "global": true,
+  "kind": "BATTLE_RECORD",
+  "sort": 1103,
+  "name": {
+    "en": "Frontline Battle Record",
+    "ja": "初級作戦記録",
+    "ko": "초급작전기록",
+    "zh": "初级作战记录"
+  },
+  "alias": [
+    "chu ji zuo zhan ji lu",
+    "chujizuozhanjilu"
+  ],
+  "producers": [
+    {
+      "kind": "MONTHLY",
+      "count": 10,
+      "day": 9
+    },
+    {
+      "kind": "MISSION",
+      "duration": 7,
+      "unit": "DAY",
+      "count": 4
+    },
+    {
+      "kind": "MISSION",
+      "duration": 1,
+      "unit": "DAY",
+      "count": 5
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "id": "ptilopsis",
+  "game_id": "char_128_plosis",
+  "stars": 5,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-ROC-1": 10,
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-SUG-2": 3,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-MED-3": 4,
+        "M-ROC-2": 8,
+        "M-SUG-2": 2,
+        "Y-LMD-4": 20000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-EST-2": 5,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-IRO-3": 4,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-KET-3": 2,
+        "M-KOH-3": 4,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-MED-5": 3,
+        "M-ROC-4": 9,
+        "M-GRI-3": 10,
+        "Y-LMD-4": 120000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-DEV-4": 2,
+        "M-IRO-3": 3,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-MAN-4": 3,
+        "M-DEV-4": 4,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-KET-5": 4,
+        "M-SUG-4": 4,
+        "K-BLU-4": 10
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-KOH-4": 3,
+        "M-KET-3": 5,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-GRI-4": 3,
+        "M-KOH-4": 6,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 4,
+        "M-ROC-4": 4,
+        "K-BLU-4": 10
+      }
+    }
+  ],
+  "name": {
+    "en": "Ptilopsis",
+    "ja": "フィリオプシス",
+    "ko": "프틸롭시스",
+    "zh": "白面鸮"
+  },
+  "alias": [
+    "ふぃりおぷしす",
+    "bai mian xiao",
+    "baimianxiao"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Healing Up γ",
+        "ja": "回復力強化γ",
+        "ko": "치료 강화γ",
+        "zh": "治疗强化·γ型"
+      }
+    },
+    {
+      "name": {
+        "en": "Enkephalin",
+        "ja": "エンケファリン",
+        "ko": "엔도르핀",
+        "zh": "脑啡肽"
+      }
+    }
+  ],
+  "kind": "MEDIC"
+}

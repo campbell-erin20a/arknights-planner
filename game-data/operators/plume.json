@@ -1,0 +1,84 @@
+{
+  "id": "plume",
+  "game_id": "char_192_falco",
+  "stars": 3,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 1
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-DEV-1": 1,
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-ROC-2": 2,
+        "K-GRE-3": 1
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "Y-LMD-4": 10000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-SUG-2": 2,
+        "K-GRE-3": 1
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-KET-3": 1,
+        "K-GRE-3": 1
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-DEV-3": 1,
+        "K-BLU-4": 2
+      }
+    }
+  ],
+  "name": {
+    "en": "Plume",
+    "ja": "プリュム",
+    "ko": "플룸",
+    "zh": "翎羽"
+  },
+  "alias": [
+    "ぷりゅむ",
+    "ling yu",
+    "lingyu"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Swift Strike α",
+        "ja": "迅速攻撃α",
+        "ko": "신속공격α",
+        "zh": "迅捷打击·α型"
+      }
+    }
+  ],
+  "kind": "VANGUARD"
+}

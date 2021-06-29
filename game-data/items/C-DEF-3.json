@@ -1,0 +1,29 @@
+{
+  "id": "C-DEF-3",
+  "game_id": 3231,
+  "tier": 3,
+  "global": true,
+  "kind": "CHIP",
+  "operator": "DEFENDER",
+  "sort": 2732,
+  "name": {
+    "en": "Defender Chip",
+    "ja": "初級重装SoC",
+    "ko": "디펜더 칩",
+    "zh": "重装芯片"
+  },
+  "alias": [
+    "zhong zhuang xin pian",
+    "zhongzhuangxinpian"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 2,
+      "morale": 1,
+      "cost": {
+        "C-MED-3": 3
+      }
+    }
+  ]
+}

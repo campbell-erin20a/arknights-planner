@@ -1,0 +1,20 @@
+{
+  "id": "rangers",
+  "game_id": "char_503_rang",
+  "stars": 2,
+  "global": true,
+  "upgrades": [],
+  "name": {
+    "en": "Rangers",
+    "ja": "レンジャー",
+    "ko": "레인저",
+    "zh": "巡林者"
+  },
+  "alias": [
+    "れんじゃー",
+    "xun lin zhe",
+    "xunlinzhe"
+  ],
+  "skills": [],
+  "kind": "SNIPER"
+}

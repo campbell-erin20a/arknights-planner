@@ -1,0 +1,31 @@
+{
+  "id": "C-SUP-5",
+  "game_id": 3273,
+  "tier": 5,
+  "global": true,
+  "kind": "CHIP",
+  "operator": "SUPPORTER",
+  "sort": 2716,
+  "name": {
+    "en": "Supporter Dualchip",
+    "ja": "上級補助SoC",
+    "ko": "서포터 듀얼 칩",
+    "zh": "辅助双芯片"
+  },
+  "alias": [
+    "fu zhu shuang xin pian",
+    "fuzhushuangxinpian"
+  ],
+  "producers": [
+    {
+      "kind": "FACTORY",
+      "count": 1,
+      "duration": 60,
+      "unit": "MINUTE",
+      "cost": {
+        "C-CAT-4": 1,
+        "C-SUP-4": 2
+      }
+    }
+  ]
+}

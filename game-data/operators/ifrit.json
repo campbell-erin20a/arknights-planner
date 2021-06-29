@@ -1,0 +1,206 @@
+{
+  "id": "ifrit",
+  "game_id": "char_134_ifrit",
+  "stars": 6,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 5
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-EST-1": 6,
+        "M-IRO-1": 4,
+        "K-WHI-2": 5
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-IRO-2": 4,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-CAS-3": 5,
+        "M-EST-2": 8,
+        "M-ROC-2": 8,
+        "Y-LMD-4": 30000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-KET-2": 4,
+        "M-ROC-2": 5,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-DEV-3": 4,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-KOH-3": 5,
+        "M-KET-3": 4,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-CAS-5": 4,
+        "M-RMA-5": 4,
+        "M-EST-4": 7,
+        "Y-LMD-4": 180000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-MAN-4": 4,
+        "M-DEV-3": 4,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-ROC-4": 4,
+        "M-GRI-4": 9,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 6,
+        "M-EST-4": 6,
+        "K-BLU-4": 15
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-GRI-4": 4,
+        "M-KOH-3": 7,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-SUG-4": 4,
+        "M-RMA-4": 8,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 6,
+        "M-IRO-4": 5,
+        "K-BLU-4": 15
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 8,
+      "cost": {
+        "M-RMA-4": 4,
+        "M-MAN-3": 5,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 9,
+      "cost": {
+        "M-EST-4": 4,
+        "M-ROC-4": 10,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 6,
+        "M-IRO-4": 4,
+        "K-BLU-4": 15
+      }
+    }
+  ],
+  "name": {
+    "en": "Ifrit",
+    "ja": "イフリータ",
+    "ko": "이프리트",
+    "zh": "伊芙利特"
+  },
+  "alias": [
+    "いふりーた",
+    "yi fu li te",
+    "yifulite"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Fanaticism",
+        "ja": "猛火",
+        "ko": "열광",
+        "zh": "狂热"
+      }
+    },
+    {
+      "name": {
+        "en": "Pyroclasm",
+        "ja": "爆炎",
+        "ko": "화염 폭발",
+        "zh": "炎爆"
+      }
+    },
+    {
+      "name": {
+        "en": "Scorched Earth",
+        "ja": "灼獄",
+        "ko": "불타는 땅",
+        "zh": "灼地"
+      }
+    }
+  ],
+  "kind": "CASTER"
+}

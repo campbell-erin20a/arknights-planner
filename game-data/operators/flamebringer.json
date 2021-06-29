@@ -1,0 +1,166 @@
+{
+  "id": "flamebringer",
+  "game_id": "char_131_flameb",
+  "stars": 5,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-ROC-1": 10,
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-SUG-2": 3,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-GUA-3": 4,
+        "M-ROC-2": 6,
+        "M-KET-2": 3,
+        "Y-LMD-4": 20000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-EST-2": 5,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-RMA-3": 3,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-ROC-3": 4,
+        "M-DEV-3": 2,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-GUA-5": 3,
+        "M-KOH-4": 9,
+        "M-MAN-3": 13,
+        "Y-LMD-4": 120000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-SUG-4": 3,
+        "M-RMA-3": 3,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-IRO-4": 3,
+        "M-SUG-4": 5,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 4,
+        "M-IRO-4": 3,
+        "K-BLU-4": 10
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-EST-4": 3,
+        "M-ROC-3": 4,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-KET-4": 3,
+        "M-EST-4": 5,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-KET-5": 4,
+        "M-MAN-4": 4,
+        "K-BLU-4": 10
+      }
+    }
+  ],
+  "name": {
+    "en": "Flamebringer",
+    "ja": "エンカク",
+    "ko": "플레임브링어",
+    "zh": "炎客"
+  },
+  "alias": [
+    "えんかく",
+    "yan ke",
+    "yanke"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Blood Pact",
+        "ja": "血化粧",
+        "ko": "흡혈",
+        "zh": "歃血"
+      }
+    },
+    {
+      "name": {
+        "en": "Blade Demon",
+        "ja": "刃鬼",
+        "ko": "인귀",
+        "zh": "刃鬼"
+      }
+    }
+  ],
+  "kind": "GUARD"
+}

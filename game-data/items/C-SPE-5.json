@@ -1,0 +1,31 @@
+{
+  "id": "C-SPE-5",
+  "game_id": 3283,
+  "tier": 5,
+  "global": true,
+  "kind": "CHIP",
+  "operator": "SPECIALIST",
+  "sort": 2717,
+  "name": {
+    "en": "Specialist Dualchip",
+    "ja": "上級特殊SoC",
+    "ko": "스페셜리스트 듀얼 칩",
+    "zh": "特种双芯片"
+  },
+  "alias": [
+    "te zhong shuang xin pian",
+    "tezhongshuangxinpian"
+  ],
+  "producers": [
+    {
+      "kind": "FACTORY",
+      "count": 1,
+      "duration": 60,
+      "unit": "MINUTE",
+      "cost": {
+        "C-CAT-4": 1,
+        "C-SPE-4": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "id": "broca",
+  "game_id": "char_356_broca",
+  "stars": 5,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-DEV-1": 4,
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-ROC-2": 4,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-GUA-3": 4,
+        "M-DEV-2": 4,
+        "M-IRO-2": 4,
+        "Y-LMD-4": 20000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-SUG-2": 5,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-KET-3": 4,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-DEV-3": 2,
+        "M-SUG-3": 3,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-GUA-5": 3,
+        "M-SUG-4": 7,
+        "M-GRI-3": 13,
+        "Y-LMD-4": 120000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-GRI-4": 3,
+        "M-KOH-3": 4,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-ROC-4": 3,
+        "M-GRI-4": 6,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 4,
+        "M-RMA-4": 3,
+        "K-BLU-4": 10
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-RMA-4": 3,
+        "M-MAN-3": 2,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-SUG-4": 3,
+        "M-RMA-4": 5,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-KET-5": 4,
+        "M-SUG-4": 4,
+        "K-BLU-4": 10
+      }
+    }
+  ],
+  "name": {
+    "en": "Broca",
+    "ja": "ブローカ",
+    "ko": "브로카",
+    "zh": "布洛卡"
+  },
+  "alias": [
+    "ぶろーか",
+    "bu luo ka",
+    "buluoka"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Galvanize",
+        "ja": "ターンオン",
+        "ko": "에너자이즈",
+        "zh": "通电"
+      }
+    },
+    {
+      "name": {
+        "en": "High-Voltage Current",
+        "ja": "ハイボルテージ",
+        "ko": "고압전류",
+        "zh": "高压电流"
+      }
+    }
+  ],
+  "kind": "GUARD"
+}

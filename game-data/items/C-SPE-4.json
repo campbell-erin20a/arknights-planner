@@ -1,0 +1,29 @@
+{
+  "id": "C-SPE-4",
+  "game_id": 3282,
+  "tier": 4,
+  "global": true,
+  "kind": "CHIP",
+  "operator": "SPECIALIST",
+  "sort": 2727,
+  "name": {
+    "en": "Specialist Chip Pack",
+    "ja": "中級特殊SoC",
+    "ko": "스페셜리스트 칩셋",
+    "zh": "特种芯片组"
+  },
+  "alias": [
+    "te zhong xin pian zu",
+    "tezhongxinpianzu"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 2,
+      "morale": 2,
+      "cost": {
+        "C-GUA-4": 3
+      }
+    }
+  ]
+}

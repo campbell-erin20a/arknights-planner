@@ -1,0 +1,29 @@
+{
+  "id": "C-SNI-4",
+  "game_id": 3242,
+  "tier": 4,
+  "global": true,
+  "kind": "CHIP",
+  "operator": "SNIPER",
+  "sort": 2723,
+  "name": {
+    "en": "Sniper Chip Pack",
+    "ja": "中級狙撃SoC",
+    "ko": "스나이퍼 칩셋",
+    "zh": "狙击芯片组"
+  },
+  "alias": [
+    "ju ji xin pian zu",
+    "jujixinpianzu"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 2,
+      "morale": 2,
+      "cost": {
+        "C-CAS-4": 3
+      }
+    }
+  ]
+}

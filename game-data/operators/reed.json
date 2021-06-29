@@ -1,0 +1,166 @@
+{
+  "id": "reed",
+  "game_id": "char_261_sddrag",
+  "stars": 5,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-KET-1": 5,
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-DEV-2": 2,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-VAN-3": 4,
+        "M-KET-2": 4,
+        "M-EST-2": 3,
+        "Y-LMD-4": 20000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-ROC-2": 8,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-IRO-3": 4,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-KET-3": 2,
+        "M-KOH-3": 4,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-VAN-5": 3,
+        "M-ROC-4": 9,
+        "M-MAN-3": 12,
+        "Y-LMD-4": 120000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-KOH-4": 3,
+        "M-KET-3": 5,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-GRI-4": 3,
+        "M-KOH-4": 6,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 4,
+        "M-KET-4": 3,
+        "K-BLU-4": 10
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-MAN-4": 3,
+        "M-DEV-3": 2,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-RMA-4": 3,
+        "M-MAN-4": 5,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 4,
+        "M-SUG-4": 4,
+        "K-BLU-4": 10
+      }
+    }
+  ],
+  "name": {
+    "en": "Reed",
+    "ja": "リード",
+    "ko": "리드",
+    "zh": "苇草"
+  },
+  "alias": [
+    "りーど",
+    "wei cao",
+    "weicao"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Swift Strike γ",
+        "ja": "迅速攻撃γ",
+        "ko": "신속공격γ",
+        "zh": "迅捷打击·γ型"
+      }
+    },
+    {
+      "name": {
+        "en": "Soul Spark",
+        "ja": "マナスパーク",
+        "ko": "생령의 불꽃",
+        "zh": "生灵火花"
+      }
+    }
+  ],
+  "kind": "VANGUARD"
+}

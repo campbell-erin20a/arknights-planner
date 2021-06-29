@@ -1,0 +1,31 @@
+{
+  "id": "M-RMA-5",
+  "game_id": 30135,
+  "tier": 5,
+  "global": true,
+  "kind": "RMA",
+  "sort": 1300,
+  "name": {
+    "en": "D32 Steel",
+    "ja": "D32鋼",
+    "ko": "D32강",
+    "zh": "D32钢"
+  },
+  "alias": [
+    "D32 gang",
+    "D32gang"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 1,
+      "morale": 8,
+      "cost": {
+        "Y-LMD-4": 400,
+        "M-MAN-4": 1,
+        "M-GRI-4": 1,
+        "M-RMA-4": 1
+      }
+    }
+  ]
+}

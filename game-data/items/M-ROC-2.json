@@ -1,0 +1,29 @@
+{
+  "id": "M-ROC-2",
+  "game_id": 30012,
+  "tier": 2,
+  "global": true,
+  "kind": "ROCK",
+  "sort": 1802,
+  "name": {
+    "en": "Orirock Cube",
+    "ja": "初級源岩",
+    "ko": "원암 큐브",
+    "zh": "固源岩"
+  },
+  "alias": [
+    "gu yuan yan",
+    "guyuanyan"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 1,
+      "morale": 1,
+      "cost": {
+        "Y-LMD-4": 100,
+        "M-ROC-1": 3
+      }
+    }
+  ]
+}

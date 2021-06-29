@@ -1,0 +1,29 @@
+{
+  "id": "M-DEV-3",
+  "game_id": 30063,
+  "tier": 3,
+  "global": true,
+  "kind": "DEVICE",
+  "sort": 1901,
+  "name": {
+    "en": "Integrated Device",
+    "ja": "中級装置",
+    "ko": "리뉴얼 장치",
+    "zh": "全新装置"
+  },
+  "alias": [
+    "quan xin zhuang zhi",
+    "quanxinzhuangzhi"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 1,
+      "morale": 2,
+      "cost": {
+        "Y-LMD-4": 200,
+        "M-DEV-2": 4
+      }
+    }
+  ]
+}

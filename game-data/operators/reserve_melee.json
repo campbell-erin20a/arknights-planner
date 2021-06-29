@@ -1,0 +1,26 @@
+{
+  "id": "reserve_melee",
+  "game_id": "char_504_rguard",
+  "stars": 3,
+  "global": false,
+  "upgrades": [
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "Y-LMD-4": 10000
+      }
+    }
+  ],
+  "name": {
+    "en": "Reserve (Melee)",
+    "zh": "预备干员-近战"
+  },
+  "alias": [
+    "yu bei gan yuan - jin zhan",
+    "yubeiganyuan-jinzhan"
+  ],
+  "skills": [],
+  "temporary": true,
+  "kind": "VANGUARD"
+}

@@ -1,0 +1,11 @@
+{
+  "navigation": {
+    "home": "Home",
+    "depot": "Depot",
+    "plans": "Plans",
+    "roster": "Roster",
+    "items": "Items",
+    "operators": "Operators",
+    "settings": "Settings"
+  }
+}

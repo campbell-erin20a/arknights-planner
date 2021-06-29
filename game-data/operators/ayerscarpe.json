@@ -1,0 +1,166 @@
+{
+  "id": "ayerscarpe",
+  "game_id": "char_294_ayer",
+  "stars": 5,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-SUG-1": 7,
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-EST-2": 3,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-GUA-3": 4,
+        "M-SUG-2": 4,
+        "M-IRO-2": 3,
+        "Y-LMD-4": 20000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-IRO-2": 4,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-ROC-3": 5,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-IRO-3": 2,
+        "M-GRI-3": 3,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-GUA-5": 3,
+        "M-IRO-4": 6,
+        "M-GEL-3": 12,
+        "Y-LMD-4": 120000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-MAN-4": 3,
+        "M-DEV-3": 2,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-KET-4": 3,
+        "M-GEL-4": 6,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-KET-5": 4,
+        "M-KOH-4": 5,
+        "K-BLU-4": 10
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-RMA-4": 3,
+        "M-MAN-3": 2,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-KOH-4": 3,
+        "M-KET-4": 5,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-KET-5": 4,
+        "M-MAN-4": 4,
+        "K-BLU-4": 10
+      }
+    }
+  ],
+  "name": {
+    "en": "Ayerscarpe",
+    "ja": "エアースカーペ",
+    "ko": "에이어스카르페",
+    "zh": "断崖"
+  },
+  "alias": [
+    "えあーすかーぺ",
+    "duan ya",
+    "duanya"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Shrapnel Burst",
+        "ja": "多目標型散弾",
+        "ko": "다중 유도 분산 탄환",
+        "zh": "多导向散射弹丸"
+      }
+    },
+    {
+      "name": {
+        "en": "Activate Phase Blades",
+        "ja": "ブレイドビット起動",
+        "ko": "부유 칼날 기동",
+        "zh": "浮游刃启动"
+      }
+    }
+  ],
+  "kind": "GUARD"
+}

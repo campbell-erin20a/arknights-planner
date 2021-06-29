@@ -1,0 +1,157 @@
+{
+  "id": "tomimi",
+  "game_id": "char_411_tomimi",
+  "stars": 5,
+  "global": false,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-DEV-1": 4,
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-KET-2": 3,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-CAS-3": 4,
+        "M-SUG-2": 4,
+        "M-EST-2": 3,
+        "Y-LMD-4": 20000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-IRO-2": 4,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-RMA-3": 3,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-DEV-3": 2,
+        "M-GEL-3": 3,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-CAS-5": 3,
+        "M-RMA-4": 8,
+        "M-ROC-3": 14,
+        "Y-LMD-4": 120000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-GEL-4": 3,
+        "M-ROC-3": 6,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-MAN-4": 3,
+        "M-DEV-4": 4,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 4,
+        "M-RMA-4": 3,
+        "K-BLU-4": 10
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-IRO-4": 3,
+        "M-ALL-3": 1,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-DEV-4": 2,
+        "M-IRO-4": 5,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 4,
+        "M-DEV-4": 3,
+        "K-BLU-4": 10
+      }
+    }
+  ],
+  "name": {
+    "en": "Tomimi",
+    "zh": "特米米"
+  },
+  "alias": [
+    "te mi mi",
+    "temimi"
+  ],
+  "skills": [
+    {
+      "name": {
+        "zh": "部族技艺"
+      }
+    },
+    {
+      "name": {
+        "zh": "嘉维尔保护方案"
+      }
+    }
+  ],
+  "kind": "CASTER"
+}

@@ -1,0 +1,166 @@
+{
+  "id": "tsukinogi",
+  "game_id": "char_343_tknogi",
+  "stars": 5,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-DEV-1": 4,
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-ROC-2": 4,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-SUP-3": 4,
+        "M-DEV-2": 3,
+        "M-KET-2": 2,
+        "Y-LMD-4": 20000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-SUG-2": 5,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-GRI-3": 3,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-GEL-3": 3,
+        "M-IRO-3": 2,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-SUP-5": 3,
+        "M-KOH-4": 8,
+        "M-GRI-3": 12,
+        "Y-LMD-4": 120000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-KET-4": 3,
+        "M-GEL-3": 2,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-ALL-4": 3,
+        "M-RMA-4": 5,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 4,
+        "M-KOH-4": 5,
+        "K-BLU-4": 10
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-KOH-4": 3,
+        "M-KET-3": 5,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-IRO-4": 3,
+        "M-ALL-4": 5,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 4,
+        "M-ROC-4": 5,
+        "K-BLU-4": 10
+      }
+    }
+  ],
+  "name": {
+    "en": "Tsukinogi",
+    "ja": "ツキノギ",
+    "ko": "츠키노기",
+    "zh": "月禾"
+  },
+  "alias": [
+    "つきのぎ",
+    "yue he",
+    "yuehe"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Without a Trace",
+        "ja": "跡無",
+        "ko": "역무",
+        "zh": "迹无"
+      }
+    },
+    {
+      "name": {
+        "en": "Forest's Embrace",
+        "ja": "森廻",
+        "ko": "삼회",
+        "zh": "森廻"
+      }
+    }
+  ],
+  "kind": "SUPPORTER"
+}

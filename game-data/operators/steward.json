@@ -1,0 +1,84 @@
+{
+  "id": "steward",
+  "game_id": "char_210_stward",
+  "stars": 3,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 1
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-KET-1": 1,
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-DEV-2": 1,
+        "K-GRE-3": 1
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "Y-LMD-4": 10000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-ROC-2": 3,
+        "K-GRE-3": 1
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-IRO-3": 1,
+        "K-GRE-3": 1
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-KET-3": 2,
+        "K-BLU-4": 2
+      }
+    }
+  ],
+  "name": {
+    "en": "Steward",
+    "ja": "スチュワード",
+    "ko": "스튜어드",
+    "zh": "史都华德"
+  },
+  "alias": [
+    "すちゅわーど",
+    "shi du hua de",
+    "shiduhuade"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Power Strike α",
+        "ja": "強撃α",
+        "ko": "강타α",
+        "zh": "强力击·α型"
+      }
+    }
+  ],
+  "kind": "CASTER"
+}

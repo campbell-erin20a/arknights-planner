@@ -1,0 +1,165 @@
+{
+  "id": "hung",
+  "game_id": "char_226_hmau",
+  "stars": 5,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-EST-1": 7,
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-IRO-2": 3,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-DEF-3": 4,
+        "M-EST-2": 5,
+        "M-DEV-2": 2,
+        "Y-LMD-4": 20000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-KET-2": 4,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-GRI-3": 3,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-ALL-3": 3,
+        "M-MAN-3": 3,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-DEF-5": 3,
+        "M-ALL-4": 7,
+        "M-KET-3": 15,
+        "Y-LMD-4": 120000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-RMA-4": 3,
+        "M-MAN-3": 2,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-GEL-4": 3,
+        "M-ROC-4": 7,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-KET-5": 4,
+        "M-DEV-4": 3,
+        "K-BLU-4": 10
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-ALL-4": 3,
+        "M-RMA-3": 3,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-IRO-4": 3,
+        "M-ALL-4": 5,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 4,
+        "M-ALL-4": 4,
+        "K-BLU-4": 10
+      }
+    }
+  ],
+  "name": {
+    "en": "Hung",
+    "ja": "ウン",
+    "ko": "훔",
+    "zh": "吽"
+  },
+  "alias": [
+    "うん",
+    "hou"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Treatment Countermeasure",
+        "ja": "応急処置・受動",
+        "ko": "반격 치료",
+        "zh": "反制治疗"
+      }
+    },
+    {
+      "name": {
+        "en": "Medical Mode Countermeasure",
+        "ja": "医療態勢・受動",
+        "ko": "반격 의료 모드",
+        "zh": "反制医疗模式"
+      }
+    }
+  ],
+  "kind": "DEFENDER"
+}

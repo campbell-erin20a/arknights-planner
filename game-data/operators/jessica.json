@@ -1,0 +1,165 @@
+{
+  "id": "jessica",
+  "game_id": "char_235_jesica",
+  "stars": 4,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-EST-1": 4,
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-IRO-2": 2,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-SNI-3": 3,
+        "M-EST-2": 1,
+        "M-SUG-2": 1,
+        "Y-LMD-4": 15000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-KET-2": 2,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-RMA-3": 2,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-ROC-3": 3,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-SNI-4": 5,
+        "M-KOH-3": 20,
+        "M-IRO-3": 7,
+        "Y-LMD-4": 60000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-SUG-4": 1,
+        "M-RMA-3": 3,
+        "K-BLU-4": 2
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-IRO-4": 2,
+        "M-SUG-4": 2,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 2,
+        "M-IRO-4": 2,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-EST-4": 1,
+        "M-ROC-3": 5,
+        "K-BLU-4": 2
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-KET-4": 2,
+        "M-EST-4": 2,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 2,
+        "M-KET-4": 2,
+        "K-BLU-4": 6
+      }
+    }
+  ],
+  "name": {
+    "en": "Jessica",
+    "ja": "ジェシカ",
+    "ko": "제시카",
+    "zh": "杰西卡"
+  },
+  "alias": [
+    "じぇしか",
+    "jie xi ka",
+    "jiexika"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Power Strike β",
+        "ja": "強撃β",
+        "ko": "강타β",
+        "zh": "强力击·β型"
+      }
+    },
+    {
+      "name": {
+        "en": "Smokescreen",
+        "ja": "煙幕",
+        "ko": "연막 전개",
+        "zh": "掩护烟幕"
+      }
+    }
+  ],
+  "kind": "SNIPER"
+}

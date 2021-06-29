@@ -1,0 +1,29 @@
+{
+  "id": "C-GUA-3",
+  "game_id": 3221,
+  "tier": 3,
+  "global": true,
+  "kind": "CHIP",
+  "operator": "GUARD",
+  "sort": 2731,
+  "name": {
+    "en": "Guard Chip",
+    "ja": "初級前衛SoC",
+    "ko": "가드 칩",
+    "zh": "近卫芯片"
+  },
+  "alias": [
+    "jin wei xin pian",
+    "jinweixinpian"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 2,
+      "morale": 1,
+      "cost": {
+        "C-SPE-3": 3
+      }
+    }
+  ]
+}

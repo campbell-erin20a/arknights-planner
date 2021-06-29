@@ -1,0 +1,34 @@
+{
+  "id": "K-BLU-4",
+  "game_id": 3303,
+  "tier": 4,
+  "global": true,
+  "kind": "SKILL",
+  "sort": 1200,
+  "name": {
+    "en": "Skill Summary - 3",
+    "ja": "アーツ学Ⅲ",
+    "ko": "스킬개론 제3권",
+    "zh": "技巧概要·卷3"
+  },
+  "alias": [
+    "あーつ学Ⅲ",
+    "ji qiao gai yao · juan 3",
+    "jiqiaogaiyao·juan3"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 1,
+      "morale": 2,
+      "cost": {
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "MONTHLY",
+      "count": 6,
+      "day": 27
+    }
+  ]
+}

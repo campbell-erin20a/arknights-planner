@@ -1,0 +1,28 @@
+{
+  "id": "M-RMA-4",
+  "game_id": 30104,
+  "tier": 4,
+  "global": true,
+  "kind": "RMA",
+  "sort": 1700,
+  "name": {
+    "en": "RMA70-24",
+    "ja": "RMA70-24",
+    "ko": "RMA70-24",
+    "zh": "RMA70-24"
+  },
+  "alias": [],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 1,
+      "morale": 4,
+      "cost": {
+        "Y-LMD-4": 300,
+        "M-RMA-3": 1,
+        "M-ROC-3": 2,
+        "M-KET-3": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "id": "blaze",
+  "game_id": "char_017_huang",
+  "stars": 6,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 5
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-DEV-1": 4,
+        "M-EST-1": 4,
+        "K-WHI-2": 5
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-ROC-2": 7,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-GUA-3": 5,
+        "M-DEV-2": 5,
+        "M-KET-2": 4,
+        "Y-LMD-4": 30000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-SUG-2": 4,
+        "M-KET-2": 4,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-ROC-3": 8,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-GEL-3": 4,
+        "M-IRO-3": 4,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-GUA-5": 4,
+        "M-RMA-5": 4,
+        "M-DEV-4": 6,
+        "Y-LMD-4": 180000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-DEV-4": 3,
+        "M-IRO-3": 4,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-DEV-4": 3,
+        "M-IRO-4": 6,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 6,
+        "M-DEV-4": 4,
+        "K-BLU-4": 15
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-KOH-4": 4,
+        "M-KET-3": 8,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-KOH-4": 4,
+        "M-KET-4": 8,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 6,
+        "M-MAN-4": 5,
+        "K-BLU-4": 15
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 8,
+      "cost": {
+        "M-MAN-4": 4,
+        "M-DEV-3": 4,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 9,
+      "cost": {
+        "M-MAN-4": 4,
+        "M-DEV-4": 5,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 10,
+      "cost": {
+        "M-KET-5": 6,
+        "M-DEV-4": 4,
+        "K-BLU-4": 15
+      }
+    }
+  ],
+  "name": {
+    "en": "Blaze",
+    "ja": "ブレイズ",
+    "ko": "블레이즈",
+    "zh": "煌"
+  },
+  "alias": [
+    "ぶれいず",
+    "huang"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Power Strike γ",
+        "ja": "強撃γ",
+        "ko": "강타γ",
+        "zh": "强力击·γ型"
+      }
+    },
+    {
+      "name": {
+        "en": "Chainsaw Extension Module",
+        "ja": "鎖鋸拡張モジュール",
+        "ko": "전기톱 연장 모듈",
+        "zh": "链锯延伸模块"
+      }
+    },
+    {
+      "name": {
+        "en": "Boiling Burst",
+        "ja": "ボイリングバースト",
+        "ko": "끓어오르는 폭발",
+        "zh": "沸腾爆裂"
+      }
+    }
+  ],
+  "kind": "GUARD"
+}

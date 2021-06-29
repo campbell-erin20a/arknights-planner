@@ -1,0 +1,206 @@
+{
+  "id": "nightingale",
+  "game_id": "char_179_cgbird",
+  "stars": 6,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 5
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-SUG-1": 5,
+        "M-KET-1": 4,
+        "K-WHI-2": 5
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-ROC-2": 7,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-MED-3": 5,
+        "M-DEV-2": 6,
+        "M-IRO-2": 3,
+        "Y-LMD-4": 30000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-SUG-2": 4,
+        "M-KET-2": 4,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-GRI-3": 5,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-RMA-3": 3,
+        "M-EST-3": 5,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-MED-5": 4,
+        "M-RMA-5": 4,
+        "M-KET-4": 6,
+        "Y-LMD-4": 180000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-ROC-4": 4,
+        "M-GRI-3": 7,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-IRO-4": 4,
+        "M-SUG-4": 7,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 6,
+        "M-KET-4": 5,
+        "K-BLU-4": 15
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-SUG-4": 4,
+        "M-RMA-3": 5,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-KET-4": 4,
+        "M-EST-4": 7,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 6,
+        "M-DEV-4": 4,
+        "K-BLU-4": 15
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 8,
+      "cost": {
+        "M-EST-4": 4,
+        "M-ROC-3": 8,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 9,
+      "cost": {
+        "M-DEV-4": 3,
+        "M-IRO-4": 6,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 6,
+        "M-MAN-4": 5,
+        "K-BLU-4": 15
+      }
+    }
+  ],
+  "name": {
+    "en": "Nightingale",
+    "ja": "ナイチンゲール",
+    "ko": "나이팅게일",
+    "zh": "夜莺"
+  },
+  "alias": [
+    "ないちんげーる",
+    "ye ying",
+    "yeying"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Healing Up γ",
+        "ja": "回復力強化γ",
+        "ko": "치료 강화γ",
+        "zh": "治疗强化·γ型"
+      }
+    },
+    {
+      "name": {
+        "en": "Arts Shield",
+        "ja": "アーツシールド",
+        "ko": "아츠 실드",
+        "zh": "法术护盾"
+      }
+    },
+    {
+      "name": {
+        "en": "Sanctuary",
+        "ja": "聖域",
+        "ko": "성역",
+        "zh": "圣域"
+      }
+    }
+  ],
+  "kind": "MEDIC"
+}

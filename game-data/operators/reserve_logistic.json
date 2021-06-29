@@ -1,0 +1,26 @@
+{
+  "id": "reserve_logistic",
+  "game_id": "char_506_rmedic",
+  "stars": 3,
+  "global": false,
+  "upgrades": [
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "Y-LMD-4": 10000
+      }
+    }
+  ],
+  "name": {
+    "en": "Reserve (Logistic)",
+    "zh": "预备干员-后勤"
+  },
+  "alias": [
+    "yu bei gan yuan - hou qin",
+    "yubeiganyuan-houqin"
+  ],
+  "skills": [],
+  "temporary": true,
+  "kind": "MEDIC"
+}

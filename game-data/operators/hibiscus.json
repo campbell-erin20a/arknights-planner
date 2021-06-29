@@ -1,0 +1,84 @@
+{
+  "id": "hibiscus",
+  "game_id": "char_120_hibisc",
+  "stars": 3,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 1
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-EST-1": 1,
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-IRO-2": 1,
+        "K-GRE-3": 1
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "Y-LMD-4": 10000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-KET-2": 2,
+        "K-GRE-3": 1
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-SUG-3": 2,
+        "K-GRE-3": 1
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-EST-3": 2,
+        "K-BLU-4": 2
+      }
+    }
+  ],
+  "name": {
+    "en": "Hibiscus",
+    "ja": "ハイビスカス",
+    "ko": "히비스커스",
+    "zh": "芙蓉"
+  },
+  "alias": [
+    "はいびすかす",
+    "fu rong",
+    "furong"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Healing Up α",
+        "ja": "回復力強化α",
+        "ko": "치료 강화α",
+        "zh": "治疗强化·α型"
+      }
+    }
+  ],
+  "kind": "MEDIC"
+}

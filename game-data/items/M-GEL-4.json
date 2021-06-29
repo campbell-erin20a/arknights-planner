@@ -1,0 +1,32 @@
+{
+  "id": "M-GEL-4",
+  "game_id": 31014,
+  "tier": 4,
+  "global": true,
+  "kind": "GEL",
+  "sort": 2400,
+  "name": {
+    "en": "Polymerized Gel",
+    "ja": "融合ゲル",
+    "ko": "중합젤",
+    "zh": "聚合凝胶"
+  },
+  "alias": [
+    "融合げる",
+    "ju he ning jiao",
+    "juheningjiao"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 1,
+      "morale": 4,
+      "cost": {
+        "Y-LMD-4": 300,
+        "M-GEL-3": 1,
+        "M-ALL-3": 1,
+        "M-IRO-3": 1
+      }
+    }
+  ]
+}

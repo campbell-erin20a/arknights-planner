@@ -1,0 +1,165 @@
+{
+  "id": "estelle",
+  "game_id": "char_127_estell",
+  "stars": 4,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-IRO-1": 3,
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-KET-2": 2,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-GUA-3": 3,
+        "M-IRO-2": 1,
+        "M-KET-2": 1,
+        "Y-LMD-4": 15000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-DEV-2": 2,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-EST-3": 3,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-IRO-3": 3,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-GUA-4": 5,
+        "M-RMA-3": 12,
+        "M-GRI-3": 8,
+        "Y-LMD-4": 60000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-KET-4": 1,
+        "M-EST-3": 4,
+        "K-BLU-4": 2
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-KOH-4": 2,
+        "M-KET-4": 2,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-KET-5": 2,
+        "M-RMA-4": 2,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-DEV-4": 1,
+        "M-IRO-3": 2,
+        "K-BLU-4": 2
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-MAN-4": 2,
+        "M-DEV-4": 2,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 2,
+        "M-SUG-4": 2,
+        "K-BLU-4": 6
+      }
+    }
+  ],
+  "name": {
+    "en": "Estelle",
+    "ja": "エステル",
+    "ko": "에스텔",
+    "zh": "艾丝黛尔"
+  },
+  "alias": [
+    "えすてる",
+    "ai si dai er",
+    "aisidaier"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "ATK Up β",
+        "ja": "攻撃力強化β",
+        "ko": "공격 강화β",
+        "zh": "攻击力强化·β型"
+      }
+    },
+    {
+      "name": {
+        "en": "Sacrificial Strike",
+        "ja": "捨て身の覚悟",
+        "ko": "결사돌격",
+        "zh": "舍身突击"
+      }
+    }
+  ],
+  "kind": "GUARD"
+}

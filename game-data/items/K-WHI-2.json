@@ -1,0 +1,43 @@
+{
+  "id": "K-WHI-2",
+  "game_id": 3301,
+  "tier": 2,
+  "global": true,
+  "kind": "SKILL",
+  "sort": 1202,
+  "name": {
+    "en": "Skill Summary - 1",
+    "ja": "アーツ学Ⅰ",
+    "ko": "스킬개론 제1권",
+    "zh": "技巧概要·卷1"
+  },
+  "alias": [
+    "あーつ学Ⅰ",
+    "ji qiao gai yao · juan 1",
+    "jiqiaogaiyao·juan1"
+  ],
+  "producers": [
+    {
+      "kind": "MONTHLY",
+      "count": 10,
+      "day": 13
+    },
+    {
+      "kind": "MONTHLY",
+      "count": 5,
+      "day": 6
+    },
+    {
+      "kind": "MISSION",
+      "duration": 7,
+      "unit": "DAY",
+      "count": 5
+    },
+    {
+      "kind": "MISSION",
+      "duration": 1,
+      "unit": "DAY",
+      "count": 2
+    }
+  ]
+}

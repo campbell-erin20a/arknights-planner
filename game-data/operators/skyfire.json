@@ -1,0 +1,166 @@
+{
+  "id": "skyfire",
+  "game_id": "char_166_skfire",
+  "stars": 5,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-SUG-1": 7,
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-EST-2": 3,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-CAS-3": 4,
+        "M-SUG-2": 4,
+        "M-KET-2": 3,
+        "Y-LMD-4": 20000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-IRO-2": 4,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-KOH-3": 4,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-MAN-3": 2,
+        "M-RMA-3": 3,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-CAS-5": 3,
+        "M-EST-4": 7,
+        "M-GRI-3": 13,
+        "Y-LMD-4": 120000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-GRI-4": 3,
+        "M-KOH-3": 4,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-ROC-4": 3,
+        "M-GRI-4": 6,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 4,
+        "M-EST-4": 4,
+        "K-BLU-4": 10
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-RMA-4": 3,
+        "M-MAN-3": 2,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-SUG-4": 3,
+        "M-RMA-4": 5,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 4,
+        "M-IRO-4": 3,
+        "K-BLU-4": 10
+      }
+    }
+  ],
+  "name": {
+    "en": "Skyfire",
+    "ja": "スカイフレア",
+    "ko": "스카이파이어",
+    "zh": "天火"
+  },
+  "alias": [
+    "すかいふれあ",
+    "tian huo",
+    "tianhuo"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "ATK Up γ",
+        "ja": "攻撃力強化γ",
+        "ko": "공격 강화γ",
+        "zh": "攻击力强化·γ型"
+      }
+    },
+    {
+      "name": {
+        "en": "Fire of Heaven",
+        "ja": "メテオフレイム",
+        "ko": "메테오 플레임",
+        "zh": "天坠之火"
+      }
+    }
+  ],
+  "kind": "CASTER"
+}

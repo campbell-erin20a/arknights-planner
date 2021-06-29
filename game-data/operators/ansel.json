@@ -1,0 +1,84 @@
+{
+  "id": "ansel",
+  "game_id": "char_212_ansel",
+  "stars": 3,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 1
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-IRO-1": 1,
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-KET-2": 1,
+        "K-GRE-3": 1
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "Y-LMD-4": 10000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-DEV-2": 1,
+        "K-GRE-3": 1
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-EST-3": 2,
+        "K-GRE-3": 1
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-IRO-3": 2,
+        "K-BLU-4": 2
+      }
+    }
+  ],
+  "name": {
+    "en": "Ansel",
+    "ja": "アンセル",
+    "ko": "안셀",
+    "zh": "安赛尔"
+  },
+  "alias": [
+    "あんせる",
+    "an sai er",
+    "ansaier"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Healing Range Up",
+        "ja": "回復範囲強化",
+        "ko": "치료 범위 강화",
+        "zh": "治疗范围强化"
+      }
+    }
+  ],
+  "kind": "MEDIC"
+}

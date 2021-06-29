@@ -1,0 +1,29 @@
+{
+  "id": "M-IRO-3",
+  "game_id": 30043,
+  "tier": 3,
+  "global": true,
+  "kind": "IRON",
+  "sort": 2201,
+  "name": {
+    "en": "Oriron Cluster",
+    "ja": "中級異鉄",
+    "ko": "이철 번들",
+    "zh": "异铁组"
+  },
+  "alias": [
+    "yi tie zu",
+    "yitiezu"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 1,
+      "morale": 2,
+      "cost": {
+        "Y-LMD-4": 200,
+        "M-IRO-2": 4
+      }
+    }
+  ]
+}

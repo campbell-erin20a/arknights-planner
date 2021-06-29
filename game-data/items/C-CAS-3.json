@@ -1,0 +1,29 @@
+{
+  "id": "C-CAS-3",
+  "game_id": 3251,
+  "tier": 3,
+  "global": true,
+  "kind": "CHIP",
+  "operator": "CASTER",
+  "sort": 2734,
+  "name": {
+    "en": "Caster Chip",
+    "ja": "初級術師SoC",
+    "ko": "캐스터 칩",
+    "zh": "术师芯片"
+  },
+  "alias": [
+    "shu shi xin pian",
+    "shushixinpian"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 2,
+      "morale": 1,
+      "cost": {
+        "C-SNI-3": 3
+      }
+    }
+  ]
+}

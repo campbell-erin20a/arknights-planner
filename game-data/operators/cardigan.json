@@ -1,0 +1,84 @@
+{
+  "id": "cardigan",
+  "game_id": "char_209_ardign",
+  "stars": 3,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 1
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-IRO-1": 1,
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-KET-2": 1,
+        "K-GRE-3": 1
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "Y-LMD-4": 10000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-DEV-2": 1,
+        "K-GRE-3": 1
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-KOH-3": 2,
+        "K-GRE-3": 1
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-MAN-3": 2,
+        "K-BLU-4": 2
+      }
+    }
+  ],
+  "name": {
+    "en": "Cardigan",
+    "ja": "カーディ",
+    "ko": "카디건",
+    "zh": "卡缇"
+  },
+  "alias": [
+    "かーでぃ",
+    "ka ti",
+    "kati"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Regeneration α",
+        "ja": "HP回復α",
+        "ko": "HP회복α",
+        "zh": "生命回复·α型"
+      }
+    }
+  ],
+  "kind": "DEFENDER"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "C-SUP-3",
+  "game_id": 3271,
+  "tier": 3,
+  "global": true,
+  "kind": "CHIP",
+  "operator": "SUPPORTER",
+  "sort": 2736,
+  "name": {
+    "en": "Supporter Chip",
+    "ja": "初級補助SoC",
+    "ko": "서포터 칩",
+    "zh": "辅助芯片"
+  },
+  "alias": [
+    "fu zhu xin pian",
+    "fuzhuxinpian"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 2,
+      "morale": 1,
+      "cost": {
+        "C-VAN-3": 3
+      }
+    }
+  ]
+}

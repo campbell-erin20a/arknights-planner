@@ -1,0 +1,166 @@
+{
+  "id": "folinic",
+  "game_id": "char_345_folnic",
+  "stars": 5,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-EST-1": 7,
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-IRO-2": 3,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-MED-3": 4,
+        "M-EST-2": 5,
+        "M-KET-2": 2,
+        "Y-LMD-4": 20000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-KET-2": 4,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-GEL-3": 4,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-KET-3": 2,
+        "M-KOH-3": 4,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-MED-5": 3,
+        "M-KET-4": 8,
+        "M-DEV-3": 8,
+        "Y-LMD-4": 120000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-GRI-4": 3,
+        "M-KOH-3": 4,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-DEV-4": 2,
+        "M-IRO-4": 5,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 4,
+        "M-GRI-4": 4,
+        "K-BLU-4": 10
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-ROC-4": 3,
+        "M-GRI-3": 4,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-MAN-4": 3,
+        "M-DEV-4": 4,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 4,
+        "M-KET-4": 3,
+        "K-BLU-4": 10
+      }
+    }
+  ],
+  "name": {
+    "en": "Folinic",
+    "ja": "フォリニック",
+    "ko": "폴리닉",
+    "zh": "亚叶"
+  },
+  "alias": [
+    "ふぉりにっく",
+    "ya ye",
+    "yaye"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Max-Dosage Infusion",
+        "ja": "最大限度量投薬",
+        "ko": "최대 약제량 투여",
+        "zh": "最大剂量输注"
+      }
+    },
+    {
+      "name": {
+        "en": "Compound Drug Shell",
+        "ja": "特製薬刃弾",
+        "ko": "복합형 약물 파편",
+        "zh": "复合型药物弹片"
+      }
+    }
+  ],
+  "kind": "MEDIC"
+}

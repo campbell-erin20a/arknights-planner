@@ -1,0 +1,29 @@
+{
+  "id": "M-SUG-3",
+  "game_id": 30023,
+  "tier": 3,
+  "global": true,
+  "kind": "SUGAR",
+  "sort": 2101,
+  "name": {
+    "en": "Sugar Pack",
+    "ja": "中級糖原",
+    "ko": "포도당 번들",
+    "zh": "糖组"
+  },
+  "alias": [
+    "tang zu",
+    "tangzu"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 1,
+      "morale": 2,
+      "cost": {
+        "Y-LMD-4": 200,
+        "M-SUG-2": 4
+      }
+    }
+  ]
+}

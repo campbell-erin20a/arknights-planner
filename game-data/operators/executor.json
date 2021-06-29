@@ -1,0 +1,166 @@
+{
+  "id": "executor",
+  "game_id": "char_279_excu",
+  "stars": 5,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-SUG-1": 7,
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-EST-2": 3,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-SNI-3": 4,
+        "M-SUG-2": 5,
+        "M-DEV-2": 2,
+        "Y-LMD-4": 20000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-IRO-2": 4,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-ROC-3": 5,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-SUG-3": 3,
+        "M-IRO-3": 3,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-SNI-5": 3,
+        "M-MAN-4": 8,
+        "M-GRI-3": 9,
+        "Y-LMD-4": 120000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-IRO-4": 3,
+        "M-SUG-3": 1,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-DEV-4": 2,
+        "M-IRO-4": 5,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 4,
+        "M-GRI-4": 4,
+        "K-BLU-4": 10
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-KET-4": 3,
+        "M-EST-3": 3,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-KOH-4": 3,
+        "M-KET-4": 5,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 4,
+        "M-DEV-4": 3,
+        "K-BLU-4": 10
+      }
+    }
+  ],
+  "name": {
+    "en": "Executor",
+    "ja": "イグゼキュター",
+    "ko": "이그제큐터",
+    "zh": "送葬人"
+  },
+  "alias": [
+    "いぐぜきゅたー",
+    "song zang ren",
+    "songzangren"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Muzzle’s Elegy",
+        "ja": "フルチョーク",
+        "ko": "총구정리",
+        "zh": "铳口收束"
+      }
+    },
+    {
+      "name": {
+        "en": "Final Journey",
+        "ja": "終焉の旅路",
+        "ko": "최후의 여로",
+        "zh": "最终旅程"
+      }
+    }
+  ],
+  "kind": "SNIPER"
+}

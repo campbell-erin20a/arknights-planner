@@ -1,0 +1,29 @@
+{
+  "id": "C-MED-3",
+  "game_id": 3261,
+  "tier": 3,
+  "global": true,
+  "kind": "CHIP",
+  "operator": "MEDIC",
+  "sort": 2735,
+  "name": {
+    "en": "Medic Chip",
+    "ja": "初級医療SoC",
+    "ko": "메딕 칩",
+    "zh": "医疗芯片"
+  },
+  "alias": [
+    "yi liao xin pian",
+    "yiliaoxinpian"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 2,
+      "morale": 1,
+      "cost": {
+        "C-DEF-3": 3
+      }
+    }
+  ]
+}

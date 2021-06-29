@@ -1,0 +1,20 @@
+{
+  "id": "noir_corne",
+  "game_id": "char_500_noirc",
+  "stars": 2,
+  "global": true,
+  "upgrades": [],
+  "name": {
+    "en": "Noir Corne",
+    "ja": "ノイルホーン",
+    "ko": "느와르 코르네",
+    "zh": "黑角"
+  },
+  "alias": [
+    "のいるほーん",
+    "hei jiao",
+    "heijiao"
+  ],
+  "skills": [],
+  "kind": "DEFENDER"
+}

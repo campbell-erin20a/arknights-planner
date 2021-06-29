@@ -1,0 +1,30 @@
+{
+  "id": "M-EST-2",
+  "game_id": 30032,
+  "tier": 2,
+  "global": true,
+  "kind": "ESTER",
+  "sort": 2002,
+  "name": {
+    "en": "Polyester",
+    "ja": "初級エステル",
+    "ko": "폴리에스테르",
+    "zh": "聚酸酯"
+  },
+  "alias": [
+    "初級えすてる",
+    "ju suan zhi",
+    "jusuanzhi"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 1,
+      "morale": 1,
+      "cost": {
+        "Y-LMD-4": 100,
+        "M-EST-1": 3
+      }
+    }
+  ]
+}

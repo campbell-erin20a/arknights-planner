@@ -1,0 +1,84 @@
+{
+  "id": "popukar",
+  "game_id": "char_281_popka",
+  "stars": 3,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 1
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-SUG-1": 1,
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-EST-2": 1,
+        "K-GRE-3": 1
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "Y-LMD-4": 10000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-IRO-2": 2,
+        "K-GRE-3": 1
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-KOH-3": 2,
+        "K-GRE-3": 1
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-MAN-3": 2,
+        "K-BLU-4": 2
+      }
+    }
+  ],
+  "name": {
+    "en": "Popukar",
+    "ja": "ポプカル",
+    "ko": "포푸카",
+    "zh": "泡普卡"
+  },
+  "alias": [
+    "ぽぷかる",
+    "pao pu ka",
+    "paopuka"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "ATK Up α",
+        "ja": "攻撃力強化α",
+        "ko": "공격 강화α",
+        "zh": "攻击力强化·α型"
+      }
+    }
+  ],
+  "kind": "GUARD"
+}

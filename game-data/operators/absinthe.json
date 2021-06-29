@@ -1,0 +1,166 @@
+{
+  "id": "absinthe",
+  "game_id": "char_405_absin",
+  "stars": 5,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-ROC-1": 10,
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-SUG-2": 3,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-CAS-3": 4,
+        "M-ROC-2": 6,
+        "M-EST-2": 3,
+        "Y-LMD-4": 20000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-EST-2": 5,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-RMA-3": 3,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-ALL-3": 3,
+        "M-MAN-3": 3,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-CAS-5": 3,
+        "M-ROC-4": 10,
+        "M-ALL-3": 10,
+        "Y-LMD-4": 120000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-IRO-4": 3,
+        "M-ALL-3": 1,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-ROC-4": 3,
+        "M-GRI-4": 6,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 4,
+        "M-MAN-4": 3,
+        "K-BLU-4": 10
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-DEV-4": 2,
+        "M-IRO-3": 3,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-KOH-4": 3,
+        "M-KET-4": 5,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-KET-5": 4,
+        "M-RMA-4": 4,
+        "K-BLU-4": 10
+      }
+    }
+  ],
+  "name": {
+    "en": "Absinthe",
+    "ja": "アブサント",
+    "ko": "압생트",
+    "zh": "苦艾"
+  },
+  "alias": [
+    "あぶさんと",
+    "ku ai",
+    "kuai"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Enforcement Mode",
+        "ja": "執行態勢",
+        "ko": "집행 모드",
+        "zh": "执法模式"
+      }
+    },
+    {
+      "name": {
+        "en": "Ultimatum",
+        "ja": "告死の弾雨",
+        "ko": "종언의 연사",
+        "zh": "终结连射"
+      }
+    }
+  ],
+  "kind": "CASTER"
+}

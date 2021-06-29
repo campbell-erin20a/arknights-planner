@@ -1,0 +1,32 @@
+{
+  "id": "M-KET-4",
+  "game_id": 30054,
+  "tier": 4,
+  "global": true,
+  "kind": "KETON",
+  "sort": 2300,
+  "name": {
+    "en": "Keton Colloid",
+    "ja": "上級アケトン",
+    "ko": "아케톤 팩",
+    "zh": "酮阵列"
+  },
+  "alias": [
+    "上級あけとん",
+    "tong zhen lie",
+    "tongzhenlie"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 1,
+      "morale": 4,
+      "cost": {
+        "Y-LMD-4": 300,
+        "M-KET-3": 2,
+        "M-SUG-3": 1,
+        "M-MAN-3": 1
+      }
+    }
+  ]
+}

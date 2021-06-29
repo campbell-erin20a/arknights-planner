@@ -1,0 +1,19 @@
+{
+  "id": "M-ALL-3",
+  "game_id": 31023,
+  "tier": 3,
+  "global": true,
+  "kind": "ALLOY",
+  "sort": 2501,
+  "name": {
+    "en": "Incandescent Alloy",
+    "ja": "熾合金",
+    "ko": "열합금",
+    "zh": "炽合金"
+  },
+  "alias": [
+    "chi he jin",
+    "chihejin"
+  ],
+  "producers": []
+}

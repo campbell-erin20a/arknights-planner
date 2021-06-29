@@ -1,0 +1,166 @@
+{
+  "id": "leizi",
+  "game_id": "char_306_leizi",
+  "stars": 5,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-DEV-1": 4,
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-ROC-2": 4,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-CAS-3": 4,
+        "M-DEV-2": 3,
+        "M-EST-2": 3,
+        "Y-LMD-4": 20000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-SUG-2": 5,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-GEL-3": 4,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-DEV-3": 2,
+        "M-GEL-3": 3,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-CAS-5": 3,
+        "M-RMA-4": 7,
+        "M-GEL-3": 13,
+        "Y-LMD-4": 120000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-DEV-4": 2,
+        "M-IRO-3": 3,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-DEV-4": 2,
+        "M-IRO-4": 5,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 4,
+        "M-IRO-4": 3,
+        "K-BLU-4": 10
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-KOH-4": 3,
+        "M-KET-3": 5,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-KOH-4": 3,
+        "M-KET-4": 5,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-KET-5": 4,
+        "M-RMA-4": 4,
+        "K-BLU-4": 10
+      }
+    }
+  ],
+  "name": {
+    "en": "Leizi",
+    "ja": "レイズ",
+    "ko": "레이즈",
+    "zh": "惊蛰"
+  },
+  "alias": [
+    "れいず",
+    "jing zhe",
+    "jingzhe"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "ATK Up γ",
+        "ja": "攻撃力強化γ",
+        "ko": "공격 강화γ",
+        "zh": "攻击力强化·γ型"
+      }
+    },
+    {
+      "name": {
+        "en": "Thunderclap",
+        "ja": "初雷",
+        "ko": "초뢰",
+        "zh": "初雷"
+      }
+    }
+  ],
+  "kind": "CASTER"
+}

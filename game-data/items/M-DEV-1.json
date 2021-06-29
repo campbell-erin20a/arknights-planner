@@ -1,0 +1,19 @@
+{
+  "id": "M-DEV-1",
+  "game_id": 30061,
+  "tier": 1,
+  "global": true,
+  "kind": "DEVICE",
+  "sort": 1903,
+  "name": {
+    "en": "Damaged Device",
+    "ja": "破損装置",
+    "ko": "파손된 장치",
+    "zh": "破损装置"
+  },
+  "alias": [
+    "po sun zhuang zhi",
+    "posunzhuangzhi"
+  ],
+  "producers": []
+}

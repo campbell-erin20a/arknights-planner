@@ -1,0 +1,29 @@
+{
+  "id": "C-DEF-4",
+  "game_id": 3232,
+  "tier": 4,
+  "global": true,
+  "kind": "CHIP",
+  "operator": "DEFENDER",
+  "sort": 2722,
+  "name": {
+    "en": "Defender Chip Pack",
+    "ja": "中級重装SoC",
+    "ko": "디펜더 칩셋",
+    "zh": "重装芯片组"
+  },
+  "alias": [
+    "zhong zhuang xin pian zu",
+    "zhongzhuangxinpianzu"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 2,
+      "morale": 2,
+      "cost": {
+        "C-MED-4": 3
+      }
+    }
+  ]
+}

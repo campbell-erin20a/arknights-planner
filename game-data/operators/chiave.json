@@ -1,0 +1,166 @@
+{
+  "id": "chiave",
+  "game_id": "char_349_chiave",
+  "stars": 5,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-DEV-1": 4,
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-ROC-2": 4,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-VAN-3": 4,
+        "M-DEV-2": 3,
+        "M-SUG-2": 3,
+        "Y-LMD-4": 20000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-SUG-2": 5,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-KET-3": 4,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-MAN-3": 2,
+        "M-RMA-3": 3,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-VAN-5": 3,
+        "M-MAN-4": 7,
+        "M-GRI-3": 13,
+        "Y-LMD-4": 120000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-GEL-4": 3,
+        "M-ROC-3": 6,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-MAN-4": 3,
+        "M-DEV-4": 4,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 4,
+        "M-IRO-4": 3,
+        "K-BLU-4": 10
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-IRO-4": 3,
+        "M-ALL-3": 1,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-RMA-4": 3,
+        "M-MAN-4": 5,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 4,
+        "M-GRI-4": 4,
+        "K-BLU-4": 10
+      }
+    }
+  ],
+  "name": {
+    "en": "Chiave",
+    "ja": "キアーベ",
+    "ko": "키아베",
+    "zh": "贾维"
+  },
+  "alias": [
+    "きあーべ",
+    "jia wei",
+    "jiawei"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Charge γ",
+        "ja": "突撃指令γ",
+        "ko": "돌격지령γ",
+        "zh": "冲锋号令·γ型"
+      }
+    },
+    {
+      "name": {
+        "en": "Blazing Wire Stripper",
+        "ja": "火炎剥離",
+        "ko": "플레임 필링",
+        "zh": "火焰剥离"
+      }
+    }
+  ],
+  "kind": "VANGUARD"
+}

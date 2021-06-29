@@ -1,0 +1,34 @@
+{
+  "id": "K-GRE-3",
+  "game_id": 3302,
+  "tier": 3,
+  "global": true,
+  "kind": "SKILL",
+  "sort": 1201,
+  "name": {
+    "en": "Skill Summary - 2",
+    "ja": "アーツ学Ⅱ",
+    "ko": "스킬개론 제2권",
+    "zh": "技巧概要·卷2"
+  },
+  "alias": [
+    "あーつ学Ⅱ",
+    "ji qiao gai yao · juan 2",
+    "jiqiaogaiyao·juan2"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 1,
+      "morale": 1,
+      "cost": {
+        "K-WHI-2": 3
+      }
+    },
+    {
+      "kind": "MONTHLY",
+      "count": 5,
+      "day": 20
+    }
+  ]
+}

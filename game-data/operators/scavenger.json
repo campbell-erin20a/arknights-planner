@@ -1,0 +1,165 @@
+{
+  "id": "scavenger",
+  "game_id": "char_149_scave",
+  "stars": 4,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-ROC-1": 5,
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-SUG-2": 2,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-VAN-3": 3,
+        "M-ROC-2": 1,
+        "M-SUG-2": 1,
+        "Y-LMD-4": 15000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-EST-2": 3,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-RMA-3": 2,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-ROC-3": 3,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-VAN-4": 5,
+        "M-KOH-3": 20,
+        "M-DEV-3": 6,
+        "Y-LMD-4": 60000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-SUG-4": 1,
+        "M-RMA-3": 3,
+        "K-BLU-4": 2
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-IRO-4": 2,
+        "M-SUG-4": 2,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-KET-5": 2,
+        "M-GRI-4": 2,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-EST-4": 1,
+        "M-ROC-3": 5,
+        "K-BLU-4": 2
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-KET-4": 2,
+        "M-EST-4": 2,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 2,
+        "M-MAN-4": 2,
+        "K-BLU-4": 6
+      }
+    }
+  ],
+  "name": {
+    "en": "Scavenger",
+    "ja": "スカベンジャー",
+    "ko": "스캐빈저",
+    "zh": "清道夫"
+  },
+  "alias": [
+    "すかべんじゃー",
+    "qing dao fu",
+    "qingdaofu"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Charge β",
+        "ja": "突撃指令β",
+        "ko": "돌격지령β",
+        "zh": "冲锋号令·β型"
+      }
+    },
+    {
+      "name": {
+        "en": "Command - Attack",
+        "ja": "突撃指令・攻撃",
+        "ko": "돌격지령-공격",
+        "zh": "冲锋号令·攻击"
+      }
+    }
+  ],
+  "kind": "VANGUARD"
+}

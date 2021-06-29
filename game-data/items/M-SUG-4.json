@@ -1,0 +1,31 @@
+{
+  "id": "M-SUG-4",
+  "game_id": 30024,
+  "tier": 4,
+  "global": true,
+  "kind": "SUGAR",
+  "sort": 2100,
+  "name": {
+    "en": "Sugar Lump",
+    "ja": "上級糖原",
+    "ko": "포도당 팩",
+    "zh": "糖聚块"
+  },
+  "alias": [
+    "tang ju kuai",
+    "tangjukuai"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 1,
+      "morale": 4,
+      "cost": {
+        "Y-LMD-4": 300,
+        "M-SUG-3": 2,
+        "M-IRO-3": 1,
+        "M-MAN-3": 1
+      }
+    }
+  ]
+}

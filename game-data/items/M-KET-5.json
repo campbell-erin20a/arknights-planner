@@ -1,0 +1,31 @@
+{
+  "id": "M-KET-5",
+  "game_id": 30115,
+  "tier": 5,
+  "global": true,
+  "kind": "KETON",
+  "sort": 1302,
+  "name": {
+    "en": "Polymerization Preparation",
+    "ja": "融合剤",
+    "ko": "중합제",
+    "zh": "聚合剂"
+  },
+  "alias": [
+    "ju he ji",
+    "juheji"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 1,
+      "morale": 8,
+      "cost": {
+        "Y-LMD-4": 400,
+        "M-ROC-4": 1,
+        "M-IRO-4": 1,
+        "M-KET-4": 1
+      }
+    }
+  ]
+}

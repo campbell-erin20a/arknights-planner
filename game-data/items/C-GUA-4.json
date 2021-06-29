@@ -1,0 +1,29 @@
+{
+  "id": "C-GUA-4",
+  "game_id": 3222,
+  "tier": 4,
+  "global": true,
+  "kind": "CHIP",
+  "operator": "GUARD",
+  "sort": 2721,
+  "name": {
+    "en": "Guard Chip Pack",
+    "ja": "中級前衛SoC",
+    "ko": "가드 칩셋",
+    "zh": "近卫芯片组"
+  },
+  "alias": [
+    "jin wei xin pian zu",
+    "jinweixinpianzu"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 2,
+      "morale": 2,
+      "cost": {
+        "C-SPE-4": 3
+      }
+    }
+  ]
+}

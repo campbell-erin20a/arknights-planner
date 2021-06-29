@@ -1,0 +1,73 @@
+{
+  "id": "Y-LMD-4",
+  "game_id": 4001,
+  "tier": 4,
+  "global": true,
+  "scale": true,
+  "sort": 1000,
+  "kind": "CURRENCY",
+  "name": {
+    "en": "LMD",
+    "ja": "龍門幣",
+    "ko": "용문폐",
+    "zh": "龙门币"
+  },
+  "alias": [
+    "long men bi",
+    "longmenbi"
+  ],
+  "producers": [
+    {
+      "kind": "MONTHLY",
+      "count": 10000,
+      "day": 29
+    },
+    {
+      "kind": "MONTHLY",
+      "count": 8000,
+      "day": 22
+    },
+    {
+      "kind": "MONTHLY",
+      "count": 7500,
+      "day": 21
+    },
+    {
+      "kind": "MONTHLY",
+      "count": 6000,
+      "day": 15
+    },
+    {
+      "kind": "MONTHLY",
+      "count": 5000,
+      "day": 14
+    },
+    {
+      "kind": "MONTHLY",
+      "count": 4000,
+      "day": 8
+    },
+    {
+      "kind": "MONTHLY",
+      "count": 3000,
+      "day": 7
+    },
+    {
+      "kind": "MONTHLY",
+      "count": 2000,
+      "day": 1
+    },
+    {
+      "kind": "MISSION",
+      "duration": 7,
+      "unit": "DAY",
+      "count": 13000
+    },
+    {
+      "kind": "MISSION",
+      "duration": 1,
+      "unit": "DAY",
+      "count": 3500
+    }
+  ]
+}

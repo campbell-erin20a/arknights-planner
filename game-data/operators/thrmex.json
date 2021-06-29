@@ -1,0 +1,16 @@
+{
+  "id": "thrmex",
+  "game_id": "char_376_therex",
+  "stars": 1,
+  "global": true,
+  "upgrades": [],
+  "name": {
+    "en": "THRM-EX",
+    "ja": "THRM-EX",
+    "ko": "THRM-EX",
+    "zh": "THRM-EX"
+  },
+  "alias": [],
+  "skills": [],
+  "kind": "SPECIALIST"
+}

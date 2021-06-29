@@ -1,0 +1,165 @@
+{
+  "id": "ambriel",
+  "game_id": "char_302_glaze",
+  "stars": 4,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-IRO-1": 3,
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-KET-2": 2,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-SNI-3": 3,
+        "M-KET-2": 1,
+        "M-ROC-2": 1,
+        "Y-LMD-4": 15000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-DEV-2": 2,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-GEL-3": 2,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-ALL-3": 3,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-SNI-4": 5,
+        "M-IRO-3": 16,
+        "M-RMA-3": 6,
+        "Y-LMD-4": 60000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-MAN-4": 1,
+        "M-DEV-3": 3,
+        "K-BLU-4": 2
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-ALL-4": 2,
+        "M-RMA-4": 2,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-KET-5": 2,
+        "M-KOH-4": 2,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-GRI-4": 1,
+        "M-KOH-3": 4,
+        "K-BLU-4": 2
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-GEL-4": 2,
+        "M-ROC-4": 3,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 2,
+        "M-IRO-4": 2,
+        "K-BLU-4": 6
+      }
+    }
+  ],
+  "name": {
+    "en": "Ambriel",
+    "ja": "アンブリエル",
+    "ko": "엠브리엘",
+    "zh": "安比尔"
+  },
+  "alias": [
+    "あんぶりえる",
+    "an bi er",
+    "anbier"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Snaring Shell",
+        "ja": "妨害弾",
+        "ko": "저지탄",
+        "zh": "阻挡弹"
+      }
+    },
+    {
+      "name": {
+        "en": "Radar Sweep",
+        "ja": "全方位レーダー",
+        "ko": "레이더 위치 추적",
+        "zh": "雷达定位"
+      }
+    }
+  ],
+  "kind": "SNIPER"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "catapult",
+  "game_id": "char_282_catap",
+  "stars": 3,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 1
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-EST-1": 1,
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-IRO-2": 1,
+        "K-GRE-3": 1
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "Y-LMD-4": 10000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-KET-2": 2,
+        "K-GRE-3": 1
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-MAN-3": 1,
+        "K-GRE-3": 1
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-GRI-3": 1,
+        "K-BLU-4": 2
+      }
+    }
+  ],
+  "name": {
+    "en": "Catapult",
+    "ja": "カタパルト",
+    "ko": "캐터펄트",
+    "zh": "空爆"
+  },
+  "alias": [
+    "かたぱると",
+    "kong bao",
+    "kongbao"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Blast Range Up α",
+        "ja": "爆破範囲拡大α",
+        "ko": "폭발범위확대α",
+        "zh": "爆破范围提升·α型"
+      }
+    }
+  ],
+  "kind": "SNIPER"
+}

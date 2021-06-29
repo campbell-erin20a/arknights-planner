@@ -1,0 +1,32 @@
+{
+  "id": "M-KOH-4",
+  "game_id": 30074,
+  "tier": 4,
+  "global": true,
+  "kind": "KOHL",
+  "sort": 1400,
+  "name": {
+    "en": "White Horse Kohl",
+    "ja": "上級合成コール",
+    "ko": "화이트 호스 콜",
+    "zh": "白马醇"
+  },
+  "alias": [
+    "上級合成こーる",
+    "bai ma chun",
+    "baimachun"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 1,
+      "morale": 4,
+      "cost": {
+        "Y-LMD-4": 300,
+        "M-KOH-3": 1,
+        "M-SUG-3": 1,
+        "M-RMA-3": 1
+      }
+    }
+  ]
+}

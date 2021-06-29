@@ -1,0 +1,206 @@
+{
+  "id": "suzuran",
+  "game_id": "char_358_lisa",
+  "stars": 6,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 5
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-EST-1": 6,
+        "M-IRO-1": 4,
+        "K-WHI-2": 5
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-IRO-2": 4,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-SUP-3": 5,
+        "M-EST-2": 8,
+        "M-IRO-2": 4,
+        "Y-LMD-4": 30000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-KET-2": 4,
+        "M-ROC-2": 5,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-RMA-3": 4,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-IRO-3": 3,
+        "M-GRI-3": 5,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-SUP-5": 4,
+        "M-RMA-5": 4,
+        "M-GRI-4": 8,
+        "Y-LMD-4": 180000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-ALL-4": 4,
+        "M-RMA-3": 5,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-GEL-4": 4,
+        "M-ROC-4": 10,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 6,
+        "M-IRO-4": 5,
+        "K-BLU-4": 15
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-KET-4": 4,
+        "M-GEL-3": 4,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-IRO-4": 4,
+        "M-ALL-4": 7,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 6,
+        "M-GRI-4": 5,
+        "K-BLU-4": 15
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 8,
+      "cost": {
+        "M-KOH-4": 4,
+        "M-KET-3": 8,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 9,
+      "cost": {
+        "M-DEV-4": 3,
+        "M-IRO-4": 6,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 6,
+        "M-KET-4": 5,
+        "K-BLU-4": 15
+      }
+    }
+  ],
+  "name": {
+    "en": "Suzuran",
+    "ja": "スズラン",
+    "ko": "스즈란",
+    "zh": "铃兰"
+  },
+  "alias": [
+    "すずらん",
+    "ling lan",
+    "linglan"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "I'll Do My Best",
+        "ja": "全身全霊",
+        "ko": "전력투구",
+        "zh": "全力以赴"
+      }
+    },
+    {
+      "name": {
+        "en": "Childhood Frolic",
+        "ja": "過ぎし日の舞",
+        "ko": "어린 시절의 무용",
+        "zh": "儿时的舞乐"
+      }
+    },
+    {
+      "name": {
+        "en": "Foxfire Haze",
+        "ja": "渺然たる狐火",
+        "ko": "희미한 여우불",
+        "zh": "狐火渺然"
+      }
+    }
+  ],
+  "kind": "SUPPORTER"
+}

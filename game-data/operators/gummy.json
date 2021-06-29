@@ -1,0 +1,166 @@
+{
+  "id": "gummy",
+  "game_id": "char_196_sunbr",
+  "stars": 4,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-SUG-1": 4,
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-EST-2": 2,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-DEF-3": 3,
+        "M-SUG-2": 1,
+        "M-KET-2": 1,
+        "Y-LMD-4": 15000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-IRO-2": 2,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-EST-3": 3,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-IRO-3": 3,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-DEF-4": 5,
+        "M-RMA-3": 13,
+        "M-MAN-3": 7,
+        "Y-LMD-4": 60000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-KET-4": 1,
+        "M-EST-3": 4,
+        "K-BLU-4": 2
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-KOH-4": 2,
+        "M-KET-4": 2,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 2,
+        "M-KET-4": 2,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-DEV-4": 1,
+        "M-IRO-3": 2,
+        "K-BLU-4": 2
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-MAN-4": 2,
+        "M-DEV-4": 2,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 2,
+        "M-SUG-4": 2,
+        "K-BLU-4": 6
+      }
+    }
+  ],
+  "name": {
+    "en": "Gummy",
+    "ja": "グム",
+    "ko": "굼",
+    "ru": "Гум",
+    "zh": "古米"
+  },
+  "alias": [
+    "ぐむ",
+    "gu mi",
+    "gumi"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Provisions",
+        "ja": "非常食",
+        "ko": "전투 식량",
+        "zh": "备用军粮"
+      }
+    },
+    {
+      "name": {
+        "en": "Cooking",
+        "ja": "戦場のシェフ",
+        "ko": "야외 취사",
+        "zh": "食粮烹制"
+      }
+    }
+  ],
+  "kind": "DEFENDER"
+}

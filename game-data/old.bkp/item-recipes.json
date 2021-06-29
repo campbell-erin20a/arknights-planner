@@ -1,0 +1,110 @@
+{
+  "Y-LMD-4": [
+    { "type": "monthly", "count": 10000, "day": 29 },
+    { "type": "monthly", "count":  8000, "day": 22 },
+    { "type": "monthly", "count":  7500, "day": 21 },
+    { "type": "monthly", "count":  6000, "day": 15 },
+    { "type": "monthly", "count":  5000, "day": 14 },
+    { "type": "monthly", "count":  4000, "day":  8 },
+    { "type": "monthly", "count":  3000, "day":  7 },
+    { "type": "monthly", "count":  2000, "day":  1 },
+    { "type": "weekly",  "count": 13000 },
+    { "type": "daily",   "count":  3500 }
+  ],
+  "X-EXP-5": [
+    { "type": "monthly", "count": 5, "day": 30 },
+    { "type": "monthly", "count": 4, "day": 23 },
+    { "type": "weekly",  "count": 4 }
+  ],
+  "X-EXP-4": [
+    { "type": "monthly", "count": 6, "day": 16 },
+    { "type": "weekly",  "count": 4 }
+  ],
+  "X-EXP-3": [
+    { "type": "monthly", "count": 10, "day": 9 },
+    { "type": "weekly",  "count":  4 },
+    { "type": "daily",   "count":  5 }
+  ],
+  "X-EXP-2": [
+    { "type": "monthly", "count": 10, "day": 2 },
+    { "type": "weekly",  "count":  4 },
+    { "type": "daily",   "count":  8 }
+  ],
+  "K-BLU-4": [
+    { "type": "workshop", "count": 1, "mood": 2, "cost": { "K-GRE-3": 3 } },
+    { "type": "monthly",  "count": 6, "day": 27 }
+  ],
+  "K-GRE-3": [
+    { "type": "workshop", "count": 1, "mood": 1, "cost": { "K-WHI-2": 3 } },
+    { "type": "monthly",  "count": 5, "day": 20 }
+  ],
+  "K-WHI-2": [
+    { "type": "monthly", "count": 10, "day": 13 },
+    { "type": "monthly", "count":  5, "day":  6 },
+    { "type": "weekly",  "count":  5 },
+    { "type": "daily",   "count":  2 }
+  ],
+  "C-CAT-4": [
+    { "type": "store", "count": 1, "cost": { "Y-RED-3": 90 } },
+    { "type": "monthly", "count": 1, "day": 28 }
+  ],
+  "Y-RED-3": [
+    { "type": "monthly", "count": 25, "day": 18 },
+    { "type": "monthly", "count":  8, "day":  4 },
+    { "type": "weekly",  "count": 30 },
+    { "type": "daily",   "count":  5 }
+  ],
+  "M-D32-5": [ { "type": "workshop", "count": 1, "mood": 8, "cost": { "Y-LMD-4": 400, "M-MAN-4": 1, "M-GRI-4": 1, "M-RMA-4": 1 } } ],
+  "M-BIP-5": [ { "type": "workshop", "count": 1, "mood": 8, "cost": { "Y-LMD-4": 400, "M-DEV-4": 1, "M-KET-4": 2 } } ],
+  "M-POL-5": [ { "type": "workshop", "count": 1, "mood": 8, "cost": { "Y-LMD-4": 400, "M-ROC-4": 1, "M-IRO-4": 1, "M-KET-4": 1 } } ],
+  "M-CRY-5": [ { "type": "workshop", "count": 1, "mood": 8, "cost": { "Y-LMD-4": 400, "M-CRY-4": 1, "M-GEL-4": 2, "M-ALL-4": 1 } } ],
+  "M-KOH-4": [ { "type": "workshop", "count": 1, "mood": 4, "cost": { "Y-LMD-4": 300, "M-KOH-3": 1, "M-SUG-3": 1, "M-RMA-3": 1 } } ],
+  "M-MAN-4": [ { "type": "workshop", "count": 1, "mood": 4, "cost": { "Y-LMD-4": 300, "M-MAN-3": 2, "M-EST-3": 1, "M-KOH-3": 1 } } ],
+  "M-GRI-4": [ { "type": "workshop", "count": 1, "mood": 4, "cost": { "Y-LMD-4": 300, "M-GRI-3": 1, "M-IRO-3": 1, "M-DEV-3": 1 } } ],
+  "M-RMA-4": [ { "type": "workshop", "count": 1, "mood": 4, "cost": { "Y-LMD-4": 300, "M-RMA-3": 1, "M-ROC-3": 2, "M-KET-3": 1 } } ],
+  "M-GEL-4": [ { "type": "workshop", "count": 1, "mood": 4, "cost": { "Y-LMD-4": 300, "M-GEL-3": 1, "M-ALL-3": 1, "M-IRO-3": 1 } } ],
+  "M-ALL-4": [ { "type": "workshop", "count": 1, "mood": 4, "cost": { "Y-LMD-4": 300, "M-ALL-3": 1, "M-DEV-3": 1, "M-GRI-3": 1 } } ],
+  "M-CRY-4": [ { "type": "workshop", "count": 1, "mood": 4, "cost": { "Y-LMD-4": 300, "M-CRY-3": 2, "M-GEL-3": 1, "M-ALL-3": 1 } } ],
+  "M-ROC-4": [ { "type": "workshop", "count": 1, "mood": 4, "cost": { "Y-LMD-4": 300, "M-ROC-3": 4 } } ],
+  "M-ROC-3": [ { "type": "workshop", "count": 1, "mood": 2, "cost": { "Y-LMD-4": 200, "M-ROC-2": 5 } } ],
+  "M-ROC-2": [ { "type": "workshop", "count": 1, "mood": 1, "cost": { "Y-LMD-4": 100, "M-ROC-1": 3 } } ],
+  "M-DEV-4": [ { "type": "workshop", "count": 1, "mood": 4, "cost": { "Y-LMD-4": 300, "M-DEV-3": 1, "M-ROC-3": 2, "M-GRI-3": 1 } } ],
+  "M-DEV-3": [ { "type": "workshop", "count": 1, "mood": 2, "cost": { "Y-LMD-4": 200, "M-DEV-2": 4 } } ],
+  "M-DEV-2": [ { "type": "workshop", "count": 1, "mood": 1, "cost": { "Y-LMD-4": 100, "M-DEV-1": 3 } } ],
+  "M-EST-4": [ { "type": "workshop", "count": 1, "mood": 4, "cost": { "Y-LMD-4": 300, "M-EST-3": 2, "M-KET-3": 1, "M-KOH-3": 1 } } ],
+  "M-EST-3": [ { "type": "workshop", "count": 1, "mood": 2, "cost": { "Y-LMD-4": 200, "M-EST-2": 4 } } ],
+  "M-EST-2": [ { "type": "workshop", "count": 1, "mood": 1, "cost": { "Y-LMD-4": 100, "M-EST-1": 3 } } ],
+  "M-SUG-4": [ { "type": "workshop", "count": 1, "mood": 4, "cost": { "Y-LMD-4": 300, "M-SUG-3": 2, "M-IRO-3": 1, "M-MAN-3": 1 } } ],
+  "M-SUG-3": [ { "type": "workshop", "count": 1, "mood": 2, "cost": { "Y-LMD-4": 200, "M-SUG-2": 4 } } ],
+  "M-SUG-2": [ { "type": "workshop", "count": 1, "mood": 1, "cost": { "Y-LMD-4": 100, "M-SUG-1": 3 } } ],
+  "M-IRO-4": [ { "type": "workshop", "count": 1, "mood": 4, "cost": { "Y-LMD-4": 300, "M-IRO-3": 2, "M-DEV-3": 1, "M-EST-3": 1 } } ],
+  "M-IRO-3": [ { "type": "workshop", "count": 1, "mood": 2, "cost": { "Y-LMD-4": 200, "M-IRO-2": 4 } } ],
+  "M-IRO-2": [ { "type": "workshop", "count": 1, "mood": 1, "cost": { "Y-LMD-4": 100, "M-IRO-1": 3 } } ],
+  "M-KET-4": [ { "type": "workshop", "count": 1, "mood": 4, "cost": { "Y-LMD-4": 300, "M-KET-3": 2, "M-SUG-3": 1, "M-MAN-3": 1 } } ],
+  "M-KET-3": [ { "type": "workshop", "count": 1, "mood": 2, "cost": { "Y-LMD-4": 200, "M-KET-2": 4 } } ],
+  "M-KET-2": [ { "type": "workshop", "count": 1, "mood": 1, "cost": { "Y-LMD-4": 100, "M-KET-1": 3 } } ],
+  "C-CAS-5": [ { "type": "factory", "count": 1, "time": 60, "cost": { "C-CAT-4": 1, "C-CAS-4": 2 } } ],
+  "C-SNI-5": [ { "type": "factory", "count": 1, "time": 60, "cost": { "C-CAT-4": 1, "C-SNI-4": 2 } } ],
+  "C-DEF-5": [ { "type": "factory", "count": 1, "time": 60, "cost": { "C-CAT-4": 1, "C-DEF-4": 2 } } ],
+  "C-MED-5": [ { "type": "factory", "count": 1, "time": 60, "cost": { "C-CAT-4": 1, "C-MED-4": 2 } } ],
+  "C-GUA-5": [ { "type": "factory", "count": 1, "time": 60, "cost": { "C-CAT-4": 1, "C-GUA-4": 2 } } ],
+  "C-SPE-5": [ { "type": "factory", "count": 1, "time": 60, "cost": { "C-CAT-4": 1, "C-SPE-4": 2 } } ],
+  "C-SUP-5": [ { "type": "factory", "count": 1, "time": 60, "cost": { "C-CAT-4": 1, "C-SUP-4": 2 } } ],
+  "C-VAN-5": [ { "type": "factory", "count": 1, "time": 60, "cost": { "C-CAT-4": 1, "C-VAN-4": 2 } } ],
+  "C-CAS-4": [ { "type": "workshop", "count": 2, "mood": 2, "cost": { "C-SNI-4": 3 } } ],
+  "C-SNI-4": [ { "type": "workshop", "count": 2, "mood": 2, "cost": { "C-CAS-4": 3 } } ],
+  "C-DEF-4": [ { "type": "workshop", "count": 2, "mood": 2, "cost": { "C-MED-4": 3 } } ],
+  "C-MED-4": [ { "type": "workshop", "count": 2, "mood": 2, "cost": { "C-DEF-4": 3 } } ],
+  "C-GUA-4": [ { "type": "workshop", "count": 2, "mood": 2, "cost": { "C-SPE-4": 3 } } ],
+  "C-SPE-4": [ { "type": "workshop", "count": 2, "mood": 2, "cost": { "C-GUA-4": 3 } } ],
+  "C-SUP-4": [ { "type": "workshop", "count": 2, "mood": 2, "cost": { "C-VAN-4": 3 } } ],
+  "C-VAN-4": [ { "type": "workshop", "count": 2, "mood": 2, "cost": { "C-SUP-4": 3 } } ],
+  "C-CAS-3": [ { "type": "workshop", "count": 2, "mood": 1, "cost": { "C-SNI-3": 3 } } ],
+  "C-SNI-3": [ { "type": "workshop", "count": 2, "mood": 1, "cost": { "C-CAS-3": 3 } } ],
+  "C-DEF-3": [ { "type": "workshop", "count": 2, "mood": 1, "cost": { "C-MED-3": 3 } } ],
+  "C-MED-3": [ { "type": "workshop", "count": 2, "mood": 1, "cost": { "C-DEF-3": 3 } } ],
+  "C-GUA-3": [ { "type": "workshop", "count": 2, "mood": 1, "cost": { "C-SPE-3": 3 } } ],
+  "C-SPE-3": [ { "type": "workshop", "count": 2, "mood": 1, "cost": { "C-GUA-3": 3 } } ],
+  "C-SUP-3": [ { "type": "workshop", "count": 2, "mood": 1, "cost": { "C-VAN-3": 3 } } ],
+  "C-VAN-3": [ { "type": "workshop", "count": 2, "mood": 1, "cost": { "C-SUP-3": 3 } } ]
+}

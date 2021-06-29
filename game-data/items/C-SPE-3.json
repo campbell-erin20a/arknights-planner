@@ -1,0 +1,29 @@
+{
+  "id": "C-SPE-3",
+  "game_id": 3281,
+  "tier": 3,
+  "global": true,
+  "kind": "CHIP",
+  "operator": "SPECIALIST",
+  "sort": 2737,
+  "name": {
+    "en": "Specialist Chip",
+    "ja": "初級特殊SoC",
+    "ko": "스페셜리스트 칩",
+    "zh": "特种芯片"
+  },
+  "alias": [
+    "te zhong xin pian",
+    "tezhongxinpian"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 2,
+      "morale": 1,
+      "cost": {
+        "C-GUA-3": 3
+      }
+    }
+  ]
+}

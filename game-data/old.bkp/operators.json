@@ -1,0 +1,7635 @@
+[
+  {
+    "id": "exusiai",
+    "game_id": "char_103_angel",
+    "type": "Sniper",
+    "stars": 6,
+    "global": true,
+    "en_US": {
+      "name": "Exusiai",
+      "skills": [
+        "Charging Mode",
+        "Shooting Mode",
+        "Overloading Mode"
+      ]
+    },
+    "ja_JP": {
+      "name": "エクシア",
+      "skills": [
+        "アサルトモード",
+        "バーストモード",
+        "オーバーロード"
+      ],
+      "alias": [
+        "えくしあ"
+      ]
+    },
+    "ko_KR": {
+      "name": "엑시아",
+      "skills": [
+        "어설트 모드",
+        "슈팅 모드",
+        "과부하 모드"
+      ]
+    },
+    "zh_CN": {
+      "name": "能天使",
+      "skills": [
+        "冲锋模式",
+        "扫射模式",
+        "过载模式"
+      ],
+      "alias": [
+        "neng tian shi",
+        "nengtianshi"
+      ]
+    },
+    "zh_TW": {
+      "name": "能天使",
+      "skills": [
+        "衝鋒模式",
+        "掃射模式",
+        "超載模式"
+      ]
+    }
+  },
+  {
+    "id": "archetto",
+    "game_id": "char_332_archet",
+    "type": "Sniper",
+    "stars": 6,
+    "global": false,
+    "zh_CN": {
+      "name": "空弦",
+      "skills": [
+        "箭矢·散逸",
+        "箭矢·追猎",
+        "箭矢·暴风"
+      ],
+      "alias": [
+        "kong xian",
+        "kongxian"
+      ]
+    },
+    "en_US": {
+      "name": "Archetto"
+    }
+  },
+  {
+    "id": "schwarz",
+    "game_id": "char_340_shwaz",
+    "type": "Sniper",
+    "stars": 6,
+    "global": true,
+    "en_US": {
+      "name": "Schwarz",
+      "skills": [
+        "Charged Shot",
+        "Sharp Eye",
+        "Final Tactics"
+      ]
+    },
+    "ja_JP": {
+      "name": "シュヴァルツ",
+      "skills": [
+        "強射",
+        "暮色の慧眼",
+        "ターミネート"
+      ],
+      "alias": [
+        "しゅゔぁるつ"
+      ]
+    },
+    "ko_KR": {
+      "name": "슈바르츠",
+      "skills": [
+        "강노",
+        "황혼의 눈동자",
+        "최후의 전술"
+      ]
+    },
+    "zh_CN": {
+      "name": "黑",
+      "skills": [
+        "强弩",
+        "暮眼锐瞳",
+        "战术的终结"
+      ],
+      "alias": [
+        "hei",
+        "hei"
+      ]
+    },
+    "zh_TW": {
+      "name": "黑",
+      "skills": [
+        "強弩",
+        "暮眼銳瞳",
+        "戰術的終結"
+      ]
+    }
+  },
+  {
+    "id": "w",
+    "game_id": "char_113_cqbw",
+    "type": "Sniper",
+    "stars": 6,
+    "global": true,
+    "en_US": {
+      "name": "W",
+      "skills": [
+        "King of Hearts",
+        "Jack in the Box",
+        "D12"
+      ]
+    },
+    "ja_JP": {
+      "name": "W",
+      "skills": [
+        "ハートのK",
+        "びっくり箱",
+        "D12"
+      ]
+    },
+    "ko_KR": {
+      "name": "W",
+      "skills": [
+        "하트 K",
+        "깜짝 상자",
+        "D12"
+      ]
+    },
+    "zh_CN": {
+      "name": "W",
+      "skills": [
+        "红桃K",
+        "惊吓盒子",
+        "D12"
+      ]
+    }
+  },
+  {
+    "id": "rosa",
+    "game_id": "char_197_poca",
+    "type": "Sniper",
+    "stars": 6,
+    "global": true,
+    "en_US": {
+      "name": "Rosa",
+      "skills": [
+        "ATK Up γ",
+        "Split Shot",
+        "Avalanche Breaker"
+      ]
+    },
+    "ja_JP": {
+      "name": "ロサ",
+      "skills": [
+        "攻撃力強化γ",
+        "スプリットショット",
+        "ラヴィーナシュート"
+      ],
+      "alias": [
+        "ろさ"
+      ]
+    },
+    "ko_KR": {
+      "name": "로사",
+      "skills": [
+        "공격 강화γ",
+        "분열 사격",
+        "눈사태 사격"
+      ]
+    },
+    "zh_CN": {
+      "name": "早露",
+      "skills": [
+        "攻击力强化·γ型",
+        "分裂射击",
+        "雪崩击"
+      ],
+      "alias": [
+        "zao lou",
+        "zaolou"
+      ]
+    },
+    "ru_RU": {
+      "alias": [
+        "Роса"
+      ]
+    }
+  },
+  {
+    "id": "rosmontis",
+    "game_id": "char_391_rosmon",
+    "type": "Sniper",
+    "stars": 6,
+    "global": false,
+    "zh_CN": {
+      "name": "迷迭香",
+      "skills": [
+        "思维膨大",
+        "末梢阻断",
+        "“如你所愿”"
+      ],
+      "alias": [
+        "mi die xiang",
+        "midiexiang"
+      ]
+    },
+    "en_US": {
+      "name": "Rosmontis"
+    }
+  },
+  {
+    "id": "siege",
+    "game_id": "char_112_siege",
+    "type": "Vanguard",
+    "stars": 6,
+    "global": true,
+    "en_US": {
+      "name": "Siege",
+      "skills": [
+        "Charge γ",
+        "Aerial Hammer",
+        "Skull Breaker"
+      ]
+    },
+    "ja_JP": {
+      "name": "シージ",
+      "skills": [
+        "突撃指令γ",
+        "スカイスマッシュ",
+        "スカルクラッシュ"
+      ],
+      "alias": [
+        "しーじ"
+      ]
+    },
+    "ko_KR": {
+      "name": "시즈",
+      "skills": [
+        "돌격지령γ",
+        "점핑 해머",
+        "스컬 크래시"
+      ]
+    },
+    "zh_CN": {
+      "name": "推进之王",
+      "skills": [
+        "冲锋号令·γ型",
+        "跃空锤",
+        "碎颅击"
+      ],
+      "alias": [
+        "tui jin zhi wang",
+        "tuijinzhiwang"
+      ]
+    },
+    "zh_TW": {
+      "name": "推進之王",
+      "skills": [
+        "衝鋒號令·γ型",
+        "躍空錘",
+        "碎顱擊"
+      ]
+    }
+  },
+  {
+    "id": "bagpipe",
+    "game_id": "char_222_bpipe",
+    "type": "Vanguard",
+    "stars": 6,
+    "global": true,
+    "en_US": {
+      "name": "Bagpipe",
+      "skills": [
+        "Swift Strike γ",
+        "High-Impact Assault",
+        "Locked Breech Burst"
+      ]
+    },
+    "ja_JP": {
+      "name": "バグパイプ",
+      "skills": [
+        "迅速攻撃γ",
+        "ハイパーインパクト",
+        "クローズドボルト連射"
+      ],
+      "alias": [
+        "ばぐぱいぷ"
+      ]
+    },
+    "ko_KR": {
+      "name": "백파이프",
+      "skills": [
+        "신속공격γ",
+        "고효율 충격",
+        "클로즈드 볼트 연발"
+      ]
+    },
+    "zh_CN": {
+      "name": "风笛",
+      "skills": [
+        "迅捷打击·γ型",
+        "高效冲击",
+        "闭膛连发"
+      ],
+      "alias": [
+        "feng di",
+        "fengdi"
+      ]
+    }
+  },
+  {
+    "id": "ifrit",
+    "game_id": "char_134_ifrit",
+    "type": "Caster",
+    "stars": 6,
+    "global": true,
+    "en_US": {
+      "name": "Ifrit",
+      "skills": [
+        "Fanaticism",
+        "Pyroclasm",
+        "Scorched Earth"
+      ]
+    },
+    "ja_JP": {
+      "name": "イフリータ",
+      "skills": [
+        "猛火",
+        "爆炎",
+        "灼獄"
+      ],
+      "alias": [
+        "いふりーた"
+      ]
+    },
+    "ko_KR": {
+      "name": "이프리트",
+      "skills": [
+        "열광",
+        "화염 폭발",
+        "불타는 땅"
+      ]
+    },
+    "zh_CN": {
+      "name": "伊芙利特",
+      "skills": [
+        "狂热",
+        "炎爆",
+        "灼地"
+      ],
+      "alias": [
+        "yi fu li te",
+        "yifulite"
+      ]
+    },
+    "zh_TW": {
+      "name": "伊芙利特",
+      "skills": [
+        "狂熱",
+        "炎爆",
+        "灼地"
+      ]
+    }
+  },
+  {
+    "id": "mostima",
+    "game_id": "char_213_mostma",
+    "type": "Caster",
+    "stars": 6,
+    "global": true,
+    "en_US": {
+      "name": "Mostima",
+      "skills": [
+        "ATK Up γ",
+        "Lock of Shattered Time",
+        "Key of Chronology"
+      ]
+    },
+    "ja_JP": {
+      "name": "モスティマ",
+      "skills": [
+        "攻撃力強化γ",
+        "時荒びの黒き錠",
+        "時闢きの白き鍵"
+      ],
+      "alias": [
+        "もすてぃま"
+      ]
+    },
+    "ko_KR": {
+      "name": "모스티마",
+      "skills": [
+        "공격 강화γ",
+        "혼돈의 시간의 자물쇠",
+        "질서의 시간의 열쇠"
+      ]
+    },
+    "zh_CN": {
+      "name": "莫斯提马",
+      "skills": [
+        "攻击力强化·γ型",
+        "荒时之锁",
+        "序时之匙"
+      ],
+      "alias": [
+        "mo si ti ma",
+        "mositima"
+      ]
+    },
+    "zh_TW": {
+      "name": "莫斯提馬",
+      "skills": [
+        "攻擊力強化·γ型",
+        "荒時之鎖",
+        "序時之匙"
+      ]
+    }
+  },
+  {
+    "id": "eyjafjalla",
+    "game_id": "char_180_amgoat",
+    "type": "Caster",
+    "stars": 6,
+    "global": true,
+    "en_US": {
+      "name": "Eyjafjalla",
+      "skills": [
+        "Duetto",
+        "Ignition",
+        "Volcano"
+      ]
+    },
+    "ja_JP": {
+      "name": "エイヤフィヤトラ",
+      "skills": [
+        "二重詠唱",
+        "イグニッション",
+        "イラプション"
+      ],
+      "alias": [
+        "えいやふぃやとら"
+      ]
+    },
+    "ko_KR": {
+      "name": "에이야퍄들라",
+      "skills": [
+        "듀엣 아리아",
+        "이그니션",
+        "볼케이노"
+      ]
+    },
+    "zh_CN": {
+      "name": "艾雅法拉",
+      "skills": [
+        "二重咏唱",
+        "点燃",
+        "火山"
+      ],
+      "alias": [
+        "ai ya fa la",
+        "aiyafala"
+      ]
+    },
+    "zh_TW": {
+      "name": "艾雅法拉",
+      "skills": [
+        "二重詠唱",
+        "點燃",
+        "火山"
+      ]
+    }
+  },
+  {
+    "id": "ceobe",
+    "game_id": "char_2013_cerber",
+    "type": "Caster",
+    "stars": 6,
+    "global": true,
+    "en_US": {
+      "name": "Ceobe",
+      "skills": [
+        "\"Really Cold Axe\"",
+        "\"Really Hot Knives\"",
+        "\"Really Heavy Spear\""
+      ]
+    },
+    "ja_JP": {
+      "name": "ケオベ",
+      "skills": [
+        "「つめたいおの」",
+        "「あついないふ」",
+        "「おもたいやり」"
+      ],
+      "alias": [
+        "けおべ"
+      ]
+    },
+    "ko_KR": {
+      "name": "케오베",
+      "skills": [
+        " '엄청 차가운' 도끼",
+        " '엄청 뜨거운' 칼",
+        " '엄청 무거운' 창"
+      ]
+    },
+    "zh_CN": {
+      "name": "刻俄柏",
+      "skills": [
+        "“很冰的斧”",
+        "“很热的刀”",
+        "“很重的枪”"
+      ],
+      "alias": [
+        "ke e bai",
+        "keebai"
+      ]
+    }
+  },
+  {
+    "id": "angelina",
+    "game_id": "char_291_aglina",
+    "type": "Supporter",
+    "stars": 6,
+    "global": true,
+    "en_US": {
+      "name": "Angelina",
+      "skills": [
+        "Arcane Staff - Quick Charge Mode",
+        "Arcane Staff - Particle Mode",
+        "Arcane Staff - Anti-Gravity Mode"
+      ]
+    },
+    "ja_JP": {
+      "name": "アンジェリーナ",
+      "skills": [
+        "秘杖・急収束　",
+        "秘杖・微粒子",
+        "秘杖・反重力"
+      ],
+      "alias": [
+        "あんじぇりーな"
+      ]
+    },
+    "ko_KR": {
+      "name": "안젤리나",
+      "skills": [
+        "아케인스태프-충전",
+        "아케인스태프-미립자",
+        "아케인스태프-반중력"
+      ]
+    },
+    "zh_CN": {
+      "name": "安洁莉娜",
+      "skills": [
+        "秘杖·速充模式",
+        "秘杖·微粒模式",
+        "秘杖·反重力模式"
+      ],
+      "alias": [
+        "an jie li na",
+        "anjielina"
+      ]
+    },
+    "zh_TW": {
+      "name": "安潔莉娜",
+      "skills": [
+        "秘杖·速充模式",
+        "秘杖·微粒模式",
+        "秘杖·反重力模式"
+      ]
+    }
+  },
+  {
+    "id": "suzuran",
+    "game_id": "char_358_lisa",
+    "type": "Supporter",
+    "stars": 6,
+    "global": true,
+    "en_US": {
+      "name": "Suzuran",
+      "skills": [
+        "I'll Do My Best",
+        "Childhood Frolic",
+        "Foxfire Haze"
+      ]
+    },
+    "ja_JP": {
+      "name": "スズラン",
+      "skills": [
+        "全身全霊",
+        "過ぎし日の舞",
+        "渺然たる狐火"
+      ],
+      "alias": [
+        "すずらん"
+      ]
+    },
+    "ko_KR": {
+      "name": "스즈란",
+      "skills": [
+        "전력투구",
+        "어린 시절의 무용",
+        "희미한 여우불"
+      ]
+    },
+    "zh_CN": {
+      "name": "铃兰",
+      "skills": [
+        "全力以赴",
+        "儿时的舞乐",
+        "狐火渺然"
+      ],
+      "alias": [
+        "ling lan",
+        "linglan"
+      ]
+    }
+  },
+  {
+    "id": "magallan",
+    "game_id": "char_248_mgllan",
+    "type": "Supporter",
+    "stars": 6,
+    "global": true,
+    "en_US": {
+      "name": "Magallan",
+      "skills": [
+        "High-Efficiency Freezing Module",
+        "Laser Mining Module",
+        "Armed Combat Module"
+      ]
+    },
+    "ja_JP": {
+      "name": "マゼラン",
+      "skills": [
+        "フリーズモジュール",
+        "レーザーモジュール",
+        "アサルトモジュール"
+      ],
+      "alias": [
+        "まぜらん"
+      ]
+    },
+    "ko_KR": {
+      "name": "마젤란",
+      "skills": [
+        "고효율 냉각 모드",
+        "레이저 채굴 모드",
+        "무장 타격 모드"
+      ]
+    },
+    "zh_CN": {
+      "name": "麦哲伦",
+      "skills": [
+        "高效制冷模块",
+        "激光开采模块",
+        "武装打击模块"
+      ],
+      "alias": [
+        "mai zhe lun",
+        "maizhelun"
+      ]
+    },
+    "zh_TW": {
+      "name": "麥哲倫",
+      "skills": [
+        "高效製冷模組",
+        "雷射開採模組",
+        "武裝打擊模組"
+      ]
+    }
+  },
+  {
+    "id": "phantom",
+    "game_id": "char_250_phatom",
+    "type": "Specialist",
+    "stars": 6,
+    "global": true,
+    "en_US": {
+      "name": "Phantom",
+      "skills": [
+        "Phantom of the Night",
+        "Bloody Opus",
+        "Night Raid"
+      ]
+    },
+    "ja_JP": {
+      "name": "ファントム",
+      "skills": [
+        "闇夜の影法師",
+        "血染めの楽章",
+        "襲来の悪夢"
+      ],
+      "alias": [
+        "ふぁんとむ"
+      ]
+    },
+    "ko_KR": {
+      "name": "팬텀",
+      "skills": [
+        "어두운 밤의 유령",
+        "핏빛 악장",
+        "밤의 장막의 기습"
+      ]
+    },
+    "zh_CN": {
+      "name": "傀影",
+      "skills": [
+        "暗夜魅影",
+        "血色乐章",
+        "夜幕突袭"
+      ],
+      "alias": [
+        "kui ying",
+        "kuiying"
+      ]
+    }
+  },
+  {
+    "id": "weedy",
+    "game_id": "char_400_weedy",
+    "type": "Specialist",
+    "stars": 6,
+    "global": true,
+    "en_US": {
+      "name": "Weedy",
+      "skills": [
+        "Barrel Burst",
+        "Hydraulics Mode",
+        "Liquid Nitrogen Cannon"
+      ]
+    },
+    "ja_JP": {
+      "name": "ウィーディ",
+      "skills": [
+        "砲身強打",
+        "ハイドロキャノン",
+        "LN2キャノン"
+      ],
+      "alias": [
+        "うぃーでぃ"
+      ]
+    },
+    "ko_KR": {
+      "name": "위디",
+      "skills": [
+        "포관 타격",
+        "물대포 모드",
+        "액체 질소 대포"
+      ]
+    },
+    "zh_CN": {
+      "name": "温蒂",
+      "skills": [
+        "炮管敲击",
+        "水炮模式",
+        "液氮大炮"
+      ],
+      "alias": [
+        "wen di",
+        "wendi"
+      ]
+    }
+  },
+  {
+    "id": "aak",
+    "game_id": "char_225_haak",
+    "type": "Specialist",
+    "stars": 6,
+    "global": true,
+    "en_US": {
+      "name": "Aak",
+      "skills": [
+        "Rapid Fire",
+        "Type-γ Stimpack",
+        "Durian-Flavored Stimpack"
+      ]
+    },
+    "ja_JP": {
+      "name": "ア",
+      "skills": [
+        "高速射撃",
+        "劇性増強剤・γ",
+        "劇性増強剤・ドリアン"
+      ],
+      "alias": [
+        "あ"
+      ]
+    },
+    "ko_KR": {
+      "name": "아",
+      "skills": [
+        "쾌속사격",
+        "폭발제γ",
+        "폭발제 (두리안맛) "
+      ]
+    },
+    "zh_CN": {
+      "name": "阿",
+      "skills": [
+        "快速射击",
+        "爆发剂·γ型",
+        "爆发剂·榴莲味"
+      ],
+      "alias": [
+        "a",
+        "a"
+      ]
+    }
+  },
+  {
+    "id": "shining",
+    "game_id": "char_147_shining",
+    "type": "Medic",
+    "stars": 6,
+    "global": true,
+    "en_US": {
+      "name": "Shining",
+      "skills": [
+        "Creed",
+        "Auto Protect",
+        "Creed Field"
+      ]
+    },
+    "ja_JP": {
+      "name": "シャイニング",
+      "skills": [
+        "信条",
+        "オートカバー",
+        "教導の結界"
+      ],
+      "alias": [
+        "しゃいにんぐ"
+      ]
+    },
+    "ko_KR": {
+      "name": "샤이닝",
+      "skills": [
+        "신조",
+        "자동 엄호",
+        "신조의 역장"
+      ]
+    },
+    "zh_CN": {
+      "name": "闪灵",
+      "skills": [
+        "信条",
+        "自动掩护",
+        "教条力场"
+      ],
+      "alias": [
+        "shan ling",
+        "shanling"
+      ]
+    },
+    "zh_TW": {
+      "name": "閃靈",
+      "skills": [
+        "信念",
+        "自動掩護",
+        "教條力場"
+      ]
+    }
+  },
+  {
+    "id": "nightingale",
+    "game_id": "char_179_cgbird",
+    "type": "Medic",
+    "stars": 6,
+    "global": true,
+    "en_US": {
+      "name": "Nightingale",
+      "skills": [
+        "Healing Up γ",
+        "Arts Shield",
+        "Sanctuary"
+      ]
+    },
+    "ja_JP": {
+      "name": "ナイチンゲール",
+      "skills": [
+        "回復力強化γ",
+        "アーツシールド",
+        "聖域"
+      ],
+      "alias": [
+        "ないちんげーる"
+      ]
+    },
+    "ko_KR": {
+      "name": "나이팅게일",
+      "skills": [
+        "치료 강화γ",
+        "아츠 실드",
+        "성역"
+      ]
+    },
+    "zh_CN": {
+      "name": "夜莺",
+      "skills": [
+        "治疗强化·γ型",
+        "法术护盾",
+        "圣域"
+      ],
+      "alias": [
+        "ye ying",
+        "yeying"
+      ]
+    },
+    "zh_TW": {
+      "name": "夜鶯",
+      "skills": [
+        "治療強化·γ型",
+        "法術護盾",
+        "聖域"
+      ]
+    }
+  },
+  {
+    "id": "hoshiguma",
+    "game_id": "char_136_hsguma",
+    "type": "Defender",
+    "stars": 6,
+    "global": true,
+    "en_US": {
+      "name": "Hoshiguma",
+      "skills": [
+        "Warpath",
+        "Thorns",
+        "Saw of Strength"
+      ]
+    },
+    "ja_JP": {
+      "name": "ホシグマ",
+      "skills": [
+        "戦意昂揚",
+        "荊棘",
+        "般若"
+      ],
+      "alias": [
+        "ほしぐま"
+      ]
+    },
+    "ko_KR": {
+      "name": "호시구마",
+      "skills": [
+        "전의 고양",
+        "가시덤불",
+        "반야회전참"
+      ]
+    },
+    "zh_CN": {
+      "name": "星熊",
+      "skills": [
+        "战意",
+        "荆棘",
+        "力之锯"
+      ],
+      "alias": [
+        "xing xiong",
+        "xingxiong"
+      ]
+    },
+    "zh_TW": {
+      "name": "星熊",
+      "skills": [
+        "戰意",
+        "荊棘",
+        "力之鋸"
+      ]
+    }
+  },
+  {
+    "id": "saria",
+    "game_id": "char_202_demkni",
+    "type": "Defender",
+    "stars": 6,
+    "global": true,
+    "en_US": {
+      "name": "Saria",
+      "skills": [
+        "First Aid",
+        "Medicine Dispensing",
+        "Calcification"
+      ]
+    },
+    "ja_JP": {
+      "name": "サリア",
+      "skills": [
+        "応急処置",
+        "薬剤配置",
+        "硬質化"
+      ],
+      "alias": [
+        "さりあ"
+      ]
+    },
+    "ko_KR": {
+      "name": "사리아",
+      "skills": [
+        "응급처치",
+        "약제 배급",
+        "칼슘화"
+      ]
+    },
+    "zh_CN": {
+      "name": "塞雷娅",
+      "skills": [
+        "急救",
+        "药物配置",
+        "钙质化"
+      ],
+      "alias": [
+        "sai lei ya",
+        "saileiya"
+      ]
+    },
+    "zh_TW": {
+      "name": "塞雷婭",
+      "skills": [
+        "急救",
+        "藥物配置",
+        "鈣質化"
+      ]
+    }
+  },
+  {
+    "id": "blemishine",
+    "game_id": "char_423_blemsh",
+    "type": "Defender",
+    "stars": 6,
+    "global": false,
+    "zh_CN": {
+      "name": "瑕光",
+      "skills": [
+        "光芒涌动",
+        "慑敌辉光",
+        "先贤化身"
+      ],
+      "alias": [
+        "xia guang",
+        "xiaguang"
+      ]
+    },
+    "en_US": {
+      "name": "Blemishine"
+    }
+  },
+  {
+    "id": "nian",
+    "game_id": "char_2014_nian",
+    "type": "Defender",
+    "stars": 6,
+    "global": true,
+    "en_US": {
+      "name": "Nian",
+      "skills": [
+        "Tin Burning",
+        "Copper Seal",
+        "Iron Defense"
+      ]
+    },
+    "ja_JP": {
+      "name": "ニェン",
+      "skills": [
+        "錫灼",
+        "銅印",
+        "鉄御"
+      ],
+      "alias": [
+        "にぇん"
+      ]
+    },
+    "ko_KR": {
+      "name": "니엔",
+      "skills": [
+        "달아오른 주석",
+        "동의 인장",
+        "철의 방어"
+      ]
+    },
+    "zh_CN": {
+      "name": "年",
+      "skills": [
+        "锡灼",
+        "铜印",
+        "铁御"
+      ],
+      "alias": [
+        "nian",
+        "nian"
+      ]
+    }
+  },
+  {
+    "id": "mudrock",
+    "game_id": "char_311_mudrok",
+    "type": "Defender",
+    "stars": 6,
+    "global": false,
+    "zh_CN": {
+      "name": "泥岩",
+      "skills": [
+        "防御力强化·γ型",
+        "岩崩锤",
+        "秽壤的血脉"
+      ],
+      "alias": [
+        "ni yan",
+        "niyan"
+      ]
+    },
+    "en_US": {
+      "name": "Mudrock"
+    }
+  },
+  {
+    "id": "eunectes",
+    "game_id": "char_416_zumama",
+    "type": "Defender",
+    "stars": 6,
+    "global": false,
+    "zh_CN": {
+      "name": "森蚺",
+      "skills": [
+        "轻型挂斧",
+        "震慑劈砍",
+        "钢铁意志"
+      ],
+      "alias": [
+        "sen ran",
+        "senran"
+      ]
+    },
+    "en_US": {
+      "name": "Eunectes"
+    }
+  },
+  {
+    "id": "mountain",
+    "game_id": "char_264_f12yin",
+    "type": "Guard",
+    "stars": 6,
+    "global": false,
+    "zh_CN": {
+      "name": "山",
+      "skills": [
+        "左勾扫拳",
+        "横扫架势",
+        "震地碎岩击"
+      ],
+      "alias": [
+        "shan",
+        "shan"
+      ]
+    },
+    "en_US": {
+      "name": "Mountain"
+    }
+  },
+  {
+    "id": "silverash",
+    "game_id": "char_172_svrash",
+    "type": "Guard",
+    "stars": 6,
+    "global": true,
+    "en_US": {
+      "name": "SilverAsh",
+      "skills": [
+        "Power Strike γ",
+        "Rules of Survival",
+        "Truesilver Slash"
+      ]
+    },
+    "ja_JP": {
+      "name": "シルバーアッシュ",
+      "skills": [
+        "強撃γ",
+        "雪境生存戦略",
+        "真銀斬"
+      ],
+      "alias": [
+        "しるばーあっしゅ"
+      ]
+    },
+    "ko_KR": {
+      "name": "실버애쉬",
+      "skills": [
+        "강타γ",
+        "히라 생존 법칙",
+        "진은참"
+      ]
+    },
+    "zh_CN": {
+      "name": "银灰",
+      "skills": [
+        "强力击·γ型",
+        "雪境生存法则",
+        "真银斩"
+      ],
+      "alias": [
+        "yin hui",
+        "yinhui"
+      ]
+    },
+    "zh_TW": {
+      "name": "銀灰",
+      "skills": [
+        "強力擊·γ型",
+        "雪境生存法則",
+        "真銀斬"
+      ]
+    }
+  },
+  {
+    "id": "thorns",
+    "game_id": "char_293_thorns",
+    "type": "Guard",
+    "stars": 6,
+    "global": false,
+    "zh_CN": {
+      "name": "棘刺",
+      "skills": [
+        "攻击力强化·γ型",
+        "护身尖刺",
+        "至高之术"
+      ],
+      "alias": [
+        "ji ci",
+        "jici"
+      ]
+    },
+    "en_US": {
+      "name": "Thorns"
+    }
+  },
+  {
+    "id": "chen",
+    "game_id": "char_010_chen",
+    "type": "Guard",
+    "stars": 6,
+    "global": true,
+    "en_US": {
+      "name": "Ch'en",
+      "skills": [
+        "Sheathed Strike",
+        "Chi Xiao - Unsheath",
+        "Chi Xiao - Shadowless"
+      ]
+    },
+    "ja_JP": {
+      "name": "チェン",
+      "skills": [
+        "鞘打ち",
+        "赤霄・抜刀",
+        "赤霄・絶影"
+      ],
+      "alias": [
+        "ちぇん"
+      ]
+    },
+    "ko_KR": {
+      "name": "첸",
+      "skills": [
+        "칼집 공격",
+        "적소-발도",
+        "적소-절영"
+      ]
+    },
+    "zh_CN": {
+      "name": "陈",
+      "skills": [
+        "鞘击",
+        "赤霄·拔刀",
+        "赤霄·绝影"
+      ],
+      "alias": [
+        "chen",
+        "chen"
+      ]
+    },
+    "zh_TW": {
+      "name": "陳",
+      "skills": [
+        "鞘擊",
+        "赤霄·拔刀",
+        "赤霄·絕影"
+      ]
+    }
+  },
+  {
+    "id": "blaze",
+    "game_id": "char_017_huang",
+    "type": "Guard",
+    "stars": 6,
+    "global": true,
+    "en_US": {
+      "name": "Blaze",
+      "skills": [
+        "Power Strike γ",
+        "Chainsaw Extension Module",
+        "Boiling Burst"
+      ]
+    },
+    "ja_JP": {
+      "name": "ブレイズ",
+      "skills": [
+        "強撃γ",
+        "鎖鋸拡張モジュール",
+        "ボイリングバースト"
+      ],
+      "alias": [
+        "ぶれいず"
+      ]
+    },
+    "ko_KR": {
+      "name": "블레이즈",
+      "skills": [
+        "강타γ",
+        "전기톱 연장 모듈",
+        "끓어오르는 폭발"
+      ]
+    },
+    "zh_CN": {
+      "name": "煌",
+      "skills": [
+        "强力击·γ型",
+        "链锯延伸模块",
+        "沸腾爆裂"
+      ],
+      "alias": [
+        "huang",
+        "huang"
+      ]
+    },
+    "zh_TW": {
+      "name": "煌",
+      "skills": [
+        "強力擊·γ型",
+        "鏈鋸延伸模組",
+        "沸騰爆裂"
+      ]
+    }
+  },
+  {
+    "id": "surtr",
+    "game_id": "char_350_surtr",
+    "type": "Guard",
+    "stars": 6,
+    "global": false,
+    "zh_CN": {
+      "name": "史尔特尔",
+      "skills": [
+        "烈焰魔剑",
+        "熔核巨影",
+        "黄昏"
+      ],
+      "alias": [
+        "shi er te er",
+        "shierteer"
+      ]
+    },
+    "en_US": {
+      "name": "Surtr"
+    }
+  },
+  {
+    "id": "hellagur",
+    "game_id": "char_188_helage",
+    "type": "Guard",
+    "stars": 6,
+    "global": true,
+    "en_US": {
+      "name": "Hellagur",
+      "skills": [
+        "Crescent Moon",
+        "Half Moon",
+        "Full Moon"
+      ]
+    },
+    "ja_JP": {
+      "name": "ヘラグ",
+      "skills": [
+        "新月",
+        "弦月",
+        "満月"
+      ],
+      "alias": [
+        "へらぐ"
+      ]
+    },
+    "ko_KR": {
+      "name": "헬라그",
+      "skills": [
+        "초승달",
+        "그믐달",
+        "보름달"
+      ]
+    },
+    "zh_CN": {
+      "name": "赫拉格",
+      "skills": [
+        "新月",
+        "弦月",
+        "满月"
+      ],
+      "alias": [
+        "he la ge",
+        "helage"
+      ]
+    },
+    "zh_TW": {
+      "name": "赫拉格",
+      "skills": [
+        "新月",
+        "弦月",
+        "滿月"
+      ]
+    }
+  },
+  {
+    "id": "skadi",
+    "game_id": "char_263_skadi",
+    "type": "Guard",
+    "stars": 6,
+    "global": true,
+    "en_US": {
+      "name": "Skadi",
+      "skills": [
+        "Swift Strike γ",
+        "Wave Strike",
+        "Tidal Elegy"
+      ]
+    },
+    "ja_JP": {
+      "name": "スカジ",
+      "skills": [
+        "迅速攻撃γ",
+        "波濤の裂刃",
+        "海嘯の悲歌"
+      ],
+      "alias": [
+        "すかじ"
+      ]
+    },
+    "ko_KR": {
+      "name": "스카디",
+      "skills": [
+        "신속공격γ",
+        "파도타기",
+        "파도의 만가"
+      ]
+    },
+    "zh_CN": {
+      "name": "斯卡蒂",
+      "skills": [
+        "迅捷打击·γ型",
+        "跃浪击",
+        "涌潮悲歌"
+      ],
+      "alias": [
+        "si ka di",
+        "sikadi"
+      ]
+    },
+    "zh_TW": {
+      "name": "斯卡蒂",
+      "skills": [
+        "迅捷打擊·γ型",
+        "躍浪擊",
+        "湧潮悲歌"
+      ]
+    }
+  },
+  {
+    "id": "ptilopsis",
+    "game_id": "char_128_plosis",
+    "type": "Medic",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Ptilopsis",
+      "skills": [
+        "Healing Up γ",
+        "Enkephalin"
+      ]
+    },
+    "ja_JP": {
+      "name": "フィリオプシス",
+      "skills": [
+        "回復力強化γ",
+        "エンケファリン"
+      ],
+      "alias": [
+        "ふぃりおぷしす"
+      ]
+    },
+    "ko_KR": {
+      "name": "프틸롭시스",
+      "skills": [
+        "치료 강화γ",
+        "엔도르핀"
+      ]
+    },
+    "zh_CN": {
+      "name": "白面鸮",
+      "skills": [
+        "治疗强化·γ型",
+        "脑啡肽"
+      ],
+      "alias": [
+        "bai mian xiao",
+        "baimianxiao"
+      ]
+    },
+    "zh_TW": {
+      "name": "白面鴞",
+      "skills": [
+        "治療強化·γ型",
+        "腦啡肽"
+      ]
+    }
+  },
+  {
+    "id": "breeze",
+    "game_id": "char_275_breeze",
+    "type": "Medic",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Breeze",
+      "skills": [
+        "Cluster Therapy",
+        "Widespread Therapy"
+      ]
+    },
+    "ja_JP": {
+      "name": "ブリーズ",
+      "skills": [
+        "集中療法",
+        "拡散療法"
+      ],
+      "alias": [
+        "ぶりーず"
+      ]
+    },
+    "ko_KR": {
+      "name": "브리즈",
+      "skills": [
+        "집중식 치료",
+        "확산식 치료"
+      ]
+    },
+    "zh_CN": {
+      "name": "微风",
+      "skills": [
+        "集束疗法",
+        "扩散疗法"
+      ],
+      "alias": [
+        "wei feng",
+        "weifeng"
+      ]
+    },
+    "zh_TW": {
+      "name": "微風",
+      "skills": [
+        "集束療法",
+        "擴散療法"
+      ]
+    }
+  },
+  {
+    "id": "zima",
+    "game_id": "char_115_headbr",
+    "type": "Vanguard",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Zima",
+      "skills": [
+        "Charge γ",
+        "Ursus's Roar"
+      ]
+    },
+    "ja_JP": {
+      "name": "ズィマー",
+      "skills": [
+        "突撃指令γ",
+        "ウルサスの雄叫び"
+      ],
+      "alias": [
+        "ずぃまー"
+      ]
+    },
+    "ko_KR": {
+      "name": "지마",
+      "skills": [
+        "돌격지령γ",
+        "우르수스의 포효"
+      ]
+    },
+    "zh_CN": {
+      "name": "凛冬",
+      "skills": [
+        "冲锋号令·γ型",
+        "乌萨斯战吼"
+      ],
+      "alias": [
+        "lin dong",
+        "lindong"
+      ]
+    },
+    "zh_TW": {
+      "name": "凜冬",
+      "skills": [
+        "衝鋒號令·γ型",
+        "烏薩斯戰吼"
+      ]
+    },
+    "ru_RU": {
+      "alias": [
+        "Зима"
+      ]
+    }
+  },
+  {
+    "id": "texas",
+    "game_id": "char_102_texas",
+    "type": "Vanguard",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Texas",
+      "skills": [
+        "Charge γ",
+        "Sword Rain"
+      ]
+    },
+    "ja_JP": {
+      "name": "テキサス",
+      "skills": [
+        "突撃指令γ",
+        "剣雨"
+      ],
+      "alias": [
+        "てきさす"
+      ]
+    },
+    "ko_KR": {
+      "name": "텍사스",
+      "skills": [
+        "돌격지령γ",
+        "검의 비"
+      ]
+    },
+    "zh_CN": {
+      "name": "德克萨斯",
+      "skills": [
+        "冲锋号令·γ型",
+        "剑雨"
+      ],
+      "alias": [
+        "de ke sa si",
+        "dekesasi"
+      ]
+    },
+    "zh_TW": {
+      "name": "德克薩斯",
+      "skills": [
+        "衝鋒號令·γ型",
+        "劍雨"
+      ]
+    }
+  },
+  {
+    "id": "chiave",
+    "game_id": "char_349_chiave",
+    "type": "Vanguard",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Chiave",
+      "skills": [
+        "Charge γ",
+        "Blazing Wire Stripper"
+      ]
+    },
+    "ja_JP": {
+      "name": "キアーベ",
+      "skills": [
+        "突撃指令γ",
+        "火炎剥離"
+      ],
+      "alias": [
+        "きあーべ"
+      ]
+    },
+    "ko_KR": {
+      "name": "키아베",
+      "skills": [
+        "돌격지령γ",
+        "플레임 필링"
+      ]
+    },
+    "zh_CN": {
+      "name": "贾维",
+      "skills": [
+        "冲锋号令·γ型",
+        "火焰剥离"
+      ],
+      "alias": [
+        "jia wei",
+        "jiawei"
+      ]
+    }
+  },
+  {
+    "id": "reed",
+    "game_id": "char_261_sddrag",
+    "type": "Vanguard",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Reed",
+      "skills": [
+        "Swift Strike γ",
+        "Soul Spark"
+      ]
+    },
+    "ja_JP": {
+      "name": "リード",
+      "skills": [
+        "迅速攻撃γ",
+        "マナスパーク"
+      ],
+      "alias": [
+        "りーど"
+      ]
+    },
+    "ko_KR": {
+      "name": "리드",
+      "skills": [
+        "신속공격γ",
+        "생령의 불꽃"
+      ]
+    },
+    "zh_CN": {
+      "name": "苇草",
+      "skills": [
+        "迅捷打击·γ型",
+        "生灵火花"
+      ],
+      "alias": [
+        "wei cao",
+        "weicao"
+      ]
+    },
+    "zh_TW": {
+      "name": "葦草",
+      "skills": [
+        "迅捷打擊·γ型",
+        "生靈火花"
+      ]
+    }
+  },
+  {
+    "id": "elysium",
+    "game_id": "char_401_elysm",
+    "type": "Vanguard",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Elysium",
+      "skills": [
+        "Support γ",
+        "Monitor"
+      ]
+    },
+    "ja_JP": {
+      "name": "エリジウム",
+      "skills": [
+        "支援指令γ",
+        "集音"
+      ],
+      "alias": [
+        "えりじうむ"
+      ]
+    },
+    "ko_KR": {
+      "name": "엘리시움",
+      "skills": [
+        "지원지령γ",
+        "경청"
+      ]
+    },
+    "zh_CN": {
+      "name": "极境",
+      "skills": [
+        "支援号令·γ型",
+        "聆听"
+      ],
+      "alias": [
+        "ji jing",
+        "jijing"
+      ]
+    }
+  },
+  {
+    "id": "swire",
+    "game_id": "char_308_swire",
+    "type": "Guard",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Swire",
+      "skills": [
+        "Command and Dispatch",
+        "Cooperative Combat"
+      ]
+    },
+    "ja_JP": {
+      "name": "スワイヤー",
+      "skills": [
+        "統括指揮",
+        "協同作戦"
+      ],
+      "alias": [
+        "すわいやー"
+      ]
+    },
+    "ko_KR": {
+      "name": "스와이어",
+      "skills": [
+        "총괄 지휘",
+        "협동 작전"
+      ]
+    },
+    "zh_CN": {
+      "name": "诗怀雅",
+      "skills": [
+        "指挥调度",
+        "协同作战"
+      ],
+      "alias": [
+        "shi huai ya",
+        "shihuaiya"
+      ]
+    },
+    "zh_TW": {
+      "name": "詩懷雅",
+      "skills": [
+        "指揮調度",
+        "協同作戰"
+      ]
+    }
+  },
+  {
+    "id": "whislash",
+    "game_id": "char_265_sophia",
+    "type": "Guard",
+    "stars": 5,
+    "global": false,
+    "zh_CN": {
+      "name": "鞭刃",
+      "skills": [
+        "激励艺术",
+        "鞭刃"
+      ],
+      "alias": [
+        "bian ren",
+        "bianren"
+      ]
+    },
+    "en_US": {
+      "name": "Whislash"
+    }
+  },
+  {
+    "id": "franka",
+    "game_id": "char_106_franka",
+    "type": "Guard",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Franka",
+      "skills": [
+        "Swift Strike γ",
+        "Vorpal Edge"
+      ]
+    },
+    "ja_JP": {
+      "name": "フランカ",
+      "skills": [
+        "迅速攻撃γ",
+        "利剣の極致"
+      ],
+      "alias": [
+        "ふらんか"
+      ]
+    },
+    "ko_KR": {
+      "name": "프란카",
+      "skills": [
+        "신속공격γ",
+        "예리함의 극치"
+      ]
+    },
+    "zh_CN": {
+      "name": "芙兰卡",
+      "skills": [
+        "迅捷打击·γ型",
+        "极致锋度"
+      ],
+      "alias": [
+        "fu lan ka",
+        "fulanka"
+      ]
+    },
+    "zh_TW": {
+      "name": "芙蘭卡",
+      "skills": [
+        "迅捷打擊·γ型",
+        "極致鋒度"
+      ]
+    }
+  },
+  {
+    "id": "flamebringer",
+    "game_id": "char_131_flameb",
+    "type": "Guard",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Flamebringer",
+      "skills": [
+        "Blood Pact",
+        "Blade Demon"
+      ]
+    },
+    "ja_JP": {
+      "name": "エンカク",
+      "skills": [
+        "血化粧",
+        "刃鬼"
+      ],
+      "alias": [
+        "えんかく"
+      ]
+    },
+    "ko_KR": {
+      "name": "플레임브링어",
+      "skills": [
+        "흡혈",
+        "인귀"
+      ]
+    },
+    "zh_CN": {
+      "name": "炎客",
+      "skills": [
+        "歃血",
+        "刃鬼"
+      ],
+      "alias": [
+        "yan ke",
+        "yanke"
+      ]
+    },
+    "zh_TW": {
+      "name": "炎客",
+      "skills": [
+        "歃血",
+        "刃鬼"
+      ]
+    }
+  },
+  {
+    "id": "sharp",
+    "game_id": "char_508_aguard",
+    "type": "Guard",
+    "stars": 5,
+    "global": false,
+    "zh_CN": {
+      "name": "Sharp",
+      "skills": [
+        "亮剑"
+      ]
+    },
+    "en_US": {
+      "name": "Sharp"
+    }
+  },
+  {
+    "id": "indra",
+    "game_id": "char_155_tiger",
+    "type": "Guard",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Indra",
+      "skills": [
+        "Armorcrusher",
+        "Sundered Soul"
+      ]
+    },
+    "ja_JP": {
+      "name": "インドラ",
+      "skills": [
+        "砕甲拳",
+        "裂魂"
+      ],
+      "alias": [
+        "いんどら"
+      ]
+    },
+    "ko_KR": {
+      "name": "인드라",
+      "skills": [
+        "쇄갑권",
+        "열혼"
+      ]
+    },
+    "zh_CN": {
+      "name": "因陀罗",
+      "skills": [
+        "碎甲拳",
+        "裂魂"
+      ],
+      "alias": [
+        "yin tuo luo",
+        "yintuoluo"
+      ]
+    },
+    "zh_TW": {
+      "name": "因陀羅",
+      "skills": [
+        "碎甲拳",
+        "裂魂"
+      ]
+    }
+  },
+  {
+    "id": "flint",
+    "game_id": "char_415_flint",
+    "type": "Guard",
+    "stars": 5,
+    "global": false,
+    "zh_CN": {
+      "name": "燧石",
+      "skills": [
+        "不息",
+        "锋芒毕露"
+      ],
+      "alias": [
+        "sui shi",
+        "suishi"
+      ]
+    },
+    "en_US": {
+      "name": "Flint"
+    }
+  },
+  {
+    "id": "lappland",
+    "game_id": "char_140_whitew",
+    "type": "Guard",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Lappland",
+      "skills": [
+        "Sundial",
+        "Wolf Spirit"
+      ]
+    },
+    "ja_JP": {
+      "name": "ラップランド",
+      "skills": [
+        "影落とす時針",
+        "狼魂"
+      ],
+      "alias": [
+        "らっぷらんど"
+      ]
+    },
+    "ko_KR": {
+      "name": "라플란드",
+      "skills": [
+        "해시계",
+        "늑대의 혼"
+      ]
+    },
+    "zh_CN": {
+      "name": "拉普兰德",
+      "skills": [
+        "日晷",
+        "狼魂"
+      ],
+      "alias": [
+        "la pu lan de",
+        "lapulande"
+      ]
+    },
+    "zh_TW": {
+      "name": "拉普蘭德",
+      "skills": [
+        "日晷",
+        "狼魂"
+      ]
+    }
+  },
+  {
+    "id": "ayerscarpe",
+    "game_id": "char_294_ayer",
+    "type": "Guard",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Ayerscarpe",
+      "skills": [
+        "Shrapnel Burst",
+        "Activate Phase Blades"
+      ]
+    },
+    "ja_JP": {
+      "name": "エアースカーペ",
+      "skills": [
+        "多目標型散弾",
+        "ブレイドビット起動"
+      ],
+      "alias": [
+        "えあーすかーぺ"
+      ]
+    },
+    "ko_KR": {
+      "name": "에이어스카르페",
+      "skills": [
+        "다중 유도 분산 탄환",
+        "부유 칼날 기동"
+      ]
+    },
+    "zh_CN": {
+      "name": "断崖",
+      "skills": [
+        "多导向散射弹丸",
+        "浮游刃启动"
+      ],
+      "alias": [
+        "duan ya",
+        "duanya"
+      ]
+    }
+  },
+  {
+    "id": "bibeak",
+    "game_id": "char_252_bibeak",
+    "type": "Guard",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Bibeak",
+      "skills": [
+        "Plumage Pins",
+        "Blade Swap"
+      ]
+    },
+    "ja_JP": {
+      "name": "バイビーク",
+      "skills": [
+        "剣羽飛針",
+        "異刃斬"
+      ],
+      "alias": [
+        "ばいびーく"
+      ]
+    },
+    "ko_KR": {
+      "name": "바이비크",
+      "skills": [
+        "깃털 칼날",
+        "갈라지는 칼날"
+      ]
+    },
+    "zh_CN": {
+      "name": "柏喙",
+      "skills": [
+        "飞针剑羽",
+        "异刃斩"
+      ],
+      "alias": [
+        "bai hui",
+        "baihui"
+      ]
+    }
+  },
+  {
+    "id": "specter",
+    "game_id": "char_143_ghost",
+    "type": "Guard",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Specter",
+      "skills": [
+        "ATK Up γ",
+        "Bone Fracture"
+      ]
+    },
+    "ja_JP": {
+      "name": "スペクター",
+      "skills": [
+        "攻撃力強化γ",
+        "肉斬骨断"
+      ],
+      "alias": [
+        "すぺくたー"
+      ]
+    },
+    "ko_KR": {
+      "name": "스펙터",
+      "skills": [
+        "공격 강화γ",
+        "육참골단"
+      ]
+    },
+    "zh_CN": {
+      "name": "幽灵鲨",
+      "skills": [
+        "攻击力强化·γ型",
+        "肉斩骨断"
+      ],
+      "alias": [
+        "you ling sha",
+        "youlingsha"
+      ]
+    },
+    "zh_TW": {
+      "name": "幽靈鯊",
+      "skills": [
+        "攻擊力強化·γ型",
+        "肉斬骨斷"
+      ]
+    }
+  },
+  {
+    "id": "broca",
+    "game_id": "char_356_broca",
+    "type": "Guard",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Broca",
+      "skills": [
+        "Galvanize",
+        "High-Voltage Current"
+      ]
+    },
+    "ja_JP": {
+      "name": "ブローカ",
+      "skills": [
+        "ターンオン",
+        "ハイボルテージ"
+      ],
+      "alias": [
+        "ぶろーか"
+      ]
+    },
+    "ko_KR": {
+      "name": "브로카",
+      "skills": [
+        "에너자이즈",
+        "고압전류"
+      ]
+    },
+    "zh_CN": {
+      "name": "布洛卡",
+      "skills": [
+        "通电",
+        "高压电流"
+      ],
+      "alias": [
+        "bu luo ka",
+        "buluoka"
+      ]
+    },
+    "zh_TW": {
+      "name": "布洛卡",
+      "skills": [
+        "通電",
+        "高壓電流"
+      ]
+    }
+  },
+  {
+    "id": "astesia",
+    "game_id": "char_274_astesi",
+    "type": "Guard",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Astesia",
+      "skills": [
+        "Astral Protection",
+        "Astral Sword"
+      ]
+    },
+    "ja_JP": {
+      "name": "アステシア",
+      "skills": [
+        "星座の守護",
+        "星輝剣"
+      ],
+      "alias": [
+        "あすてしあ"
+      ]
+    },
+    "ko_KR": {
+      "name": "아스테시아",
+      "skills": [
+        "성좌의 수호자",
+        "빛나는 별의 검"
+      ]
+    },
+    "zh_CN": {
+      "name": "星极",
+      "skills": [
+        "星座守护",
+        "星辉剑"
+      ],
+      "alias": [
+        "xing ji",
+        "xingji"
+      ]
+    },
+    "zh_TW": {
+      "name": "星極",
+      "skills": [
+        "星座守護",
+        "星輝劍"
+      ]
+    }
+  },
+  {
+    "id": "sideroca",
+    "game_id": "char_333_sidero",
+    "type": "Guard",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Sideroca",
+      "skills": [
+        "Regeneration γ",
+        "Restorative Surge"
+      ]
+    },
+    "ja_JP": {
+      "name": "シデロカ",
+      "skills": [
+        "HP回復γ",
+        "裂波奮迅"
+      ],
+      "alias": [
+        "しでろか"
+      ]
+    },
+    "ko_KR": {
+      "name": "시데로카",
+      "skills": [
+        "HP회복γ",
+        "파도 가르기"
+      ]
+    },
+    "zh_CN": {
+      "name": "铸铁",
+      "skills": [
+        "生命回复·γ型",
+        "破浪回神"
+      ],
+      "alias": [
+        "zhu tie",
+        "zhutie"
+      ]
+    }
+  },
+  {
+    "id": "blue_poison",
+    "game_id": "char_129_bluep",
+    "type": "Sniper",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Blue Poison",
+      "skills": [
+        "Twinshot - Auto",
+        "Venom Spray"
+      ]
+    },
+    "ja_JP": {
+      "name": "アズリウス",
+      "skills": [
+        "ダブルショット",
+        "毒液装填"
+      ],
+      "alias": [
+        "あずりうす"
+      ]
+    },
+    "ko_KR": {
+      "name": "블루포이즌",
+      "skills": [
+        "이중사격-자동",
+        "독액 살포"
+      ]
+    },
+    "zh_CN": {
+      "name": "蓝毒",
+      "skills": [
+        "二重射击·自动",
+        "毒液散射"
+      ],
+      "alias": [
+        "lan du",
+        "landu"
+      ]
+    },
+    "zh_TW": {
+      "name": "藍毒",
+      "skills": [
+        "二重射擊·自動",
+        "毒液散射"
+      ]
+    }
+  },
+  {
+    "id": "platinum",
+    "game_id": "char_204_platnm",
+    "type": "Sniper",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Platinum",
+      "skills": [
+        "ATK Up γ",
+        "Pegasian Sight"
+      ]
+    },
+    "ja_JP": {
+      "name": "プラチナ",
+      "skills": [
+        "攻撃力強化γ",
+        "ペガサスアイ"
+      ],
+      "alias": [
+        "ぷらちな"
+      ]
+    },
+    "ko_KR": {
+      "name": "플래티넘",
+      "skills": [
+        "공격 강화γ",
+        "페가수스의 눈"
+      ]
+    },
+    "zh_CN": {
+      "name": "白金",
+      "skills": [
+        "攻击力强化·γ型",
+        "天马视域"
+      ],
+      "alias": [
+        "bai jin",
+        "baijin"
+      ]
+    },
+    "zh_TW": {
+      "name": "白金",
+      "skills": [
+        "攻擊力強化·γ型",
+        "天馬視域"
+      ]
+    }
+  },
+  {
+    "id": "greythroat",
+    "game_id": "char_367_swllow",
+    "type": "Sniper",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "GreyThroat",
+      "skills": [
+        "Flying Feathers",
+        "Counterflow"
+      ]
+    },
+    "ja_JP": {
+      "name": "グレースロート",
+      "skills": [
+        "風切",
+        "羽嵐"
+      ],
+      "alias": [
+        "ぐれーすろーと"
+      ]
+    },
+    "ko_KR": {
+      "name": "그레이스롯",
+      "skills": [
+        "날개깃",
+        "역류"
+      ]
+    },
+    "zh_CN": {
+      "name": "灰喉",
+      "skills": [
+        "飞羽",
+        "回流"
+      ],
+      "alias": [
+        "hui hou",
+        "huihou"
+      ]
+    },
+    "zh_TW": {
+      "name": "灰喉",
+      "skills": [
+        "飛羽",
+        "回流"
+      ]
+    }
+  },
+  {
+    "id": "stormeye",
+    "game_id": "char_511_asnipe",
+    "type": "Sniper",
+    "stars": 5,
+    "global": false,
+    "zh_CN": {
+      "name": "Stormeye",
+      "skills": [
+        "旋臂"
+      ]
+    },
+    "en_US": {
+      "name": "Stormeye"
+    }
+  },
+  {
+    "id": "april",
+    "game_id": "char_365_aprl",
+    "type": "Sniper",
+    "stars": 5,
+    "global": false,
+    "zh_CN": {
+      "name": "四月",
+      "skills": [
+        "精准射击",
+        "灵活伪装"
+      ],
+      "alias": [
+        "si yue",
+        "siyue"
+      ]
+    },
+    "en_US": {
+      "name": "April"
+    }
+  },
+  {
+    "id": "meteorite",
+    "game_id": "char_219_meteo",
+    "type": "Sniper",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Meteorite",
+      "skills": [
+        "Buckshot",
+        "High-Explosive Shell"
+      ]
+    },
+    "ja_JP": {
+      "name": "メテオリーテ",
+      "skills": [
+        "散弾装填",
+        "榴弾装填"
+      ],
+      "alias": [
+        "めておりーて"
+      ]
+    },
+    "ko_KR": {
+      "name": "메테오라이트",
+      "skills": [
+        "집속탄 장전",
+        "유탄 장전"
+      ]
+    },
+    "zh_CN": {
+      "name": "陨星",
+      "skills": [
+        "霰射弹头",
+        "高爆弹头"
+      ],
+      "alias": [
+        "yun xing",
+        "yunxing"
+      ]
+    },
+    "zh_TW": {
+      "name": "隕星",
+      "skills": [
+        "霰射彈頭",
+        "高爆彈頭"
+      ]
+    }
+  },
+  {
+    "id": "sesa",
+    "game_id": "char_379_sesa",
+    "type": "Sniper",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Sesa",
+      "skills": [
+        "ATK Up γ",
+        "Delayed Concussive Parts"
+      ]
+    },
+    "ja_JP": {
+      "name": "シェーシャ",
+      "skills": [
+        "攻撃力強化γ",
+        "ディレイドボンバー"
+      ],
+      "alias": [
+        "しぇーしゃ"
+      ]
+    },
+    "ko_KR": {
+      "name": "세사",
+      "skills": [
+        "공격 강화γ",
+        "딜레이 진탕 부품"
+      ]
+    },
+    "zh_CN": {
+      "name": "慑砂",
+      "skills": [
+        "攻击力强化·γ型",
+        "延时震荡零件"
+      ],
+      "alias": [
+        "she sha",
+        "shesha"
+      ]
+    }
+  },
+  {
+    "id": "executor",
+    "game_id": "char_279_excu",
+    "type": "Sniper",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Executor",
+      "skills": [
+        "Muzzle’s Elegy",
+        "Final Journey"
+      ]
+    },
+    "ja_JP": {
+      "name": "イグゼキュター",
+      "skills": [
+        "フルチョーク",
+        "終焉の旅路"
+      ],
+      "alias": [
+        "いぐぜきゅたー"
+      ]
+    },
+    "ko_KR": {
+      "name": "이그제큐터",
+      "skills": [
+        "총구정리",
+        "최후의 여로"
+      ]
+    },
+    "zh_CN": {
+      "name": "送葬人",
+      "skills": [
+        "铳口收束",
+        "最终旅程"
+      ],
+      "alias": [
+        "song zang ren",
+        "songzangren"
+      ]
+    },
+    "zh_TW": {
+      "name": "送葬人",
+      "skills": [
+        "銃口收束",
+        "最終旅程"
+      ]
+    }
+  },
+  {
+    "id": "aosta",
+    "game_id": "char_346_aosta",
+    "type": "Sniper",
+    "stars": 5,
+    "global": false,
+    "zh_CN": {
+      "name": "奥斯塔",
+      "skills": [
+        "迅捷打击·γ型",
+        "影钉"
+      ],
+      "alias": [
+        "ao si ta",
+        "aosita"
+      ]
+    },
+    "en_US": {
+      "name": "Aosta"
+    }
+  },
+  {
+    "id": "amiya",
+    "game_id": "char_002_amiya",
+    "type": "Caster",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Amiya",
+      "skills": [
+        "Tactical Chant γ",
+        "Spirit Burst",
+        "Chimera"
+      ]
+    },
+    "ja_JP": {
+      "name": "アーミヤ",
+      "skills": [
+        "戦術詠唱γ",
+        "ソウルブースト",
+        "キメラ"
+      ],
+      "alias": [
+        "あーみや"
+      ]
+    },
+    "ko_KR": {
+      "name": "아미야",
+      "skills": [
+        "전술영창γ",
+        "스피릿 버스트",
+        "키메라"
+      ]
+    },
+    "zh_CN": {
+      "name": "阿米娅",
+      "skills": [
+        "战术咏唱·γ型",
+        "精神爆发",
+        "奇美拉"
+      ],
+      "alias": [
+        "a mi ya",
+        "amiya"
+      ]
+    },
+    "zh_TW": {
+      "name": "阿米婭",
+      "skills": [
+        "戰術詠唱·γ型",
+        "精神爆發",
+        "奇美拉"
+      ]
+    }
+  },
+  {
+    "id": "absinthe",
+    "game_id": "char_405_absin",
+    "type": "Caster",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Absinthe",
+      "skills": [
+        "Enforcement Mode",
+        "Ultimatum"
+      ]
+    },
+    "ja_JP": {
+      "name": "アブサント",
+      "skills": [
+        "執行態勢",
+        "告死の弾雨"
+      ],
+      "alias": [
+        "あぶさんと"
+      ]
+    },
+    "ko_KR": {
+      "name": "압생트",
+      "skills": [
+        "집행 모드",
+        "종언의 연사"
+      ]
+    },
+    "zh_CN": {
+      "name": "苦艾",
+      "skills": [
+        "执法模式",
+        "终结连射"
+      ],
+      "alias": [
+        "ku ai",
+        "kuai"
+      ]
+    }
+  },
+  {
+    "id": "tomimi",
+    "game_id": "char_411_tomimi",
+    "type": "Caster",
+    "stars": 5,
+    "global": false,
+    "zh_CN": {
+      "name": "特米米",
+      "skills": [
+        "部族技艺",
+        "嘉维尔保护方案"
+      ],
+      "alias": [
+        "te mi mi",
+        "temimi"
+      ]
+    },
+    "en_US": {
+      "name": "Tomimi"
+    }
+  },
+  {
+    "id": "skyfire",
+    "game_id": "char_166_skfire",
+    "type": "Caster",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Skyfire",
+      "skills": [
+        "ATK Up γ",
+        "Fire of Heaven"
+      ]
+    },
+    "ja_JP": {
+      "name": "スカイフレア",
+      "skills": [
+        "攻撃力強化γ",
+        "メテオフレイム"
+      ],
+      "alias": [
+        "すかいふれあ"
+      ]
+    },
+    "ko_KR": {
+      "name": "스카이파이어",
+      "skills": [
+        "공격 강화γ",
+        "메테오 플레임"
+      ]
+    },
+    "zh_CN": {
+      "name": "天火",
+      "skills": [
+        "攻击力强化·γ型",
+        "天坠之火"
+      ],
+      "alias": [
+        "tian huo",
+        "tianhuo"
+      ]
+    },
+    "zh_TW": {
+      "name": "天火",
+      "skills": [
+        "攻擊力強化·γ型",
+        "天墜之火"
+      ]
+    }
+  },
+  {
+    "id": "pith",
+    "game_id": "char_509_acast",
+    "type": "Caster",
+    "stars": 5,
+    "global": false,
+    "zh_CN": {
+      "name": "Pith",
+      "skills": [
+        "“为我所为”"
+      ]
+    },
+    "en_US": {
+      "name": "Pith"
+    }
+  },
+  {
+    "id": "leizi",
+    "game_id": "char_306_leizi",
+    "type": "Caster",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Leizi",
+      "skills": [
+        "ATK Up γ",
+        "Thunderclap"
+      ]
+    },
+    "ja_JP": {
+      "name": "レイズ",
+      "skills": [
+        "攻撃力強化γ",
+        "初雷"
+      ],
+      "alias": [
+        "れいず"
+      ]
+    },
+    "ko_KR": {
+      "name": "레이즈",
+      "skills": [
+        "공격 강화γ",
+        "초뢰"
+      ]
+    },
+    "zh_CN": {
+      "name": "惊蛰",
+      "skills": [
+        "攻击力强化·γ型",
+        "初雷"
+      ],
+      "alias": [
+        "jing zhe",
+        "jingzhe"
+      ]
+    }
+  },
+  {
+    "id": "beeswax",
+    "game_id": "char_344_beewax",
+    "type": "Caster",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Beeswax",
+      "skills": [
+        "Growing Sandstorm",
+        "Guardian Obelisk"
+      ]
+    },
+    "ja_JP": {
+      "name": "ビーズワクス",
+      "skills": [
+        "砂嵐拡散",
+        "オベリスク召喚"
+      ],
+      "alias": [
+        "びーずわくす"
+      ]
+    },
+    "ko_KR": {
+      "name": "비즈왁스",
+      "skills": [
+        "모래 폭풍 확산",
+        "수호의 오벨리스크"
+      ]
+    },
+    "zh_CN": {
+      "name": "蜜蜡",
+      "skills": [
+        "沙暴扩散",
+        "守卫尖碑"
+      ],
+      "alias": [
+        "mi la",
+        "mila"
+      ]
+    }
+  },
+  {
+    "id": "leonhardt",
+    "game_id": "char_373_lionhd",
+    "type": "Caster",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Leonhardt",
+      "skills": [
+        "ATK Up γ",
+        "Deconstruct and Detonate"
+      ]
+    },
+    "ja_JP": {
+      "name": "レオンハルト",
+      "skills": [
+        "攻撃力強化γ",
+        "弱点解析＆爆破"
+      ],
+      "alias": [
+        "れおんはると"
+      ]
+    },
+    "ko_KR": {
+      "name": "레온하르트",
+      "skills": [
+        "공격 강화γ",
+        "해체와 폭파"
+      ]
+    },
+    "zh_CN": {
+      "name": "莱恩哈特",
+      "skills": [
+        "攻击力强化·γ型",
+        "解构与爆破"
+      ],
+      "alias": [
+        "lai en ha te",
+        "laienhate"
+      ]
+    }
+  },
+  {
+    "id": "mint",
+    "game_id": "char_388_mint",
+    "type": "Caster",
+    "stars": 5,
+    "global": false,
+    "zh_CN": {
+      "name": "薄绿",
+      "skills": [
+        "风语",
+        "聚能涡旋"
+      ],
+      "alias": [
+        "bao lv",
+        "baolv"
+      ]
+    },
+    "en_US": {
+      "name": "Mint"
+    }
+  },
+  {
+    "id": "iris",
+    "game_id": "char_338_iris",
+    "type": "Caster",
+    "stars": 5,
+    "global": false,
+    "zh_CN": {
+      "name": "爱丽丝",
+      "skills": [
+        "童话守卫者",
+        "梦乡摇篮"
+      ],
+      "alias": [
+        "ai li si",
+        "ailisi"
+      ]
+    },
+    "en_US": {
+      "name": "Iris"
+    }
+  },
+  {
+    "id": "mayer",
+    "game_id": "char_242_otter",
+    "type": "Supporter",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Mayer",
+      "skills": [
+        "Bionic Device",
+        "Detonate and Recycle"
+      ]
+    },
+    "ja_JP": {
+      "name": "メイヤー",
+      "skills": [
+        "攪乱装置",
+        "ミーボ起爆"
+      ],
+      "alias": [
+        "めいやー"
+      ]
+    },
+    "ko_KR": {
+      "name": "메이어",
+      "skills": [
+        "교란 장치",
+        "폭파&회수"
+      ]
+    },
+    "zh_CN": {
+      "name": "梅尔",
+      "skills": [
+        "迷惑装置",
+        "爆破回收"
+      ],
+      "alias": [
+        "mei er",
+        "meier"
+      ]
+    },
+    "zh_TW": {
+      "name": "梅爾",
+      "skills": [
+        "迷惑裝置",
+        "爆破回收"
+      ]
+    }
+  },
+  {
+    "id": "scene",
+    "game_id": "char_336_folivo",
+    "type": "Supporter",
+    "stars": 5,
+    "global": false,
+    "zh_CN": {
+      "name": "稀音",
+      "skills": [
+        "保护色隐蔽",
+        "全景过载摄像"
+      ],
+      "alias": [
+        "xi yin",
+        "xiyin"
+      ]
+    },
+    "en_US": {
+      "name": "Scene"
+    }
+  },
+  {
+    "id": "silence",
+    "game_id": "char_108_silent",
+    "type": "Medic",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Silence",
+      "skills": [
+        "Healing Up γ",
+        "Medical Drone"
+      ]
+    },
+    "ja_JP": {
+      "name": "サイレンス",
+      "skills": [
+        "回復力強化γ",
+        "医療ドローン"
+      ],
+      "alias": [
+        "さいれんす"
+      ]
+    },
+    "ko_KR": {
+      "name": "사일런스",
+      "skills": [
+        "치료 강화γ",
+        "치료 드론"
+      ]
+    },
+    "zh_CN": {
+      "name": "赫默",
+      "skills": [
+        "治疗强化·γ型",
+        "医疗无人机"
+      ],
+      "alias": [
+        "he mo",
+        "hemo"
+      ]
+    },
+    "zh_TW": {
+      "name": "赫默",
+      "skills": [
+        "治療強化·γ型",
+        "醫療無人機"
+      ]
+    }
+  },
+  {
+    "id": "warfarin",
+    "game_id": "char_171_bldsk",
+    "type": "Medic",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Warfarin",
+      "skills": [
+        "Emergency Triage",
+        "Unstable Plasma"
+      ]
+    },
+    "ja_JP": {
+      "name": "ワルファリン",
+      "skills": [
+        "救急包帯法",
+        "不安定血漿"
+      ],
+      "alias": [
+        "わるふぁりん"
+      ]
+    },
+    "ko_KR": {
+      "name": "와파린",
+      "skills": [
+        "응급처치용 밴드",
+        "불안정 혈장"
+      ]
+    },
+    "zh_CN": {
+      "name": "华法琳",
+      "skills": [
+        "紧急包扎",
+        "不稳定血浆"
+      ],
+      "alias": [
+        "hua fa lin",
+        "huafalin"
+      ]
+    },
+    "zh_TW": {
+      "name": "華法琳",
+      "skills": [
+        "緊急包紮",
+        "不穩定血漿"
+      ]
+    }
+  },
+  {
+    "id": "folinic",
+    "game_id": "char_345_folnic",
+    "type": "Medic",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Folinic",
+      "skills": [
+        "Max-Dosage Infusion",
+        "Compound Drug Shell"
+      ]
+    },
+    "ja_JP": {
+      "name": "フォリニック",
+      "skills": [
+        "最大限度量投薬",
+        "特製薬刃弾"
+      ],
+      "alias": [
+        "ふぉりにっく"
+      ]
+    },
+    "ko_KR": {
+      "name": "폴리닉",
+      "skills": [
+        "최대 약제량 투여",
+        "복합형 약물 파편"
+      ]
+    },
+    "zh_CN": {
+      "name": "亚叶",
+      "skills": [
+        "最大剂量输注",
+        "复合型药物弹片"
+      ],
+      "alias": [
+        "ya ye",
+        "yaye"
+      ]
+    }
+  },
+  {
+    "id": "touch",
+    "game_id": "char_510_amedic",
+    "type": "Medic",
+    "stars": 5,
+    "global": false,
+    "zh_CN": {
+      "name": "Touch",
+      "skills": [
+        "宛如天启"
+      ]
+    },
+    "en_US": {
+      "name": "Touch"
+    }
+  },
+  {
+    "id": "ceylon",
+    "game_id": "char_348_ceylon",
+    "type": "Medic",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Ceylon",
+      "skills": [
+        "Concentrated Hydrotherapy",
+        "Water Blessing"
+      ]
+    },
+    "ja_JP": {
+      "name": "セイロン",
+      "skills": [
+        "ハイドロセラピー",
+        "水霊の加護"
+      ],
+      "alias": [
+        "せいろん"
+      ]
+    },
+    "ko_KR": {
+      "name": "실론",
+      "skills": [
+        "집중식 수치료",
+        "물의 정령의 가호"
+      ]
+    },
+    "zh_CN": {
+      "name": "锡兰",
+      "skills": [
+        "集中式水疗",
+        "水灵庇护"
+      ],
+      "alias": [
+        "xi lan",
+        "xilan"
+      ]
+    },
+    "zh_TW": {
+      "name": "錫蘭",
+      "skills": [
+        "集中式水療",
+        "水靈庇護"
+      ]
+    }
+  },
+  {
+    "id": "whisperain",
+    "game_id": "char_436_whispr",
+    "type": "Medic",
+    "stars": 5,
+    "global": false,
+    "zh_CN": {
+      "name": "絮雨",
+      "skills": [
+        "定向诊断",
+        "痛觉抑制"
+      ],
+      "alias": [
+        "xu yu",
+        "xuyu"
+      ]
+    },
+    "en_US": {
+      "name": "Whisperain"
+    }
+  },
+  {
+    "id": "nearl",
+    "game_id": "char_148_nearl",
+    "type": "Defender",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Nearl",
+      "skills": [
+        "First Aid",
+        "First Aid Mode"
+      ]
+    },
+    "ja_JP": {
+      "name": "ニアール",
+      "skills": [
+        "応急処置",
+        "救護態勢"
+      ],
+      "alias": [
+        "にあーる"
+      ]
+    },
+    "ko_KR": {
+      "name": "니어",
+      "skills": [
+        "응급처치",
+        "응급 모드"
+      ]
+    },
+    "zh_CN": {
+      "name": "临光",
+      "skills": [
+        "急救",
+        "急救模式"
+      ],
+      "alias": [
+        "lin guang",
+        "linguang"
+      ]
+    },
+    "zh_TW": {
+      "name": "臨光",
+      "skills": [
+        "急救",
+        "急救模式"
+      ]
+    }
+  },
+  {
+    "id": "hung",
+    "game_id": "char_226_hmau",
+    "type": "Defender",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Hung",
+      "skills": [
+        "Treatment Countermeasure",
+        "Medical Mode Countermeasure"
+      ]
+    },
+    "ja_JP": {
+      "name": "ウン",
+      "skills": [
+        "応急処置・受動",
+        "医療態勢・受動"
+      ],
+      "alias": [
+        "うん"
+      ]
+    },
+    "ko_KR": {
+      "name": "훔",
+      "skills": [
+        "반격 치료",
+        "반격 의료 모드"
+      ]
+    },
+    "zh_CN": {
+      "name": "吽",
+      "skills": [
+        "反制治疗",
+        "反制医疗模式"
+      ],
+      "alias": [
+        "hou",
+        "hou"
+      ]
+    }
+  },
+  {
+    "id": "projekt_red",
+    "game_id": "char_144_red",
+    "type": "Specialist",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Projekt Red",
+      "skills": [
+        "Execution Mode",
+        "Wolfpack"
+      ]
+    },
+    "ja_JP": {
+      "name": "レッド",
+      "skills": [
+        "処刑の構え",
+        "郡狼"
+      ],
+      "alias": [
+        "れっど"
+      ]
+    },
+    "ko_KR": {
+      "name": "레드",
+      "skills": [
+        "처형 모드",
+        "이리 떼"
+      ]
+    },
+    "zh_CN": {
+      "name": "红",
+      "skills": [
+        "处决模式",
+        "狼群"
+      ],
+      "alias": [
+        "hong",
+        "hong"
+      ]
+    },
+    "zh_TW": {
+      "name": "紅",
+      "skills": [
+        "處決模式",
+        "狼群"
+      ]
+    }
+  },
+  {
+    "id": "waai_fu",
+    "game_id": "char_243_waaifu",
+    "type": "Specialist",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Waai Fu",
+      "skills": [
+        "One-inch Punch",
+        "Seven-styles Kick"
+      ]
+    },
+    "ja_JP": {
+      "name": "ワイフー",
+      "skills": [
+        "寸勁",
+        "七武掠陣脚"
+      ],
+      "alias": [
+        "わいふー"
+      ]
+    },
+    "ko_KR": {
+      "name": "와이후",
+      "skills": [
+        "촌경",
+        "칠무약진각"
+      ]
+    },
+    "zh_CN": {
+      "name": "槐琥",
+      "skills": [
+        "寸劲",
+        "七武掠阵踢"
+      ],
+      "alias": [
+        "huai hu",
+        "huaihu"
+      ]
+    },
+    "zh_TW": {
+      "name": "槐琥",
+      "skills": [
+        "寸勁",
+        "七武掠陣踢"
+      ]
+    }
+  },
+  {
+    "id": "kafka",
+    "game_id": "char_214_kafka",
+    "type": "Specialist",
+    "stars": 5,
+    "global": false,
+    "zh_CN": {
+      "name": "卡夫卡",
+      "skills": [
+        "怪异魔方",
+        "诡异剪刀"
+      ],
+      "alias": [
+        "ka fu ka",
+        "kafuka"
+      ]
+    },
+    "en_US": {
+      "name": "Kafka"
+    }
+  },
+  {
+    "id": "liskarm",
+    "game_id": "char_107_liskam",
+    "type": "Defender",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Liskarm",
+      "skills": [
+        "Charged Defense",
+        "Counter Arc"
+      ]
+    },
+    "ja_JP": {
+      "name": "リスカム",
+      "skills": [
+        "チャージガード",
+        "カウンターアーク"
+      ],
+      "alias": [
+        "りすかむ"
+      ]
+    },
+    "ko_KR": {
+      "name": "리스캄",
+      "skills": [
+        "차지 디펜스",
+        "카운터 아크"
+      ]
+    },
+    "zh_CN": {
+      "name": "雷蛇",
+      "skills": [
+        "充能防御",
+        "反击电弧"
+      ],
+      "alias": [
+        "lei she",
+        "leishe"
+      ]
+    },
+    "zh_TW": {
+      "name": "雷蛇",
+      "skills": [
+        "充能防禦",
+        "反擊電弧"
+      ]
+    }
+  },
+  {
+    "id": "croissant",
+    "game_id": "char_201_moeshd",
+    "type": "Defender",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Croissant",
+      "skills": [
+        "Auto Defense",
+        "Magnetic Hammer"
+      ]
+    },
+    "ja_JP": {
+      "name": "クロワッサン",
+      "skills": [
+        "防御態勢",
+        "テスラハンマー"
+      ],
+      "alias": [
+        "くろわっさん"
+      ]
+    },
+    "ko_KR": {
+      "name": "크루아상",
+      "skills": [
+        "자동 방어",
+        "마그네틱 해머"
+      ]
+    },
+    "zh_CN": {
+      "name": "可颂",
+      "skills": [
+        "自动防御",
+        "磁爆锤"
+      ],
+      "alias": [
+        "ke song",
+        "kesong"
+      ]
+    },
+    "zh_TW": {
+      "name": "可頌",
+      "skills": [
+        "自動防禦",
+        "磁爆錘"
+      ]
+    }
+  },
+  {
+    "id": "bison",
+    "game_id": "char_325_bison",
+    "type": "Defender",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Bison",
+      "skills": [
+        "DEF Up γ",
+        "Intensified Defense"
+      ]
+    },
+    "ja_JP": {
+      "name": "バイソン",
+      "skills": [
+        "防御力強化γ",
+        "戦線強化"
+      ],
+      "alias": [
+        "ばいそん"
+      ]
+    },
+    "ko_KR": {
+      "name": "바이슨",
+      "skills": [
+        "방어 강화γ",
+        "방어선 강화"
+      ]
+    },
+    "zh_CN": {
+      "name": "拜松",
+      "skills": [
+        "防御力强化·γ型",
+        "深化阵线"
+      ],
+      "alias": [
+        "bai song",
+        "baisong"
+      ]
+    },
+    "zh_TW": {
+      "name": "拜松",
+      "skills": [
+        "防禦力強化·γ型",
+        "深化陣線"
+      ]
+    }
+  },
+  {
+    "id": "vulcan",
+    "game_id": "char_163_hpsts",
+    "type": "Defender",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Vulcan",
+      "skills": [
+        "Guardian Mode",
+        "Combat Mode"
+      ]
+    },
+    "ja_JP": {
+      "name": "ヴァルカン",
+      "skills": [
+        "鉄壁の構え",
+        "猛攻の構え"
+      ],
+      "alias": [
+        "ゔぁるかん"
+      ]
+    },
+    "ko_KR": {
+      "name": "벌컨",
+      "skills": [
+        "디펜스 모드",
+        "어택 모드"
+      ]
+    },
+    "zh_CN": {
+      "name": "火神",
+      "skills": [
+        "坚守模式",
+        "武力模式"
+      ],
+      "alias": [
+        "huo shen",
+        "huoshen"
+      ]
+    },
+    "zh_TW": {
+      "name": "火神",
+      "skills": [
+        "堅守模式",
+        "武力模式"
+      ]
+    }
+  },
+  {
+    "id": "asbestos",
+    "game_id": "char_378_asbest",
+    "type": "Defender",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Asbestos",
+      "skills": [
+        "Resilient Mode",
+        "Thermal Power Mode"
+      ]
+    },
+    "ja_JP": {
+      "name": "アスベストス",
+      "skills": [
+        "堅守モード",
+        "爆炎モード"
+      ],
+      "alias": [
+        "あすべすとす"
+      ]
+    },
+    "ko_KR": {
+      "name": "아스베스토스",
+      "skills": [
+        "인트렌치 모드",
+        "서멀 모드"
+      ]
+    },
+    "zh_CN": {
+      "name": "石棉",
+      "skills": [
+        "固守模式",
+        "火电模式"
+      ],
+      "alias": [
+        "shi mian",
+        "shimian"
+      ]
+    }
+  },
+  {
+    "id": "provence",
+    "game_id": "char_145_prove",
+    "type": "Sniper",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Provence",
+      "skills": [
+        "Wolf's Eye",
+        "Prey Seeker"
+      ]
+    },
+    "ja_JP": {
+      "name": "プロヴァンス",
+      "skills": [
+        "ウルフアイ",
+        "鮮血の匂い"
+      ],
+      "alias": [
+        "ぷろゔぁんす"
+      ]
+    },
+    "ko_KR": {
+      "name": "프로방스",
+      "skills": [
+        "늑대의 눈",
+        "먹이 사냥"
+      ]
+    },
+    "zh_CN": {
+      "name": "普罗旺斯",
+      "skills": [
+        "狼眼",
+        "杀戮嗅觉"
+      ],
+      "alias": [
+        "pu luo wang si",
+        "puluowangsi"
+      ]
+    },
+    "zh_TW": {
+      "name": "普羅旺斯",
+      "skills": [
+        "狼眼",
+        "殺戮嗅覺"
+      ]
+    }
+  },
+  {
+    "id": "firewatch",
+    "game_id": "char_158_milu",
+    "type": "Sniper",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Firewatch",
+      "skills": [
+        "Camouflage",
+        "Tactical Transceiver"
+      ]
+    },
+    "ja_JP": {
+      "name": "ファイヤーウォッチ",
+      "skills": [
+        "カモフラージュ",
+        "爆撃要請"
+      ],
+      "alias": [
+        "ふぁいやーうぉっち"
+      ]
+    },
+    "ko_KR": {
+      "name": "파이어워치",
+      "skills": [
+        "카모플라쥬",
+        "전술 무전"
+      ]
+    },
+    "zh_CN": {
+      "name": "守林人",
+      "skills": [
+        "环境伪装",
+        "战术电台"
+      ],
+      "alias": [
+        "shou lin ren",
+        "shoulinren"
+      ]
+    },
+    "zh_TW": {
+      "name": "守林人",
+      "skills": [
+        "環境偽裝",
+        "戰術電台"
+      ]
+    }
+  },
+  {
+    "id": "andreana",
+    "game_id": "char_218_cuttle",
+    "type": "Sniper",
+    "stars": 5,
+    "global": false,
+    "zh_CN": {
+      "name": "安哲拉",
+      "skills": [
+        "攻击力强化·γ型",
+        "阻滞射击战术"
+      ],
+      "alias": [
+        "an zhe la",
+        "anzhela"
+      ]
+    },
+    "en_US": {
+      "name": "Andreana"
+    }
+  },
+  {
+    "id": "cliffheart",
+    "game_id": "char_173_slchan",
+    "type": "Specialist",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Cliffheart",
+      "skills": [
+        "Chain Hook",
+        "Binding Chains"
+      ]
+    },
+    "ja_JP": {
+      "name": "クリフハート",
+      "skills": [
+        "ワイヤーシックル",
+        "アレストチェーン"
+      ],
+      "alias": [
+        "くりふはーと"
+      ]
+    },
+    "ko_KR": {
+      "name": "클리프하트",
+      "skills": [
+        "체인 훅",
+        "바인딩 체인"
+      ]
+    },
+    "zh_CN": {
+      "name": "崖心",
+      "skills": [
+        "锁链勾爪",
+        "束缚链"
+      ],
+      "alias": [
+        "ya xin",
+        "yaxin"
+      ]
+    },
+    "zh_TW": {
+      "name": "崖心",
+      "skills": [
+        "鎖鏈勾爪",
+        "束縛鏈"
+      ]
+    }
+  },
+  {
+    "id": "snowsant",
+    "game_id": "char_383_snsant",
+    "type": "Specialist",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Snowsant",
+      "skills": [
+        "Barbed Clawhook",
+        "Telescoping Electric Net"
+      ]
+    },
+    "ja_JP": {
+      "name": "スノーズント",
+      "skills": [
+        "フックキャッチ",
+        "ネットキャプチャー"
+      ],
+      "alias": [
+        "すのーずんと"
+      ]
+    },
+    "ko_KR": {
+      "name": "스노우상트",
+      "skills": [
+        "갈고리 후크",
+        "신축성 전기 포획망"
+      ]
+    },
+    "zh_CN": {
+      "name": "雪雉",
+      "skills": [
+        "倒刺钩爪",
+        "伸缩式电捕网"
+      ],
+      "alias": [
+        "xue zhi",
+        "xuezhi"
+      ]
+    }
+  },
+  {
+    "id": "pramanix",
+    "game_id": "char_174_slbell",
+    "type": "Supporter",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Pramanix",
+      "skills": [
+        "Echolocation",
+        "Natural Deterrent"
+      ]
+    },
+    "ja_JP": {
+      "name": "プラマニクス",
+      "skills": [
+        "木霊せし聖音",
+        "カランドの威圧"
+      ],
+      "alias": [
+        "ぷらまにくす"
+      ]
+    },
+    "ko_KR": {
+      "name": "프라마닉스",
+      "skills": [
+        "메아리",
+        "자연의 위엄"
+      ]
+    },
+    "zh_CN": {
+      "name": "初雪",
+      "skills": [
+        "传音回响",
+        "自然震慑"
+      ],
+      "alias": [
+        "chu xue",
+        "chuxue"
+      ]
+    },
+    "zh_TW": {
+      "name": "初雪",
+      "skills": [
+        "傳音迴響",
+        "自然震懾"
+      ]
+    }
+  },
+  {
+    "id": "shamare",
+    "game_id": "char_254_vodfox",
+    "type": "Supporter",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Shamare",
+      "skills": [
+        "Malediction",
+        "Cursed Doll"
+      ]
+    },
+    "ja_JP": {
+      "name": "シャマレ",
+      "skills": [
+        "不治の呪い",
+        "呪いの人形"
+      ],
+      "alias": [
+        "しゃまれ"
+      ]
+    },
+    "ko_KR": {
+      "name": "샤마르",
+      "skills": [
+        "악화되는 병세",
+        "저주인형"
+      ]
+    },
+    "zh_CN": {
+      "name": "巫恋",
+      "skills": [
+        "病入膏肓",
+        "诅咒娃娃"
+      ],
+      "alias": [
+        "wu lian",
+        "wulian"
+      ]
+    }
+  },
+  {
+    "id": "istina",
+    "game_id": "char_195_glassb",
+    "type": "Supporter",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Istina",
+      "skills": [
+        "Concentration",
+        "Literature Storm"
+      ]
+    },
+    "ja_JP": {
+      "name": "イースチナ",
+      "skills": [
+        "一心不乱",
+        "嵐より生まれしもの"
+      ],
+      "alias": [
+        "いーすちな"
+      ]
+    },
+    "ko_KR": {
+      "name": "이스티나",
+      "skills": [
+        "집중력 강화",
+        "문학의 폭풍"
+      ]
+    },
+    "zh_CN": {
+      "name": "真理",
+      "skills": [
+        "专心致志",
+        "文学风暴"
+      ],
+      "alias": [
+        "zhen li",
+        "zhenli"
+      ]
+    },
+    "zh_TW": {
+      "name": "真理",
+      "skills": [
+        "專心致志",
+        "文學風暴"
+      ]
+    },
+    "ru_RU": {
+      "alias": [
+        "Истина"
+      ]
+    }
+  },
+  {
+    "id": "glaucus",
+    "game_id": "char_326_glacus",
+    "type": "Supporter",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Glaucus",
+      "skills": [
+        "Binary Reload",
+        "Counter EMP"
+      ]
+    },
+    "ja_JP": {
+      "name": "グラウコス",
+      "skills": [
+        "デュアルリロード",
+        "電磁パルス"
+      ],
+      "alias": [
+        "ぐらうこす"
+      ]
+    },
+    "ko_KR": {
+      "name": "글라우쿠스",
+      "skills": [
+        "복선 장전",
+        "펄스 반격"
+      ]
+    },
+    "zh_CN": {
+      "name": "格劳克斯",
+      "skills": [
+        "双线装填",
+        "反制电磁脉冲"
+      ],
+      "alias": [
+        "ge lao ke si",
+        "gelaokesi"
+      ]
+    },
+    "zh_TW": {
+      "name": "格勞克斯",
+      "skills": [
+        "雙線裝填",
+        "反制電磁脈衝"
+      ]
+    }
+  },
+  {
+    "id": "sora",
+    "game_id": "char_101_sora",
+    "type": "Supporter",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Sora",
+      "skills": [
+        "Hymn of Respite",
+        "Hymn of Battle"
+      ]
+    },
+    "ja_JP": {
+      "name": "ソラ",
+      "skills": [
+        "すやすやナンバー",
+        "ファイトソング"
+      ],
+      "alias": [
+        "そら"
+      ]
+    },
+    "ko_KR": {
+      "name": "소라",
+      "skills": [
+        "자장가",
+        "전투의 노래"
+      ]
+    },
+    "zh_CN": {
+      "name": "空",
+      "skills": [
+        "睡眠之歌",
+        "战斗之歌"
+      ],
+      "alias": [
+        "kong",
+        "kong"
+      ]
+    },
+    "zh_TW": {
+      "name": "空",
+      "skills": [
+        "睡眠之歌",
+        "戰鬥之歌"
+      ]
+    }
+  },
+  {
+    "id": "tsukinogi",
+    "game_id": "char_343_tknogi",
+    "type": "Supporter",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Tsukinogi",
+      "skills": [
+        "Without a Trace",
+        "Forest's Embrace"
+      ]
+    },
+    "ja_JP": {
+      "name": "ツキノギ",
+      "skills": [
+        "跡無",
+        "森廻"
+      ],
+      "alias": [
+        "つきのぎ"
+      ]
+    },
+    "ko_KR": {
+      "name": "츠키노기",
+      "skills": [
+        "역무",
+        "삼회"
+      ]
+    },
+    "zh_CN": {
+      "name": "月禾",
+      "skills": [
+        "迹无",
+        "森廻"
+      ],
+      "alias": [
+        "yue he",
+        "yuehe"
+      ]
+    }
+  },
+  {
+    "id": "manticore",
+    "game_id": "char_215_mantic",
+    "type": "Specialist",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Manticore",
+      "skills": [
+        "Scorpion Venom",
+        "Toxic Overload"
+      ]
+    },
+    "ja_JP": {
+      "name": "マンティコア",
+      "skills": [
+        "アジトキシン",
+        "スコーピオンテール"
+      ],
+      "alias": [
+        "まんてぃこあ"
+      ]
+    },
+    "ko_KR": {
+      "name": "맨티코어",
+      "skills": [
+        "전갈 독",
+        "스콜피온 테일"
+      ]
+    },
+    "zh_CN": {
+      "name": "狮蝎",
+      "skills": [
+        "蝎毒",
+        "蓄力毒尾击"
+      ],
+      "alias": [
+        "shi xie",
+        "shixie"
+      ]
+    },
+    "zh_TW": {
+      "name": "獅蠍",
+      "skills": [
+        "蠍毒",
+        "蓄力毒尾擊"
+      ]
+    }
+  },
+  {
+    "id": "feater",
+    "game_id": "char_241_panda",
+    "type": "Specialist",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "FEater",
+      "skills": [
+        "Raging Iron Fist",
+        "Destructive Fist"
+      ]
+    },
+    "ja_JP": {
+      "name": "エフイーター",
+      "skills": [
+        "鉄意六合拳",
+        "崩拳"
+      ],
+      "alias": [
+        "えふいーたー"
+      ]
+    },
+    "ko_KR": {
+      "name": "에프이터",
+      "skills": [
+        "철의육합",
+        "붕권식"
+      ]
+    },
+    "zh_CN": {
+      "name": "食铁兽",
+      "skills": [
+        "铁意六合",
+        "崩拳式"
+      ],
+      "alias": [
+        "shi tie shou",
+        "shitieshou"
+      ]
+    },
+    "zh_TW": {
+      "name": "食鐵獸",
+      "skills": [
+        "鐵意六合",
+        "崩拳式"
+      ]
+    }
+  },
+  {
+    "id": "robin",
+    "game_id": "char_451_robin",
+    "type": "Specialist",
+    "stars": 5,
+    "global": false,
+    "zh_CN": {
+      "name": "罗宾",
+      "skills": [
+        "束缚“夹子”",
+        "弹射“夹子”"
+      ],
+      "alias": [
+        "luo bin",
+        "luobin"
+      ]
+    },
+    "en_US": {
+      "name": "Robin"
+    }
+  },
+  {
+    "id": "savage",
+    "game_id": "char_230_savage",
+    "type": "Guard",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Savage",
+      "skills": [
+        "Power Strike β",
+        "Precise Blast"
+      ]
+    },
+    "ja_JP": {
+      "name": "サベージ",
+      "skills": [
+        "強撃β",
+        "精密起爆"
+      ],
+      "alias": [
+        "さべーじ"
+      ]
+    },
+    "ko_KR": {
+      "name": "새비지",
+      "skills": [
+        "강타β",
+        "정밀 타격"
+      ]
+    },
+    "zh_CN": {
+      "name": "暴行",
+      "skills": [
+        "强力击·β型",
+        "微差爆破"
+      ],
+      "alias": [
+        "bao hang",
+        "baohang"
+      ]
+    },
+    "zh_TW": {
+      "name": "暴行",
+      "skills": [
+        "強力擊·β型",
+        "微差爆破"
+      ]
+    }
+  },
+  {
+    "id": "nightmare",
+    "game_id": "char_164_nightm",
+    "type": "Caster",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Nightmare",
+      "skills": [
+        "Drain Soul",
+        "Night Phantom"
+      ]
+    },
+    "ja_JP": {
+      "name": "ナイトメア",
+      "skills": [
+        "ソウルドレイン",
+        "ナイトシャドウ"
+      ],
+      "alias": [
+        "ないとめあ"
+      ]
+    },
+    "ko_KR": {
+      "name": "나이트메어",
+      "skills": [
+        "영혼 착취",
+        "악몽의 그림자"
+      ]
+    },
+    "zh_CN": {
+      "name": "夜魔",
+      "skills": [
+        "灵魂汲取",
+        "夜魇魔影"
+      ],
+      "alias": [
+        "ye mo",
+        "yemo"
+      ]
+    },
+    "zh_TW": {
+      "name": "夜魔",
+      "skills": [
+        "靈魂汲取",
+        "夜魘魔影"
+      ]
+    }
+  },
+  {
+    "id": "grani",
+    "game_id": "char_220_grani",
+    "type": "Vanguard",
+    "stars": 5,
+    "global": true,
+    "en_US": {
+      "name": "Grani",
+      "skills": [
+        "DEF Up γ",
+        "Press the Attack!"
+      ]
+    },
+    "ja_JP": {
+      "name": "グラニ",
+      "skills": [
+        "防御力強化γ",
+        "引かない！"
+      ],
+      "alias": [
+        "ぐらに"
+      ]
+    },
+    "ko_KR": {
+      "name": "그라니",
+      "skills": [
+        "방어 강화γ",
+        "임전무퇴!"
+      ]
+    },
+    "zh_CN": {
+      "name": "格拉尼",
+      "skills": [
+        "防御力强化·γ型",
+        "永不后退！"
+      ],
+      "alias": [
+        "ge la ni",
+        "gelani"
+      ]
+    },
+    "zh_TW": {
+      "name": "格拉尼",
+      "skills": [
+        "防禦力強化·γ型",
+        "永不後退！"
+      ]
+    }
+  },
+  {
+    "id": "amiya_guard",
+    "game_id": "char_1001_amiya2",
+    "type": "Guard",
+    "stars": 5,
+    "global": false,
+    "zh_CN": {
+      "name": "升变阿米娅",
+      "skills": [
+        "影霄·奔夜",
+        "影霄·绝影"
+      ],
+      "alias": [
+        "sheng bian a mi ya",
+        "shengbianamiya"
+      ]
+    },
+    "en_US": {
+      "name": "Amiya"
+    }
+  },
+  {
+    "id": "haze",
+    "game_id": "char_141_nights",
+    "type": "Caster",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "Haze",
+      "skills": [
+        "ATK Up β",
+        "Crimson Eyes"
+      ]
+    },
+    "ja_JP": {
+      "name": "ヘイズ",
+      "skills": [
+        "攻撃力強化β",
+        "赤色の瞳"
+      ],
+      "alias": [
+        "へいず"
+      ]
+    },
+    "ko_KR": {
+      "name": "헤이즈",
+      "skills": [
+        "공격 강화β",
+        "붉은 눈동자"
+      ]
+    },
+    "zh_CN": {
+      "name": "夜烟",
+      "skills": [
+        "攻击力强化·β型",
+        "赤色之瞳"
+      ],
+      "alias": [
+        "ye yan",
+        "yeyan"
+      ]
+    },
+    "zh_TW": {
+      "name": "夜煙",
+      "skills": [
+        "攻擊力強化·β型",
+        "赤色之瞳"
+      ]
+    }
+  },
+  {
+    "id": "gitano",
+    "game_id": "char_109_fmout",
+    "type": "Caster",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "Gitano",
+      "skills": [
+        "Tactical Chant β",
+        "Destiny"
+      ]
+    },
+    "ja_JP": {
+      "name": "ギターノ",
+      "skills": [
+        "戦術詠唱β",
+        "運命"
+      ],
+      "alias": [
+        "ぎたーの"
+      ]
+    },
+    "ko_KR": {
+      "name": "기타노",
+      "skills": [
+        "전술영창β",
+        "운명"
+      ]
+    },
+    "zh_CN": {
+      "name": "远山",
+      "skills": [
+        "战术咏唱·β型",
+        "命运"
+      ],
+      "alias": [
+        "yuan shan",
+        "yuanshan"
+      ]
+    },
+    "zh_TW": {
+      "name": "遠山",
+      "skills": [
+        "戰術詠唱·β型",
+        "命運"
+      ]
+    }
+  },
+  {
+    "id": "greyy",
+    "game_id": "char_253_greyy",
+    "type": "Caster",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "Greyy",
+      "skills": [
+        "Tactical Chant β",
+        "Electrostatic Discharge"
+      ]
+    },
+    "ja_JP": {
+      "name": "グレイ",
+      "skills": [
+        "戦術詠唱β",
+        "帯電"
+      ],
+      "alias": [
+        "ぐれい"
+      ]
+    },
+    "ko_KR": {
+      "name": "그레이",
+      "skills": [
+        "전술영창β",
+        "정전기 방출"
+      ]
+    },
+    "zh_CN": {
+      "name": "格雷伊",
+      "skills": [
+        "战术咏唱·β型",
+        "静电释放"
+      ],
+      "alias": [
+        "ge lei yi",
+        "geleiyi"
+      ]
+    },
+    "zh_TW": {
+      "name": "格雷伊",
+      "skills": [
+        "戰術詠唱·β型",
+        "靜電釋放"
+      ]
+    }
+  },
+  {
+    "id": "click",
+    "game_id": "char_328_cammou",
+    "type": "Caster",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "Click",
+      "skills": [
+        "ATK Up β",
+        "Synchronized Attack"
+      ]
+    },
+    "ja_JP": {
+      "name": "カシャ",
+      "skills": [
+        "攻撃力強化β",
+        "同調索敵攻撃"
+      ],
+      "alias": [
+        "かしゃ"
+      ]
+    },
+    "ko_KR": {
+      "name": "클릭",
+      "skills": [
+        "공격 강화β",
+        "동기화 색적 공격"
+      ]
+    },
+    "zh_CN": {
+      "name": "卡达",
+      "skills": [
+        "攻击力强化·β型",
+        "同步索敌攻击"
+      ],
+      "alias": [
+        "ka da",
+        "kada"
+      ]
+    }
+  },
+  {
+    "id": "jessica",
+    "game_id": "char_235_jesica",
+    "type": "Sniper",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "Jessica",
+      "skills": [
+        "Power Strike β",
+        "Smokescreen"
+      ]
+    },
+    "ja_JP": {
+      "name": "ジェシカ",
+      "skills": [
+        "強撃β",
+        "煙幕"
+      ],
+      "alias": [
+        "じぇしか"
+      ]
+    },
+    "ko_KR": {
+      "name": "제시카",
+      "skills": [
+        "강타β",
+        "연막 전개"
+      ]
+    },
+    "zh_CN": {
+      "name": "杰西卡",
+      "skills": [
+        "强力击·β型",
+        "掩护烟幕"
+      ],
+      "alias": [
+        "jie xi ka",
+        "jiexika"
+      ]
+    },
+    "zh_TW": {
+      "name": "潔西卡",
+      "skills": [
+        "強力擊·β型",
+        "掩護煙幕"
+      ]
+    }
+  },
+  {
+    "id": "meteor",
+    "game_id": "char_126_shotst",
+    "type": "Sniper",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "Meteor",
+      "skills": [
+        "Armor Breaker",
+        "Armor Breaker - Spread"
+      ]
+    },
+    "ja_JP": {
+      "name": "メテオ",
+      "skills": [
+        "装甲砕き",
+        "装甲砕き・拡散"
+      ],
+      "alias": [
+        "めてお"
+      ]
+    },
+    "ko_KR": {
+      "name": "메테오",
+      "skills": [
+        "쇄갑격",
+        "쇄갑격-확산"
+      ]
+    },
+    "zh_CN": {
+      "name": "流星",
+      "skills": [
+        "碎甲击",
+        "碎甲击·扩散"
+      ],
+      "alias": [
+        "liu xing",
+        "liuxing"
+      ]
+    },
+    "zh_TW": {
+      "name": "流星",
+      "skills": [
+        "碎甲擊",
+        "碎甲擊·擴散"
+      ]
+    }
+  },
+  {
+    "id": "vermeil",
+    "game_id": "char_190_clour",
+    "type": "Sniper",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "Vermeil",
+      "skills": [
+        "ATK Up β",
+        "Double Shot"
+      ]
+    },
+    "ja_JP": {
+      "name": "ヴァーミル",
+      "skills": [
+        "攻撃力強化β",
+        "デュアルアロー"
+      ],
+      "alias": [
+        "ゔぁーみる"
+      ]
+    },
+    "ko_KR": {
+      "name": "버메일",
+      "skills": [
+        "공격 강화β",
+        "더블 샷"
+      ]
+    },
+    "zh_CN": {
+      "name": "红云",
+      "skills": [
+        "攻击力强化·β型",
+        "双弦开弓"
+      ],
+      "alias": [
+        "hong yun",
+        "hongyun"
+      ]
+    },
+    "zh_TW": {
+      "name": "紅雲",
+      "skills": [
+        "攻擊力強化·β型",
+        "雙弦開弓"
+      ]
+    }
+  },
+  {
+    "id": "may",
+    "game_id": "char_133_mm",
+    "type": "Sniper",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "May",
+      "skills": [
+        "Paralyzing Shell",
+        "Binding Shock"
+      ]
+    },
+    "ja_JP": {
+      "name": "メイ",
+      "skills": [
+        "ストップショット",
+        "スタンショック"
+      ],
+      "alias": [
+        "めい"
+      ]
+    },
+    "ko_KR": {
+      "name": "메이",
+      "skills": [
+        "마비탄",
+        "속박 전격"
+      ]
+    },
+    "zh_CN": {
+      "name": "梅",
+      "skills": [
+        "麻痹弹",
+        "束缚电击"
+      ],
+      "alias": [
+        "mei",
+        "mei"
+      ]
+    },
+    "zh_TW": {
+      "name": "梅",
+      "skills": [
+        "麻痺彈",
+        "束縛電擊"
+      ]
+    }
+  },
+  {
+    "id": "shirayuki",
+    "game_id": "char_118_yuki",
+    "type": "Sniper",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "Shirayuki",
+      "skills": [
+        "Shuriken",
+        "Fatal Shuriken"
+      ]
+    },
+    "ja_JP": {
+      "name": "シラユキ",
+      "skills": [
+        "ユキケムリ",
+        "カザグルマ"
+      ],
+      "alias": [
+        "しらゆき"
+      ]
+    },
+    "ko_KR": {
+      "name": "시라유키",
+      "skills": [
+        "눈보라",
+        "풍차"
+      ]
+    },
+    "zh_CN": {
+      "name": "白雪",
+      "skills": [
+        "敌飙",
+        "凝武"
+      ],
+      "alias": [
+        "bai xue",
+        "baixue"
+      ]
+    },
+    "zh_TW": {
+      "name": "白雪",
+      "skills": [
+        "敵飆",
+        "凝武"
+      ]
+    }
+  },
+  {
+    "id": "pinecone",
+    "game_id": "char_440_pinecn",
+    "type": "Sniper",
+    "stars": 4,
+    "global": false,
+    "zh_CN": {
+      "name": "松果",
+      "skills": [
+        "RMA长钉",
+        "电能过载"
+      ],
+      "alias": [
+        "song guo",
+        "songguo"
+      ]
+    },
+    "en_US": {
+      "name": "Pinecone"
+    }
+  },
+  {
+    "id": "ambriel",
+    "game_id": "char_302_glaze",
+    "type": "Sniper",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "Ambriel",
+      "skills": [
+        "Snaring Shell",
+        "Radar Sweep"
+      ]
+    },
+    "ja_JP": {
+      "name": "アンブリエル",
+      "skills": [
+        "妨害弾",
+        "全方位レーダー"
+      ],
+      "alias": [
+        "あんぶりえる"
+      ]
+    },
+    "ko_KR": {
+      "name": "엠브리엘",
+      "skills": [
+        "저지탄",
+        "레이더 위치 추적"
+      ]
+    },
+    "zh_CN": {
+      "name": "安比尔",
+      "skills": [
+        "阻挡弹",
+        "雷达定位"
+      ],
+      "alias": [
+        "an bi er",
+        "anbier"
+      ]
+    },
+    "zh_TW": {
+      "name": "安比爾",
+      "skills": [
+        "阻擋彈",
+        "雷達定位"
+      ]
+    }
+  },
+  {
+    "id": "aciddrop",
+    "game_id": "char_366_acdrop",
+    "type": "Sniper",
+    "stars": 4,
+    "global": false,
+    "zh_CN": {
+      "name": "酸糖",
+      "skills": [
+        "花式点射",
+        "扳机时刻"
+      ],
+      "alias": [
+        "suan tang",
+        "suantang"
+      ]
+    },
+    "en_US": {
+      "name": "Aciddrop"
+    }
+  },
+  {
+    "id": "courier",
+    "game_id": "char_198_blackd",
+    "type": "Vanguard",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "Courier",
+      "skills": [
+        "Charge β",
+        "Command - Defense"
+      ]
+    },
+    "ja_JP": {
+      "name": "クーリエ",
+      "skills": [
+        "突撃指令β",
+        "突撃指令・防御"
+      ],
+      "alias": [
+        "くーりえ"
+      ]
+    },
+    "ko_KR": {
+      "name": "쿠리어",
+      "skills": [
+        "돌격지령β",
+        "돌격지령-방어"
+      ]
+    },
+    "zh_CN": {
+      "name": "讯使",
+      "skills": [
+        "冲锋号令·β型",
+        "冲锋号令·防御"
+      ],
+      "alias": [
+        "xun shi",
+        "xunshi"
+      ]
+    },
+    "zh_TW": {
+      "name": "訊使",
+      "skills": [
+        "衝鋒號令·β型",
+        "衝鋒號令·防禦"
+      ]
+    }
+  },
+  {
+    "id": "scavenger",
+    "game_id": "char_149_scave",
+    "type": "Vanguard",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "Scavenger",
+      "skills": [
+        "Charge β",
+        "Command - Attack"
+      ]
+    },
+    "ja_JP": {
+      "name": "スカベンジャー",
+      "skills": [
+        "突撃指令β",
+        "突撃指令・攻撃"
+      ],
+      "alias": [
+        "すかべんじゃー"
+      ]
+    },
+    "ko_KR": {
+      "name": "스캐빈저",
+      "skills": [
+        "돌격지령β",
+        "돌격지령-공격"
+      ]
+    },
+    "zh_CN": {
+      "name": "清道夫",
+      "skills": [
+        "冲锋号令·β型",
+        "冲锋号令·攻击"
+      ],
+      "alias": [
+        "qing dao fu",
+        "qingdaofu"
+      ]
+    },
+    "zh_TW": {
+      "name": "清道夫",
+      "skills": [
+        "衝鋒號令·β型",
+        "衝鋒號令·攻擊"
+      ]
+    }
+  },
+  {
+    "id": "vigna",
+    "game_id": "char_290_vigna",
+    "type": "Vanguard",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "Vigna",
+      "skills": [
+        "ATK Up β",
+        "Hammer-On"
+      ]
+    },
+    "ja_JP": {
+      "name": "ヴィグナ",
+      "skills": [
+        "攻撃力強化β",
+        "ハンマリング・オン"
+      ],
+      "alias": [
+        "ゔぃぐな"
+      ]
+    },
+    "ko_KR": {
+      "name": "비그나",
+      "skills": [
+        "공격 강화β",
+        "망치 소리"
+      ]
+    },
+    "zh_CN": {
+      "name": "红豆",
+      "skills": [
+        "攻击力强化·β型",
+        "槌音"
+      ],
+      "alias": [
+        "hong dou",
+        "hongdou"
+      ]
+    },
+    "zh_TW": {
+      "name": "紅豆",
+      "skills": [
+        "攻擊力強化·β型",
+        "槌音"
+      ]
+    }
+  },
+  {
+    "id": "myrtle",
+    "game_id": "char_151_myrtle",
+    "type": "Vanguard",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "Myrtle",
+      "skills": [
+        "Support β",
+        "Healing Wings"
+      ]
+    },
+    "ja_JP": {
+      "name": "テンニンカ",
+      "skills": [
+        "支援指令β",
+        "治癒の翅"
+      ],
+      "alias": [
+        "てんにんか"
+      ]
+    },
+    "ko_KR": {
+      "name": "머틀",
+      "skills": [
+        "지원지령β",
+        "치유의 날개"
+      ]
+    },
+    "zh_CN": {
+      "name": "桃金娘",
+      "skills": [
+        "支援号令·β型",
+        "治愈之翼"
+      ],
+      "alias": [
+        "tao jin niang",
+        "taojinniang"
+      ]
+    },
+    "zh_TW": {
+      "name": "桃金娘",
+      "skills": [
+        "支援號令·β型",
+        "治癒之翼"
+      ]
+    }
+  },
+  {
+    "id": "beanstalk",
+    "game_id": "char_452_bstalk",
+    "type": "Vanguard",
+    "stars": 4,
+    "global": false,
+    "zh_CN": {
+      "name": "豆苗",
+      "skills": [
+        "定点指令",
+        "“大家一起上”"
+      ],
+      "alias": [
+        "dou miao",
+        "doumiao"
+      ]
+    },
+    "en_US": {
+      "name": "Beanstalk"
+    }
+  },
+  {
+    "id": "dobermann",
+    "game_id": "char_130_doberm",
+    "type": "Guard",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "Dobermann",
+      "skills": [
+        "Power Strike β",
+        "Spur"
+      ]
+    },
+    "ja_JP": {
+      "name": "ドーベルマン",
+      "skills": [
+        "強撃β",
+        "鞭撻"
+      ],
+      "alias": [
+        "どーべるまん"
+      ]
+    },
+    "ko_KR": {
+      "name": "도베르만",
+      "skills": [
+        "강타β",
+        "채찍질"
+      ]
+    },
+    "zh_CN": {
+      "name": "杜宾",
+      "skills": [
+        "强力击·β型",
+        "鞭策"
+      ],
+      "alias": [
+        "du bin",
+        "dubin"
+      ]
+    },
+    "zh_TW": {
+      "name": "杜賓",
+      "skills": [
+        "強力擊·β型",
+        "鞭策"
+      ]
+    }
+  },
+  {
+    "id": "matoimaru",
+    "game_id": "char_289_gyuki",
+    "type": "Guard",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "Matoimaru",
+      "skills": [
+        "Regeneration β",
+        "Demonic Power"
+      ]
+    },
+    "ja_JP": {
+      "name": "マトイマル",
+      "skills": [
+        "HP回復β",
+        "悪鬼の力"
+      ],
+      "alias": [
+        "まといまる"
+      ]
+    },
+    "ko_KR": {
+      "name": "마토이마루",
+      "skills": [
+        "HP회복β",
+        "악귀의 힘"
+      ]
+    },
+    "zh_CN": {
+      "name": "缠丸",
+      "skills": [
+        "生命回复·β型",
+        "恶鬼之力"
+      ],
+      "alias": [
+        "chan wan",
+        "chanwan"
+      ]
+    },
+    "zh_TW": {
+      "name": "纏丸",
+      "skills": [
+        "生命回復·β型",
+        "惡鬼之力"
+      ]
+    }
+  },
+  {
+    "id": "conviction",
+    "game_id": "char_159_peacok",
+    "type": "Guard",
+    "stars": 4,
+    "global": false,
+    "zh_CN": {
+      "name": "断罪者",
+      "skills": [
+        "断罪",
+        "创世纪"
+      ],
+      "alias": [
+        "duan zui zhe",
+        "duanzuizhe"
+      ]
+    },
+    "en_US": {
+      "name": "Conviction"
+    }
+  },
+  {
+    "id": "frostleaf",
+    "game_id": "char_193_frostl",
+    "type": "Guard",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "Frostleaf",
+      "skills": [
+        "Frost Tomahawk",
+        "Ice Tomahawk"
+      ]
+    },
+    "ja_JP": {
+      "name": "フロストリーフ",
+      "skills": [
+        "降霜の刃",
+        "氷結の刃"
+      ],
+      "alias": [
+        "ふろすとりーふ"
+      ]
+    },
+    "ko_KR": {
+      "name": "프로스트리프",
+      "skills": [
+        "서리창",
+        "빙결창"
+      ]
+    },
+    "zh_CN": {
+      "name": "霜叶",
+      "skills": [
+        "寒霜枪刃",
+        "凝冰枪刃"
+      ],
+      "alias": [
+        "shuang ye",
+        "shuangye"
+      ]
+    },
+    "zh_TW": {
+      "name": "霜葉",
+      "skills": [
+        "寒霜槍刃",
+        "凝冰槍刃"
+      ]
+    }
+  },
+  {
+    "id": "estelle",
+    "game_id": "char_127_estell",
+    "type": "Guard",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "Estelle",
+      "skills": [
+        "ATK Up β",
+        "Sacrificial Strike"
+      ]
+    },
+    "ja_JP": {
+      "name": "エステル",
+      "skills": [
+        "攻撃力強化β",
+        "捨て身の覚悟"
+      ],
+      "alias": [
+        "えすてる"
+      ]
+    },
+    "ko_KR": {
+      "name": "에스텔",
+      "skills": [
+        "공격 강화β",
+        "결사돌격"
+      ]
+    },
+    "zh_CN": {
+      "name": "艾丝黛尔",
+      "skills": [
+        "攻击力强化·β型",
+        "舍身突击"
+      ],
+      "alias": [
+        "ai si dai er",
+        "aisidaier"
+      ]
+    },
+    "zh_TW": {
+      "name": "艾絲黛爾",
+      "skills": [
+        "攻擊力強化·β型",
+        "捨身突擊"
+      ]
+    }
+  },
+  {
+    "id": "mousse",
+    "game_id": "char_185_frncat",
+    "type": "Guard",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "Mousse",
+      "skills": [
+        "Scratch",
+        "Fury"
+      ]
+    },
+    "ja_JP": {
+      "name": "ムース",
+      "skills": [
+        "ひっかき！",
+        "ねこのいかり"
+      ],
+      "alias": [
+        "むーす"
+      ]
+    },
+    "ko_KR": {
+      "name": "무스",
+      "skills": [
+        "할퀴기!",
+        "고양이의 분노"
+      ]
+    },
+    "zh_CN": {
+      "name": "慕斯",
+      "skills": [
+        "挠伤",
+        "炸毛"
+      ],
+      "alias": [
+        "mu si",
+        "musi"
+      ]
+    },
+    "zh_TW": {
+      "name": "慕斯",
+      "skills": [
+        "撓傷",
+        "炸毛"
+      ]
+    }
+  },
+  {
+    "id": "cutter",
+    "game_id": "char_301_cutter",
+    "type": "Guard",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "Cutter",
+      "skills": [
+        "Redshift",
+        "Crimson Crescent"
+      ]
+    },
+    "ja_JP": {
+      "name": "カッター",
+      "skills": [
+        "レッドシフト",
+        "スカーレットエッジ"
+      ],
+      "alias": [
+        "かったー"
+      ]
+    },
+    "ko_KR": {
+      "name": "커터",
+      "skills": [
+        "레드 무브",
+        "크림슨 커터"
+      ]
+    },
+    "zh_CN": {
+      "name": "刻刀",
+      "skills": [
+        "红移",
+        "绯红刺刀"
+      ],
+      "alias": [
+        "ke dao",
+        "kedao"
+      ]
+    }
+  },
+  {
+    "id": "utage",
+    "game_id": "char_337_utage",
+    "type": "Guard",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "Utage",
+      "skills": [
+        "Space Out",
+        "Descending Strike - Earth Splitter"
+      ]
+    },
+    "ja_JP": {
+      "name": "ウタゲ",
+      "skills": [
+        "サボり",
+        "落地斬・突破"
+      ],
+      "alias": [
+        "うたげ"
+      ]
+    },
+    "ko_KR": {
+      "name": "우타게",
+      "skills": [
+        "한눈팔기",
+        "낙지참·파문"
+      ]
+    },
+    "zh_CN": {
+      "name": "宴",
+      "skills": [
+        "分神",
+        "落地斩·破门"
+      ],
+      "alias": [
+        "yan",
+        "yan"
+      ]
+    }
+  },
+  {
+    "id": "arene",
+    "game_id": "char_271_spikes",
+    "type": "Guard",
+    "stars": 4,
+    "global": false,
+    "zh_CN": {
+      "name": "芳汀",
+      "skills": [
+        "小玩笑",
+        "致命恶作剧"
+      ],
+      "alias": [
+        "fang ting",
+        "fangting"
+      ]
+    },
+    "en_US": {
+      "name": "Arene"
+    }
+  },
+  {
+    "id": "gravel",
+    "game_id": "char_237_gravel",
+    "type": "Specialist",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "Gravel",
+      "skills": [
+        "Shadow Assault",
+        "Rat Swarm"
+      ]
+    },
+    "ja_JP": {
+      "name": "グラベル",
+      "skills": [
+        "スニークガード",
+        "鼠の縄張り"
+      ],
+      "alias": [
+        "ぐらべる"
+      ]
+    },
+    "ko_KR": {
+      "name": "그라벨",
+      "skills": [
+        "그림자 방패",
+        "쥐 떼"
+      ]
+    },
+    "zh_CN": {
+      "name": "砾",
+      "skills": [
+        "影袭",
+        "鼠群"
+      ],
+      "alias": [
+        "li",
+        "li"
+      ]
+    },
+    "zh_TW": {
+      "name": "礫",
+      "skills": [
+        "影襲",
+        "鼠群"
+      ]
+    }
+  },
+  {
+    "id": "jaye",
+    "game_id": "char_272_strong",
+    "type": "Specialist",
+    "stars": 4,
+    "global": false,
+    "zh_CN": {
+      "name": "孑",
+      "skills": [
+        "断螯",
+        "刺身拼盘"
+      ],
+      "alias": [
+        "jie",
+        "jie"
+      ]
+    },
+    "en_US": {
+      "name": "Jaye"
+    }
+  },
+  {
+    "id": "rope",
+    "game_id": "char_236_rope",
+    "type": "Specialist",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "Rope",
+      "skills": [
+        "Hook Shot",
+        "Double Hook"
+      ]
+    },
+    "ja_JP": {
+      "name": "ロープ",
+      "skills": [
+        "鉤縄投擲",
+        "鉤縄二本流"
+      ],
+      "alias": [
+        "ろーぷ"
+      ]
+    },
+    "ko_KR": {
+      "name": "로프",
+      "skills": [
+        "갈고리 발사",
+        "다중 갈고리 발사"
+      ]
+    },
+    "zh_CN": {
+      "name": "暗索",
+      "skills": [
+        "勾爪发射",
+        "复式勾爪"
+      ],
+      "alias": [
+        "an suo",
+        "ansuo"
+      ]
+    },
+    "zh_TW": {
+      "name": "暗索",
+      "skills": [
+        "勾爪發射",
+        "複式勾爪"
+      ]
+    }
+  },
+  {
+    "id": "myrrh",
+    "game_id": "char_117_myrrh",
+    "type": "Medic",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "Myrrh",
+      "skills": [
+        "Dual Healing",
+        "Medic Field"
+      ]
+    },
+    "ja_JP": {
+      "name": "ミルラ",
+      "skills": [
+        "二重治療",
+        "メディカルゾーン"
+      ],
+      "alias": [
+        "みるら"
+      ]
+    },
+    "ko_KR": {
+      "name": "미르",
+      "skills": [
+        "이중 치료",
+        "치료 역장"
+      ]
+    },
+    "zh_CN": {
+      "name": "末药",
+      "skills": [
+        "二重治疗",
+        "医疗力场"
+      ],
+      "alias": [
+        "mo yao",
+        "moyao"
+      ]
+    },
+    "zh_TW": {
+      "name": "末藥",
+      "skills": [
+        "二重治療",
+        "醫療力場"
+      ]
+    }
+  },
+  {
+    "id": "gavial",
+    "game_id": "char_187_ccheal",
+    "type": "Medic",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "Gavial",
+      "skills": [
+        "Vitality Restoration",
+        "Vitality Restoration - Wide Range"
+      ]
+    },
+    "ja_JP": {
+      "name": "ガヴィル",
+      "skills": [
+        "回復力促進",
+        "回復力促進・広域"
+      ],
+      "alias": [
+        "がゔぃる"
+      ]
+    },
+    "ko_KR": {
+      "name": "가비알",
+      "skills": [
+        "활력회복",
+        "활력회복-광역"
+      ]
+    },
+    "zh_CN": {
+      "name": "嘉维尔",
+      "skills": [
+        "活力再生",
+        "活力再生·广域"
+      ],
+      "alias": [
+        "jia wei er",
+        "jiaweier"
+      ]
+    },
+    "zh_TW": {
+      "name": "嘉維爾",
+      "skills": [
+        "活力再生",
+        "活力再生·廣域"
+      ]
+    }
+  },
+  {
+    "id": "sussurro",
+    "game_id": "char_298_susuro",
+    "type": "Medic",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "Sussurro",
+      "skills": [
+        "Healing Up β",
+        "Deep Healing"
+      ]
+    },
+    "ja_JP": {
+      "name": "ススーロ",
+      "skills": [
+        "回復力強化β",
+        "ディープヒーリング"
+      ],
+      "alias": [
+        "すすーろ"
+      ]
+    },
+    "ko_KR": {
+      "name": "수수로",
+      "skills": [
+        "치료 강화β",
+        "심화 치료"
+      ]
+    },
+    "zh_CN": {
+      "name": "苏苏洛",
+      "skills": [
+        "治疗强化·β型",
+        "深度治疗"
+      ],
+      "alias": [
+        "su su luo",
+        "susuluo"
+      ]
+    },
+    "zh_TW": {
+      "name": "蘇蘇洛",
+      "skills": [
+        "治療強化·β型",
+        "深度治療"
+      ]
+    }
+  },
+  {
+    "id": "perfumer",
+    "game_id": "char_181_flower",
+    "type": "Medic",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "Perfumer",
+      "skills": [
+        "Healing Up β",
+        "Fine Blending"
+      ]
+    },
+    "ja_JP": {
+      "name": "パフューマー",
+      "skills": [
+        "回復力強化β",
+        "調香"
+      ],
+      "alias": [
+        "ぱふゅーまー"
+      ]
+    },
+    "ko_KR": {
+      "name": "퍼퓨머",
+      "skills": [
+        "치료 강화β",
+        "블렌딩"
+      ]
+    },
+    "zh_CN": {
+      "name": "调香师",
+      "skills": [
+        "治疗强化·β型",
+        "精调"
+      ],
+      "alias": [
+        "tiao xiang shi",
+        "tiaoxiangshi"
+      ]
+    },
+    "zh_TW": {
+      "name": "調香師",
+      "skills": [
+        "治療強化·β型",
+        "精調"
+      ]
+    }
+  },
+  {
+    "id": "purestream",
+    "game_id": "char_385_finlpp",
+    "type": "Medic",
+    "stars": 4,
+    "global": false,
+    "zh_CN": {
+      "name": "清流",
+      "skills": [
+        "治愈水波",
+        "涌泉"
+      ],
+      "alias": [
+        "qing liu",
+        "qingliu"
+      ]
+    },
+    "en_US": {
+      "name": "Purestream"
+    }
+  },
+  {
+    "id": "matterhorn",
+    "game_id": "char_199_yak",
+    "type": "Defender",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "Matterhorn",
+      "skills": [
+        "Stamina Enhancement",
+        "Cold Resistance"
+      ]
+    },
+    "ja_JP": {
+      "name": "マッターホルン",
+      "skills": [
+        "肉体強化",
+        "寒冷順化"
+      ],
+      "alias": [
+        "まったーほるん"
+      ]
+    },
+    "ko_KR": {
+      "name": "마터호른",
+      "skills": [
+        "체력 강화",
+        "내한 체질"
+      ]
+    },
+    "zh_CN": {
+      "name": "角峰",
+      "skills": [
+        "体能强化",
+        "抗寒体质"
+      ],
+      "alias": [
+        "jiao feng",
+        "jiaofeng"
+      ]
+    },
+    "zh_TW": {
+      "name": "角峰",
+      "skills": [
+        "體能強化",
+        "抗寒體質"
+      ]
+    }
+  },
+  {
+    "id": "cuora",
+    "game_id": "char_150_snakek",
+    "type": "Defender",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "Cuora",
+      "skills": [
+        "DEF Up β",
+        "Shell Defense"
+      ]
+    },
+    "ja_JP": {
+      "name": "クオーラ",
+      "skills": [
+        "防御力強化β",
+        "シェルガード"
+      ],
+      "alias": [
+        "くおーら"
+      ]
+    },
+    "ko_KR": {
+      "name": "쿠오라",
+      "skills": [
+        "방어 강화β",
+        "쉘 디펜스"
+      ]
+    },
+    "zh_CN": {
+      "name": "蛇屠箱",
+      "skills": [
+        "防御力强化·β型",
+        "壳状防御"
+      ],
+      "alias": [
+        "she tu xiang",
+        "shetuxiang"
+      ]
+    },
+    "zh_TW": {
+      "name": "蛇屠箱",
+      "skills": [
+        "防禦力強化·β型",
+        "殼狀防禦"
+      ]
+    }
+  },
+  {
+    "id": "bubble",
+    "game_id": "char_381_bubble",
+    "type": "Defender",
+    "stars": 4,
+    "global": false,
+    "zh_CN": {
+      "name": "泡泡",
+      "skills": [
+        "防御力强化·β型",
+        "“挨打”"
+      ],
+      "alias": [
+        "pao pao",
+        "paopao"
+      ]
+    },
+    "en_US": {
+      "name": "Bubble"
+    }
+  },
+  {
+    "id": "gummy",
+    "game_id": "char_196_sunbr",
+    "type": "Defender",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "Gummy",
+      "skills": [
+        "Provisions",
+        "Cooking"
+      ]
+    },
+    "ja_JP": {
+      "name": "グム",
+      "skills": [
+        "非常食",
+        "戦場のシェフ"
+      ],
+      "alias": [
+        "ぐむ"
+      ]
+    },
+    "ko_KR": {
+      "name": "굼",
+      "skills": [
+        "전투 식량",
+        "야외 취사"
+      ]
+    },
+    "zh_CN": {
+      "name": "古米",
+      "skills": [
+        "备用军粮",
+        "食粮烹制"
+      ],
+      "alias": [
+        "gu mi",
+        "gumi"
+      ]
+    },
+    "zh_TW": {
+      "name": "古米",
+      "skills": [
+        "備用軍糧",
+        "食糧烹製"
+      ]
+    },
+    "ru_RU": {
+      "alias": [
+        "Гум"
+      ]
+    }
+  },
+  {
+    "id": "durnar",
+    "game_id": "char_260_durnar",
+    "type": "Defender",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "Dur-nar",
+      "skills": [
+        "ATK Up β",
+        "Shielded Counterattack"
+      ]
+    },
+    "ja_JP": {
+      "name": "ジュナー",
+      "skills": [
+        "攻撃力強化β",
+        "カウンターシールド"
+      ],
+      "alias": [
+        "じゅなー"
+      ]
+    },
+    "ko_KR": {
+      "name": "듀나",
+      "skills": [
+        "공격 강화β",
+        "방패 반격"
+      ]
+    },
+    "zh_CN": {
+      "name": "坚雷",
+      "skills": [
+        "攻击力强化·β型",
+        "起盾回击"
+      ],
+      "alias": [
+        "jian lei",
+        "jianlei"
+      ]
+    },
+    "zh_TW": {
+      "name": "堅雷",
+      "skills": [
+        "攻擊力強化·β型",
+        "起盾回擊"
+      ]
+    }
+  },
+  {
+    "id": "deepcolor",
+    "game_id": "char_110_deepcl",
+    "type": "Supporter",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "Deepcolor",
+      "skills": [
+        "Shadow Tentacle",
+        "Visual Trap"
+      ]
+    },
+    "ja_JP": {
+      "name": "ディピカ",
+      "skills": [
+        "光陰ノ触",
+        "トロンプイユ"
+      ],
+      "alias": [
+        "でぃぴか"
+      ]
+    },
+    "ko_KR": {
+      "name": "딥컬러",
+      "skills": [
+        "광암 촉수",
+        "트롱프뢰유"
+      ]
+    },
+    "zh_CN": {
+      "name": "深海色",
+      "skills": [
+        "光影之触",
+        "视觉陷阱"
+      ],
+      "alias": [
+        "shen hai se",
+        "shenhaise"
+      ]
+    },
+    "zh_TW": {
+      "name": "深海色",
+      "skills": [
+        "光影之觸",
+        "視覺陷阱"
+      ]
+    }
+  },
+  {
+    "id": "earthspirit",
+    "game_id": "char_183_skgoat",
+    "type": "Supporter",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "Earthspirit",
+      "skills": [
+        "ATK Up β",
+        "Quicksand Conversion"
+      ]
+    },
+    "ja_JP": {
+      "name": "アーススピリット",
+      "skills": [
+        "攻撃力強化β",
+        "流砂"
+      ],
+      "alias": [
+        "あーすすぴりっと"
+      ]
+    },
+    "ko_KR": {
+      "name": "어스스피릿",
+      "skills": [
+        "공격 강화β",
+        "모래 늪"
+      ]
+    },
+    "zh_CN": {
+      "name": "地灵",
+      "skills": [
+        "攻击力强化·β型",
+        "流沙化"
+      ],
+      "alias": [
+        "di ling",
+        "diling"
+      ]
+    },
+    "zh_TW": {
+      "name": "地靈",
+      "skills": [
+        "攻擊力強化·β型",
+        "流沙化"
+      ]
+    }
+  },
+  {
+    "id": "podenco",
+    "game_id": "char_258_podego",
+    "type": "Supporter",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "Podenco",
+      "skills": [
+        "Aromatherapy",
+        "Spread Spores"
+      ]
+    },
+    "ja_JP": {
+      "name": "ポデンコ",
+      "skills": [
+        "アロマセラピー",
+        "胞子飛散"
+      ],
+      "alias": [
+        "ぽでんこ"
+      ]
+    },
+    "ko_KR": {
+      "name": "포덴코",
+      "skills": [
+        "아로마 치료",
+        "포자 확산"
+      ]
+    },
+    "zh_CN": {
+      "name": "波登可",
+      "skills": [
+        "花香疗法",
+        "孢子扩散"
+      ],
+      "alias": [
+        "bo deng ke",
+        "bodengke"
+      ]
+    }
+  },
+  {
+    "id": "ethan",
+    "game_id": "char_355_ethan",
+    "type": "Specialist",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "Ethan",
+      "skills": [
+        "Fancy Maneuvers",
+        "Suspended Cross"
+      ]
+    },
+    "ja_JP": {
+      "name": "イーサン",
+      "skills": [
+        "ループザループ",
+        "グラインドツイスター"
+      ],
+      "alias": [
+        "いーさん"
+      ]
+    },
+    "ko_KR": {
+      "name": "에단",
+      "skills": [
+        "요요",
+        "크로스 훅"
+      ]
+    },
+    "zh_CN": {
+      "name": "伊桑",
+      "skills": [
+        "花式回旋",
+        "十字悬挂"
+      ],
+      "alias": [
+        "yi sang",
+        "yisang"
+      ]
+    },
+    "zh_TW": {
+      "name": "伊桑",
+      "skills": [
+        "花式迴旋",
+        "十字懸掛"
+      ]
+    }
+  },
+  {
+    "id": "shaw",
+    "game_id": "char_277_sqrrel",
+    "type": "Specialist",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "Shaw",
+      "skills": [
+        "Steam Pump",
+        "High-Pressure Water Cannon"
+      ]
+    },
+    "ja_JP": {
+      "name": "ショウ",
+      "skills": [
+        "消火ポンプ",
+        "高圧放水"
+      ],
+      "alias": [
+        "しょう"
+      ]
+    },
+    "ko_KR": {
+      "name": "쇼",
+      "skills": [
+        "스팀 펌프",
+        "하이드로캐논"
+      ]
+    },
+    "zh_CN": {
+      "name": "阿消",
+      "skills": [
+        "水蒸气泵",
+        "高压水炮"
+      ],
+      "alias": [
+        "a xiao",
+        "axiao"
+      ]
+    },
+    "zh_TW": {
+      "name": "阿消",
+      "skills": [
+        "水蒸氣泵",
+        "高壓水炮"
+      ]
+    }
+  },
+  {
+    "id": "beehunter",
+    "game_id": "char_137_brownb",
+    "type": "Guard",
+    "stars": 4,
+    "global": true,
+    "en_US": {
+      "name": "Beehunter",
+      "skills": [
+        "Flexibility",
+        "Soaring Fists"
+      ]
+    },
+    "ja_JP": {
+      "name": "ビーハンター",
+      "skills": [
+        "ウィービング",
+        "ラッシュ"
+      ],
+      "alias": [
+        "びーはんたー"
+      ]
+    },
+    "ko_KR": {
+      "name": "비헌터",
+      "skills": [
+        "풋워크",
+        "재빠른 주먹"
+      ]
+    },
+    "zh_CN": {
+      "name": "猎蜂",
+      "skills": [
+        "高机动",
+        "急速拳"
+      ],
+      "alias": [
+        "lie feng",
+        "liefeng"
+      ]
+    },
+    "zh_TW": {
+      "name": "獵蜂",
+      "skills": [
+        "高機動",
+        "急速拳"
+      ]
+    }
+  },
+  {
+    "id": "jackie",
+    "game_id": "char_347_jaksel",
+    "type": "Guard",
+    "stars": 4,
+    "global": false,
+    "zh_CN": {
+      "name": "杰克",
+      "skills": [
+        "给你一拳！",
+        "全神贯注！"
+      ],
+      "alias": [
+        "jie ke",
+        "jieke"
+      ]
+    },
+    "en_US": {
+      "name": "Jackie"
+    }
+  },
+  {
+    "id": "fang",
+    "game_id": "char_123_fang",
+    "type": "Vanguard",
+    "stars": 3,
+    "global": true,
+    "en_US": {
+      "name": "Fang",
+      "skills": [
+        "Charge α"
+      ]
+    },
+    "ja_JP": {
+      "name": "フェン",
+      "skills": [
+        "突撃指令α"
+      ],
+      "alias": [
+        "ふぇん"
+      ]
+    },
+    "ko_KR": {
+      "name": "팽",
+      "skills": [
+        "돌격지령α"
+      ]
+    },
+    "zh_CN": {
+      "name": "芬",
+      "skills": [
+        "冲锋号令·α型"
+      ],
+      "alias": [
+        "fen",
+        "fen"
+      ]
+    },
+    "zh_TW": {
+      "name": "芬",
+      "skills": [
+        "衝鋒號令·α型"
+      ]
+    }
+  },
+  {
+    "id": "vanilla",
+    "game_id": "char_240_wyvern",
+    "type": "Vanguard",
+    "stars": 3,
+    "global": true,
+    "en_US": {
+      "name": "Vanilla",
+      "skills": [
+        "Command - Reinforcement"
+      ]
+    },
+    "ja_JP": {
+      "name": "バニラ",
+      "skills": [
+        "突撃指令・援軍"
+      ],
+      "alias": [
+        "ばにら"
+      ]
+    },
+    "ko_KR": {
+      "name": "바닐라",
+      "skills": [
+        "돌격지령-원군"
+      ]
+    },
+    "zh_CN": {
+      "name": "香草",
+      "skills": [
+        "冲锋号令·援军"
+      ],
+      "alias": [
+        "xiang cao",
+        "xiangcao"
+      ]
+    },
+    "zh_TW": {
+      "name": "香草",
+      "skills": [
+        "衝鋒號令·援軍"
+      ]
+    }
+  },
+  {
+    "id": "reserve_melee",
+    "game_id": "char_504_rguard",
+    "type": "Vanguard",
+    "stars": 3,
+    "global": false,
+    "zh_CN": {
+      "name": "预备干员-近战",
+      "alias": [
+        "yu bei gan yuan - jin zhan",
+        "yubeiganyuan-jinzhan"
+      ]
+    },
+    "en_US": {
+      "name": "Reserve (Melee)"
+    }
+  },
+  {
+    "id": "plume",
+    "game_id": "char_192_falco",
+    "type": "Vanguard",
+    "stars": 3,
+    "global": true,
+    "en_US": {
+      "name": "Plume",
+      "skills": [
+        "Swift Strike α"
+      ]
+    },
+    "ja_JP": {
+      "name": "プリュム",
+      "skills": [
+        "迅速攻撃α"
+      ],
+      "alias": [
+        "ぷりゅむ"
+      ]
+    },
+    "ko_KR": {
+      "name": "플룸",
+      "skills": [
+        "신속공격α"
+      ]
+    },
+    "zh_CN": {
+      "name": "翎羽",
+      "skills": [
+        "迅捷打击·α型"
+      ],
+      "alias": [
+        "ling yu",
+        "lingyu"
+      ]
+    },
+    "zh_TW": {
+      "name": "翎羽",
+      "skills": [
+        "迅捷打擊·α型"
+      ]
+    }
+  },
+  {
+    "id": "melantha",
+    "game_id": "char_208_melan",
+    "type": "Guard",
+    "stars": 3,
+    "global": true,
+    "en_US": {
+      "name": "Melantha",
+      "skills": [
+        "ATK Up α"
+      ]
+    },
+    "ja_JP": {
+      "name": "メランサ",
+      "skills": [
+        "攻撃力強化α"
+      ],
+      "alias": [
+        "めらんさ"
+      ]
+    },
+    "ko_KR": {
+      "name": "멜란사",
+      "skills": [
+        "공격 강화α"
+      ]
+    },
+    "zh_CN": {
+      "name": "玫兰莎",
+      "skills": [
+        "攻击力强化·α型"
+      ],
+      "alias": [
+        "mei lan suo",
+        "meilansuo"
+      ]
+    },
+    "zh_TW": {
+      "name": "玫蘭莎",
+      "skills": [
+        "攻擊力強化·α型"
+      ]
+    }
+  },
+  {
+    "id": "popukar",
+    "game_id": "char_281_popka",
+    "type": "Guard",
+    "stars": 3,
+    "global": true,
+    "en_US": {
+      "name": "Popukar",
+      "skills": [
+        "ATK Up α"
+      ]
+    },
+    "ja_JP": {
+      "name": "ポプカル",
+      "skills": [
+        "攻撃力強化α"
+      ],
+      "alias": [
+        "ぽぷかる"
+      ]
+    },
+    "ko_KR": {
+      "name": "포푸카",
+      "skills": [
+        "공격 강화α"
+      ]
+    },
+    "zh_CN": {
+      "name": "泡普卡",
+      "skills": [
+        "攻击力强化·α型"
+      ],
+      "alias": [
+        "pao pu ka",
+        "paopuka"
+      ]
+    },
+    "zh_TW": {
+      "name": "泡普卡",
+      "skills": [
+        "攻擊力強化·α型"
+      ]
+    }
+  },
+  {
+    "id": "cardigan",
+    "game_id": "char_209_ardign",
+    "type": "Defender",
+    "stars": 3,
+    "global": true,
+    "en_US": {
+      "name": "Cardigan",
+      "skills": [
+        "Regeneration α"
+      ]
+    },
+    "ja_JP": {
+      "name": "カーディ",
+      "skills": [
+        "HP回復α"
+      ],
+      "alias": [
+        "かーでぃ"
+      ]
+    },
+    "ko_KR": {
+      "name": "카디건",
+      "skills": [
+        "HP회복α"
+      ]
+    },
+    "zh_CN": {
+      "name": "卡缇",
+      "skills": [
+        "生命回复·α型"
+      ],
+      "alias": [
+        "ka ti",
+        "kati"
+      ]
+    },
+    "zh_TW": {
+      "name": "卡緹",
+      "skills": [
+        "生命回復·α型"
+      ]
+    }
+  },
+  {
+    "id": "beagle",
+    "game_id": "char_122_beagle",
+    "type": "Defender",
+    "stars": 3,
+    "global": true,
+    "en_US": {
+      "name": "Beagle",
+      "skills": [
+        "DEF Up α"
+      ]
+    },
+    "ja_JP": {
+      "name": "ビーグル",
+      "skills": [
+        "防御力強化α"
+      ],
+      "alias": [
+        "びーぐる"
+      ]
+    },
+    "ko_KR": {
+      "name": "비글",
+      "skills": [
+        "방어 강화α"
+      ]
+    },
+    "zh_CN": {
+      "name": "米格鲁",
+      "skills": [
+        "防御力强化·α型"
+      ],
+      "alias": [
+        "mi ge lu",
+        "migelu"
+      ]
+    },
+    "zh_TW": {
+      "name": "米格魯",
+      "skills": [
+        "防禦力強化·α型"
+      ]
+    }
+  },
+  {
+    "id": "spot",
+    "game_id": "char_284_spot",
+    "type": "Defender",
+    "stars": 3,
+    "global": true,
+    "en_US": {
+      "name": "Spot",
+      "skills": [
+        "Secondary Healing Mode"
+      ]
+    },
+    "ja_JP": {
+      "name": "スポット",
+      "skills": [
+        "第二態勢・回復"
+      ],
+      "alias": [
+        "すぽっと"
+      ]
+    },
+    "ko_KR": {
+      "name": "스팟",
+      "skills": [
+        "2급 치료 모드"
+      ]
+    },
+    "zh_CN": {
+      "name": "斑点",
+      "skills": [
+        "次级治疗模式"
+      ],
+      "alias": [
+        "ban dian",
+        "bandian"
+      ]
+    },
+    "zh_TW": {
+      "name": "斑點",
+      "skills": [
+        "次級治療模式"
+      ]
+    }
+  },
+  {
+    "id": "kroos",
+    "game_id": "char_124_kroos",
+    "type": "Sniper",
+    "stars": 3,
+    "global": true,
+    "en_US": {
+      "name": "Kroos",
+      "skills": [
+        "Double Tap - Auto"
+      ]
+    },
+    "ja_JP": {
+      "name": "クルース",
+      "skills": [
+        "2点・バースト"
+      ],
+      "alias": [
+        "くるーす"
+      ]
+    },
+    "ko_KR": {
+      "name": "크루스",
+      "skills": [
+        "2연사-자동"
+      ]
+    },
+    "zh_CN": {
+      "name": "克洛丝",
+      "skills": [
+        "二连射·自动"
+      ],
+      "alias": [
+        "ke luo si",
+        "keluosi"
+      ]
+    },
+    "zh_TW": {
+      "name": "克洛絲",
+      "skills": [
+        "二連射·自動"
+      ]
+    }
+  },
+  {
+    "id": "adnachiel",
+    "game_id": "char_211_adnach",
+    "type": "Sniper",
+    "stars": 3,
+    "global": true,
+    "en_US": {
+      "name": "Adnachiel",
+      "skills": [
+        "ATK Up α"
+      ]
+    },
+    "ja_JP": {
+      "name": "アドナキエル",
+      "skills": [
+        "攻撃力強化α"
+      ],
+      "alias": [
+        "あどなきえる"
+      ]
+    },
+    "ko_KR": {
+      "name": "아드나키엘",
+      "skills": [
+        "공격 강화α"
+      ]
+    },
+    "zh_CN": {
+      "name": "安德切尔",
+      "skills": [
+        "攻击力强化·α型"
+      ],
+      "alias": [
+        "an de qie er",
+        "andeqieer"
+      ]
+    },
+    "zh_TW": {
+      "name": "安德切爾",
+      "skills": [
+        "攻擊力強化·α型"
+      ]
+    }
+  },
+  {
+    "id": "reserve_sniper",
+    "game_id": "char_507_rsnipe",
+    "type": "Sniper",
+    "stars": 3,
+    "global": false,
+    "zh_CN": {
+      "name": "预备干员-狙击",
+      "alias": [
+        "yu bei gan yuan - ju ji",
+        "yubeiganyuan-juji"
+      ]
+    },
+    "en_US": {
+      "name": "Reserve (Sniper)"
+    }
+  },
+  {
+    "id": "lava",
+    "game_id": "char_121_lava",
+    "type": "Caster",
+    "stars": 3,
+    "global": true,
+    "en_US": {
+      "name": "Lava",
+      "skills": [
+        "Tactical Chant α"
+      ]
+    },
+    "ja_JP": {
+      "name": "ラヴァ",
+      "skills": [
+        "戦術詠唱α"
+      ],
+      "alias": [
+        "らゔぁ"
+      ]
+    },
+    "ko_KR": {
+      "name": "라바",
+      "skills": [
+        "전술영창α"
+      ]
+    },
+    "zh_CN": {
+      "name": "炎熔",
+      "skills": [
+        "战术咏唱·α型"
+      ],
+      "alias": [
+        "yan rong",
+        "yanrong"
+      ]
+    },
+    "zh_TW": {
+      "name": "炎熔",
+      "skills": [
+        "戰術詠唱·α型"
+      ]
+    }
+  },
+  {
+    "id": "hibiscus",
+    "game_id": "char_120_hibisc",
+    "type": "Medic",
+    "stars": 3,
+    "global": true,
+    "en_US": {
+      "name": "Hibiscus",
+      "skills": [
+        "Healing Up α"
+      ]
+    },
+    "ja_JP": {
+      "name": "ハイビスカス",
+      "skills": [
+        "回復力強化α"
+      ],
+      "alias": [
+        "はいびすかす"
+      ]
+    },
+    "ko_KR": {
+      "name": "히비스커스",
+      "skills": [
+        "치료 강화α"
+      ]
+    },
+    "zh_CN": {
+      "name": "芙蓉",
+      "skills": [
+        "治疗强化·α型"
+      ],
+      "alias": [
+        "fu rong",
+        "furong"
+      ]
+    },
+    "zh_TW": {
+      "name": "芙蓉",
+      "skills": [
+        "治療強化·α型"
+      ]
+    }
+  },
+  {
+    "id": "ansel",
+    "game_id": "char_212_ansel",
+    "type": "Medic",
+    "stars": 3,
+    "global": true,
+    "en_US": {
+      "name": "Ansel",
+      "skills": [
+        "Healing Range Up"
+      ]
+    },
+    "ja_JP": {
+      "name": "アンセル",
+      "skills": [
+        "回復範囲強化"
+      ],
+      "alias": [
+        "あんせる"
+      ]
+    },
+    "ko_KR": {
+      "name": "안셀",
+      "skills": [
+        "치료 범위 강화"
+      ]
+    },
+    "zh_CN": {
+      "name": "安赛尔",
+      "skills": [
+        "治疗范围强化"
+      ],
+      "alias": [
+        "an sai er",
+        "ansaier"
+      ]
+    },
+    "zh_TW": {
+      "name": "安賽爾",
+      "skills": [
+        "治療範圍強化"
+      ]
+    }
+  },
+  {
+    "id": "reserve_logistic",
+    "game_id": "char_506_rmedic",
+    "type": "Medic",
+    "stars": 3,
+    "global": false,
+    "zh_CN": {
+      "name": "预备干员-后勤",
+      "alias": [
+        "yu bei gan yuan - hou qin",
+        "yubeiganyuan-houqin"
+      ]
+    },
+    "en_US": {
+      "name": "Reserve (Logistic)"
+    }
+  },
+  {
+    "id": "steward",
+    "game_id": "char_210_stward",
+    "type": "Caster",
+    "stars": 3,
+    "global": true,
+    "en_US": {
+      "name": "Steward",
+      "skills": [
+        "Power Strike α"
+      ]
+    },
+    "ja_JP": {
+      "name": "スチュワード",
+      "skills": [
+        "強撃α"
+      ],
+      "alias": [
+        "すちゅわーど"
+      ]
+    },
+    "ko_KR": {
+      "name": "스튜어드",
+      "skills": [
+        "강타α"
+      ]
+    },
+    "zh_CN": {
+      "name": "史都华德",
+      "skills": [
+        "强力击·α型"
+      ],
+      "alias": [
+        "shi du hua de",
+        "shiduhuade"
+      ]
+    },
+    "zh_TW": {
+      "name": "史都華德",
+      "skills": [
+        "強力擊·α型"
+      ]
+    }
+  },
+  {
+    "id": "reserve_caster",
+    "game_id": "char_505_rcast",
+    "type": "Caster",
+    "stars": 3,
+    "global": false,
+    "zh_CN": {
+      "name": "预备干员-术师",
+      "alias": [
+        "yu bei gan yuan - shu shi",
+        "yubeiganyuan-shushi"
+      ]
+    },
+    "en_US": {
+      "name": "Reserve (Caster)"
+    }
+  },
+  {
+    "id": "orchid",
+    "game_id": "char_278_orchid",
+    "type": "Supporter",
+    "stars": 3,
+    "global": true,
+    "en_US": {
+      "name": "Orchid",
+      "skills": [
+        "Swift Strike α"
+      ]
+    },
+    "ja_JP": {
+      "name": "オーキッド",
+      "skills": [
+        "迅速攻撃α"
+      ],
+      "alias": [
+        "おーきっど"
+      ]
+    },
+    "ko_KR": {
+      "name": "오키드",
+      "skills": [
+        "신속공격α"
+      ]
+    },
+    "zh_CN": {
+      "name": "梓兰",
+      "skills": [
+        "迅捷打击·α型"
+      ],
+      "alias": [
+        "zi lan",
+        "zilan"
+      ]
+    },
+    "zh_TW": {
+      "name": "梓蘭",
+      "skills": [
+        "迅捷打擊·α型"
+      ]
+    }
+  },
+  {
+    "id": "catapult",
+    "game_id": "char_282_catap",
+    "type": "Sniper",
+    "stars": 3,
+    "global": true,
+    "en_US": {
+      "name": "Catapult",
+      "skills": [
+        "Blast Range Up α"
+      ]
+    },
+    "ja_JP": {
+      "name": "カタパルト",
+      "skills": [
+        "爆破範囲拡大α"
+      ],
+      "alias": [
+        "かたぱると"
+      ]
+    },
+    "ko_KR": {
+      "name": "캐터펄트",
+      "skills": [
+        "폭발범위확대α"
+      ]
+    },
+    "zh_CN": {
+      "name": "空爆",
+      "skills": [
+        "爆破范围提升·α型"
+      ],
+      "alias": [
+        "kong bao",
+        "kongbao"
+      ]
+    },
+    "zh_TW": {
+      "name": "空爆",
+      "skills": [
+        "爆破範圍提升·α型"
+      ]
+    }
+  },
+  {
+    "id": "midnight",
+    "game_id": "char_283_midn",
+    "type": "Guard",
+    "stars": 3,
+    "global": true,
+    "en_US": {
+      "name": "Midnight",
+      "skills": [
+        "Enchant Weapon α"
+      ]
+    },
+    "ja_JP": {
+      "name": "ミッドナイト",
+      "skills": [
+        "エンチャントα"
+      ],
+      "alias": [
+        "みっどないと"
+      ]
+    },
+    "ko_KR": {
+      "name": "미드나이트",
+      "skills": [
+        "무기 인챈트α"
+      ]
+    },
+    "zh_CN": {
+      "name": "月见夜",
+      "skills": [
+        "武器附魔·α型"
+      ],
+      "alias": [
+        "yue jian ye",
+        "yuejianye"
+      ]
+    },
+    "zh_TW": {
+      "name": "月見夜",
+      "skills": [
+        "武器附魔·α型"
+      ]
+    }
+  },
+  {
+    "id": "lancet2",
+    "game_id": "char_285_medic2",
+    "type": "Medic",
+    "stars": 1,
+    "global": true,
+    "en_US": {
+      "name": "Lancet-2"
+    },
+    "ja_JP": {
+      "name": "Lancet-2"
+    },
+    "ko_KR": {
+      "name": "Lancet-2"
+    },
+    "zh_CN": {
+      "name": "Lancet-2"
+    },
+    "zh_TW": {
+      "name": "Lancet-2"
+    }
+  },
+  {
+    "id": "castle3",
+    "game_id": "char_286_cast3",
+    "type": "Guard",
+    "stars": 1,
+    "global": true,
+    "en_US": {
+      "name": "Castle-3"
+    },
+    "ja_JP": {
+      "name": "Castle-3"
+    },
+    "ko_KR": {
+      "name": "Castle-3"
+    },
+    "zh_CN": {
+      "name": "Castle-3"
+    },
+    "zh_TW": {
+      "name": "Castle-3"
+    }
+  },
+  {
+    "id": "thrmex",
+    "game_id": "char_376_therex",
+    "type": "Specialist",
+    "stars": 1,
+    "global": true,
+    "en_US": {
+      "name": "THRM-EX"
+    },
+    "ja_JP": {
+      "name": "THRM-EX"
+    },
+    "ko_KR": {
+      "name": "THRM-EX"
+    },
+    "zh_CN": {
+      "name": "THRM-EX"
+    }
+  },
+  {
+    "id": "yato",
+    "game_id": "char_502_nblade",
+    "type": "Vanguard",
+    "stars": 2,
+    "global": true,
+    "en_US": {
+      "name": "Yato"
+    },
+    "ja_JP": {
+      "name": "ヤトウ",
+      "alias": [
+        "やとう"
+      ]
+    },
+    "ko_KR": {
+      "name": "야토"
+    },
+    "zh_CN": {
+      "name": "夜刀",
+      "alias": [
+        "ye dao",
+        "yedao"
+      ]
+    },
+    "zh_TW": {
+      "name": "夜刀"
+    }
+  },
+  {
+    "id": "noir_corne",
+    "game_id": "char_500_noirc",
+    "type": "Defender",
+    "stars": 2,
+    "global": true,
+    "en_US": {
+      "name": "Noir Corne"
+    },
+    "ja_JP": {
+      "name": "ノイルホーン",
+      "alias": [
+        "のいるほーん"
+      ]
+    },
+    "ko_KR": {
+      "name": "느와르 코르네"
+    },
+    "zh_CN": {
+      "name": "黑角",
+      "alias": [
+        "hei jiao",
+        "heijiao"
+      ]
+    },
+    "zh_TW": {
+      "name": "黑角"
+    }
+  },
+  {
+    "id": "rangers",
+    "game_id": "char_503_rang",
+    "type": "Sniper",
+    "stars": 2,
+    "global": true,
+    "en_US": {
+      "name": "Rangers"
+    },
+    "ja_JP": {
+      "name": "レンジャー",
+      "alias": [
+        "れんじゃー"
+      ]
+    },
+    "ko_KR": {
+      "name": "레인저"
+    },
+    "zh_CN": {
+      "name": "巡林者",
+      "alias": [
+        "xun lin zhe",
+        "xunlinzhe"
+      ]
+    },
+    "zh_TW": {
+      "name": "巡林者"
+    }
+  },
+  {
+    "id": "durin",
+    "game_id": "char_501_durin",
+    "type": "Caster",
+    "stars": 2,
+    "global": true,
+    "en_US": {
+      "name": "Durin"
+    },
+    "ja_JP": {
+      "name": "ドゥリン",
+      "alias": [
+        "どぅりん"
+      ]
+    },
+    "ko_KR": {
+      "name": "두린"
+    },
+    "zh_CN": {
+      "name": "杜林",
+      "alias": [
+        "du lin",
+        "dulin"
+      ]
+    },
+    "zh_TW": {
+      "name": "杜林"
+    }
+  },
+  {
+    "id": "12f",
+    "game_id": "char_009_12fce",
+    "type": "Caster",
+    "stars": 2,
+    "global": true,
+    "en_US": {
+      "name": "12F"
+    },
+    "ja_JP": {
+      "name": "12F"
+    },
+    "ko_KR": {
+      "name": "12F"
+    },
+    "zh_CN": {
+      "name": "12F"
+    },
+    "zh_TW": {
+      "name": "12F"
+    }
+  }
+]

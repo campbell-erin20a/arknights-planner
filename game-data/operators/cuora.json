@@ -1,0 +1,165 @@
+{
+  "id": "cuora",
+  "game_id": "char_150_snakek",
+  "stars": 4,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-ROC-1": 5,
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-SUG-2": 2,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-DEF-3": 3,
+        "M-ROC-2": 1,
+        "M-IRO-2": 1,
+        "Y-LMD-4": 15000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-EST-2": 3,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-SUG-3": 3,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-EST-3": 3,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-DEF-4": 5,
+        "M-GRI-3": 14,
+        "M-KOH-3": 10,
+        "Y-LMD-4": 60000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-IRO-4": 1,
+        "M-SUG-3": 4,
+        "K-BLU-4": 2
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-DEV-4": 1,
+        "M-IRO-4": 2,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-KET-5": 2,
+        "M-EST-4": 2,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-KET-4": 1,
+        "M-EST-3": 4,
+        "K-BLU-4": 2
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-KOH-4": 2,
+        "M-KET-4": 2,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 2,
+        "M-KET-4": 2,
+        "K-BLU-4": 6
+      }
+    }
+  ],
+  "name": {
+    "en": "Cuora",
+    "ja": "クオーラ",
+    "ko": "쿠오라",
+    "zh": "蛇屠箱"
+  },
+  "alias": [
+    "くおーら",
+    "she tu xiang",
+    "shetuxiang"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "DEF Up β",
+        "ja": "防御力強化β",
+        "ko": "방어 강화β",
+        "zh": "防御力强化·β型"
+      }
+    },
+    {
+      "name": {
+        "en": "Shell Defense",
+        "ja": "シェルガード",
+        "ko": "쉘 디펜스",
+        "zh": "壳状防御"
+      }
+    }
+  ],
+  "kind": "DEFENDER"
+}

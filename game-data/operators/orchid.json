@@ -1,0 +1,84 @@
+{
+  "id": "orchid",
+  "game_id": "char_278_orchid",
+  "stars": 3,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 1
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-ROC-1": 2,
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-SUG-2": 1,
+        "K-GRE-3": 1
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "Y-LMD-4": 10000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-EST-2": 2,
+        "K-GRE-3": 1
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-DEV-3": 1,
+        "K-GRE-3": 1
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-KOH-3": 2,
+        "K-BLU-4": 2
+      }
+    }
+  ],
+  "name": {
+    "en": "Orchid",
+    "ja": "オーキッド",
+    "ko": "오키드",
+    "zh": "梓兰"
+  },
+  "alias": [
+    "おーきっど",
+    "zi lan",
+    "zilan"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Swift Strike α",
+        "ja": "迅速攻撃α",
+        "ko": "신속공격α",
+        "zh": "迅捷打击·α型"
+      }
+    }
+  ],
+  "kind": "SUPPORTER"
+}

@@ -1,0 +1,165 @@
+{
+  "id": "frostleaf",
+  "game_id": "char_193_frostl",
+  "stars": 4,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-EST-1": 4,
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-IRO-2": 2,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-GUA-3": 3,
+        "M-EST-2": 1,
+        "M-IRO-2": 1,
+        "Y-LMD-4": 15000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-KET-2": 2,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-SUG-3": 3,
+        "K-GRE-3": 3
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-EST-3": 3,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-GUA-4": 5,
+        "M-GRI-3": 15,
+        "M-MAN-3": 7,
+        "Y-LMD-4": 60000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-IRO-4": 1,
+        "M-SUG-3": 4,
+        "K-BLU-4": 2
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-DEV-4": 1,
+        "M-IRO-4": 2,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 2,
+        "M-KOH-4": 2,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-KET-4": 1,
+        "M-EST-3": 4,
+        "K-BLU-4": 2
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-KOH-4": 2,
+        "M-KET-4": 2,
+        "K-BLU-4": 4
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-KET-5": 2,
+        "M-RMA-4": 2,
+        "K-BLU-4": 6
+      }
+    }
+  ],
+  "name": {
+    "en": "Frostleaf",
+    "ja": "フロストリーフ",
+    "ko": "프로스트리프",
+    "zh": "霜叶"
+  },
+  "alias": [
+    "ふろすとりーふ",
+    "shuang ye",
+    "shuangye"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Frost Tomahawk",
+        "ja": "降霜の刃",
+        "ko": "서리창",
+        "zh": "寒霜枪刃"
+      }
+    },
+    {
+      "name": {
+        "en": "Ice Tomahawk",
+        "ja": "氷結の刃",
+        "ko": "빙결창",
+        "zh": "凝冰枪刃"
+      }
+    }
+  ],
+  "kind": "GUARD"
+}

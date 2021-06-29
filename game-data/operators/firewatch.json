@@ -1,0 +1,166 @@
+{
+  "id": "firewatch",
+  "game_id": "char_158_milu",
+  "stars": 5,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-DEV-1": 4,
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-ROC-2": 4,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-SNI-3": 4,
+        "M-DEV-2": 3,
+        "M-KET-2": 2,
+        "Y-LMD-4": 20000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-SUG-2": 5,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-KOH-3": 4,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-MAN-3": 2,
+        "M-RMA-3": 3,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-SNI-5": 3,
+        "M-EST-4": 7,
+        "M-KOH-3": 15,
+        "Y-LMD-4": 120000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-GRI-4": 3,
+        "M-KOH-3": 4,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-ROC-4": 3,
+        "M-GRI-4": 6,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 4,
+        "M-ROC-4": 4,
+        "K-BLU-4": 10
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-RMA-4": 3,
+        "M-MAN-3": 2,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-SUG-4": 3,
+        "M-RMA-4": 5,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 4,
+        "M-EST-4": 4,
+        "K-BLU-4": 10
+      }
+    }
+  ],
+  "name": {
+    "en": "Firewatch",
+    "ja": "ファイヤーウォッチ",
+    "ko": "파이어워치",
+    "zh": "守林人"
+  },
+  "alias": [
+    "ふぁいやーうぉっち",
+    "shou lin ren",
+    "shoulinren"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Camouflage",
+        "ja": "カモフラージュ",
+        "ko": "카모플라쥬",
+        "zh": "环境伪装"
+      }
+    },
+    {
+      "name": {
+        "en": "Tactical Transceiver",
+        "ja": "爆撃要請",
+        "ko": "전술 무전",
+        "zh": "战术电台"
+      }
+    }
+  ],
+  "kind": "SNIPER"
+}

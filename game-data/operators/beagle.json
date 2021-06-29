@@ -1,0 +1,84 @@
+{
+  "id": "beagle",
+  "game_id": "char_122_beagle",
+  "stars": 3,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 1
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-KET-1": 1,
+        "K-WHI-2": 2
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-DEV-2": 1,
+        "K-GRE-3": 1
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "Y-LMD-4": 10000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-ROC-2": 3,
+        "K-GRE-3": 1
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-MAN-3": 1,
+        "K-GRE-3": 1
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-GRI-3": 1,
+        "K-BLU-4": 2
+      }
+    }
+  ],
+  "name": {
+    "en": "Beagle",
+    "ja": "ビーグル",
+    "ko": "비글",
+    "zh": "米格鲁"
+  },
+  "alias": [
+    "びーぐる",
+    "mi ge lu",
+    "migelu"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "DEF Up α",
+        "ja": "防御力強化α",
+        "ko": "방어 강화α",
+        "zh": "防御力强化·α型"
+      }
+    }
+  ],
+  "kind": "DEFENDER"
+}

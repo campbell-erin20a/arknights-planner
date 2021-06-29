@@ -1,0 +1,50 @@
+{
+  "id": "X-ALL-4",
+  "game_id": 5001,
+  "visible": false,
+  "global": true,
+  "scale": true,
+  "sort": 1100,
+  "tier": 4,
+  "kind": "CURRENCY",
+  "name": {
+    "en": "EXP",
+    "ja": "名声",
+    "ko": "명성",
+    "zh": "声望"
+  },
+  "alias": [
+    "sheng wang",
+    "shengwang"
+  ],
+  "producers": [
+    {
+      "kind": "EXCHANGE",
+      "count": 1000,
+      "cost": {
+        "X-EXP-4": 1
+      }
+    },
+    {
+      "kind": "EXCHANGE",
+      "count": 2000,
+      "cost": {
+        "X-EXP-5": 1
+      }
+    },
+    {
+      "kind": "EXCHANGE",
+      "count": 400,
+      "cost": {
+        "X-EXP-3": 1
+      }
+    },
+    {
+      "kind": "EXCHANGE",
+      "count": 200,
+      "cost": {
+        "X-EXP-2": 1
+      }
+    }
+  ]
+}

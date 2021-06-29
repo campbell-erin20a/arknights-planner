@@ -1,0 +1,20 @@
+{
+  "id": "M-MAN-3",
+  "game_id": 30083,
+  "tier": 3,
+  "global": true,
+  "kind": "MANGANESE",
+  "sort": 1601,
+  "name": {
+    "en": "Manganese Ore",
+    "ja": "マンガン",
+    "ko": "망간 광석",
+    "zh": "轻锰矿"
+  },
+  "alias": [
+    "まんがん",
+    "qing meng kuang",
+    "qingmengkuang"
+  ],
+  "producers": []
+}

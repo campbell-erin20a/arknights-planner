@@ -1,0 +1,111 @@
+
+type ItemConnection {
+  pageInfo: PageInfo!
+  edges: [ItemEdge!]!
+}
+type ItemEdge {
+  cursor: String!
+  node: Item!
+}
+
+type ItemCount {
+  item: Item!
+  count: Int!
+}
+
+enum ItemKind {
+  CURRENCY
+  OTHER
+
+  BATTLE_RECORD
+  SKILL
+  CHIP
+
+  ALLOY
+  CRYSTAL
+  GEL
+  GRINDSTONE
+  KOHL
+  MANGANESE
+  RMA
+
+  DEVICE
+  ESTER
+  IRON
+  KETON
+  ROCK
+  SUGAR
+}
+type Item {
+  id: ID!
+  game_id: String!
+  global: Boolean!
+
+  visible: Boolean!
+  sort: Int!
+  scale: Boolean!
+
+  tier: Int!
+  kind: ItemKind!
+  operator: OperatorKind
+  name(language: Language): String!
+  name_i18n: I18NString!
+  # producers: [Producer!]!
+
+  owned: Int!
+}
+
+extend type Query {
+  item(id: ID!): Item
+  items(first: Int, after: String, last: Int, before: String): ItemConnection!
+}
+extend type Mutation {
+  updateItemOwned(id: ID!, value: Int, offset: Int): Item!
+}
+
+
+# interface Producer {
+#   item: Item!
+#   count: Int!
+# }
+
+# type MonthlyProducer implements Producer {
+#   item: Item!
+#   count: Int!
+#   day: Int! # [0-30]
+# }
+
+# enum IntervalProducerKind {
+#   FACTORY
+#   TRADING_POST
+#   MISSION
+# }
+# type IntervalProducer implements Producer {
+#   item: Item!
+#   count: Int!
+#   kind: IntervalProducerKind!
+#   duration: Duration!
+#   cost: [ItemCount!]!
+# }
+
+# type WorkshopProducer implements Producer {
+#   item: Item!
+#   count: Int!
+#   morale: Int!
+#   cost: [ItemCount!]!
+# }
+
+# type ExchangeProducer implements Producer {
+#   item: Item!
+#   count: Int!
+#   cost: [ItemCount!]!
+# }
+
+# enum ProducerKind {
+#   FACTORY
+#   TRADING_POST
+#   MISSION
+#   WORKSHOP
+#   MONTHLY
+#   EXCHANGE
+# }

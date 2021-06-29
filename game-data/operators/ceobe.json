@@ -1,0 +1,206 @@
+{
+  "id": "ceobe",
+  "game_id": "char_2013_cerber",
+  "stars": 6,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 5
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-IRO-1": 5,
+        "M-SUG-1": 4,
+        "K-WHI-2": 5
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-KET-2": 4,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-CAS-3": 5,
+        "M-IRO-2": 8,
+        "M-DEV-2": 3,
+        "Y-LMD-4": 30000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-DEV-2": 3,
+        "M-EST-2": 3,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-KET-3": 6,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-GRI-3": 4,
+        "M-ROC-3": 5,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-CAS-5": 4,
+        "M-DEV-5": 4,
+        "M-ALL-4": 5,
+        "Y-LMD-4": 180000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-RMA-4": 4,
+        "M-MAN-3": 5,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-IRO-4": 4,
+        "M-ALL-4": 7,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-KET-5": 6,
+        "M-GEL-4": 7,
+        "K-BLU-4": 15
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-ALL-4": 4,
+        "M-RMA-3": 5,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-KET-4": 4,
+        "M-GEL-4": 9,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 6,
+        "M-ALL-4": 6,
+        "K-BLU-4": 15
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 8,
+      "cost": {
+        "M-GEL-4": 4,
+        "M-ROC-3": 11,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 9,
+      "cost": {
+        "M-DEV-4": 3,
+        "M-IRO-4": 6,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 6,
+        "M-ROC-4": 6,
+        "K-BLU-4": 15
+      }
+    }
+  ],
+  "name": {
+    "en": "Ceobe",
+    "ja": "ケオベ",
+    "ko": "케오베",
+    "zh": "刻俄柏"
+  },
+  "alias": [
+    "けおべ",
+    "ke e bai",
+    "keebai"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "\"Really Cold Axe\"",
+        "ja": "「つめたいおの」",
+        "ko": " '엄청 차가운' 도끼",
+        "zh": "“很冰的斧”"
+      }
+    },
+    {
+      "name": {
+        "en": "\"Really Hot Knives\"",
+        "ja": "「あついないふ」",
+        "ko": " '엄청 뜨거운' 칼",
+        "zh": "“很热的刀”"
+      }
+    },
+    {
+      "name": {
+        "en": "\"Really Heavy Spear\"",
+        "ja": "「おもたいやり」",
+        "ko": " '엄청 무거운' 창",
+        "zh": "“很重的枪”"
+      }
+    }
+  ],
+  "kind": "CASTER"
+}

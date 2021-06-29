@@ -1,0 +1,32 @@
+{
+  "id": "M-EST-4",
+  "game_id": 30034,
+  "tier": 4,
+  "global": true,
+  "kind": "ESTER",
+  "sort": 2000,
+  "name": {
+    "en": "Polyester Lump",
+    "ja": "上級エステル",
+    "ko": "폴리에스테르 팩",
+    "zh": "聚酸酯块"
+  },
+  "alias": [
+    "上級えすてる",
+    "ju suan zhi kuai",
+    "jusuanzhikuai"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 1,
+      "morale": 4,
+      "cost": {
+        "Y-LMD-4": 300,
+        "M-EST-3": 2,
+        "M-KET-3": 1,
+        "M-KOH-3": 1
+      }
+    }
+  ]
+}

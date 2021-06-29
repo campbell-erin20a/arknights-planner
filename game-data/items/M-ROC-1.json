@@ -1,0 +1,19 @@
+{
+  "id": "M-ROC-1",
+  "game_id": 30011,
+  "tier": 1,
+  "global": true,
+  "kind": "ROCK",
+  "sort": 1803,
+  "name": {
+    "en": "Orirock",
+    "ja": "源岩鉱",
+    "ko": "원암",
+    "zh": "源岩"
+  },
+  "alias": [
+    "yuan yan",
+    "yuanyan"
+  ],
+  "producers": []
+}

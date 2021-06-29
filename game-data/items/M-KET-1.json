@@ -1,0 +1,20 @@
+{
+  "id": "M-KET-1",
+  "game_id": 30051,
+  "tier": 1,
+  "global": true,
+  "kind": "KETON",
+  "sort": 2303,
+  "name": {
+    "en": "Diketon",
+    "ja": "アケトン試剤",
+    "ko": "디케톤",
+    "zh": "双酮"
+  },
+  "alias": [
+    "あけとん試剤",
+    "shuang tong",
+    "shuangtong"
+  ],
+  "producers": []
+}

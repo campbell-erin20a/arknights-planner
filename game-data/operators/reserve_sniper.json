@@ -1,0 +1,26 @@
+{
+  "id": "reserve_sniper",
+  "game_id": "char_507_rsnipe",
+  "stars": 3,
+  "global": false,
+  "upgrades": [
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "Y-LMD-4": 10000
+      }
+    }
+  ],
+  "name": {
+    "en": "Reserve (Sniper)",
+    "zh": "预备干员-狙击"
+  },
+  "alias": [
+    "yu bei gan yuan - ju ji",
+    "yubeiganyuan-juji"
+  ],
+  "skills": [],
+  "temporary": true,
+  "kind": "SNIPER"
+}

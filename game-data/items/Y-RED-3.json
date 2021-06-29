@@ -1,0 +1,42 @@
+{
+  "id": "Y-RED-3",
+  "game_id": 4006,
+  "tier": 3,
+  "global": true,
+  "sort": 1001,
+  "kind": "CURRENCY",
+  "name": {
+    "en": "Shop Voucher",
+    "ja": "購買資格証",
+    "ko": "구매증명서",
+    "zh": "采购凭证"
+  },
+  "alias": [
+    "cai gou ping zheng",
+    "caigoupingzheng"
+  ],
+  "producers": [
+    {
+      "kind": "MONTHLY",
+      "count": 25,
+      "day": 18
+    },
+    {
+      "kind": "MONTHLY",
+      "count": 8,
+      "day": 4
+    },
+    {
+      "kind": "MISSION",
+      "duration": 7,
+      "unit": "DAY",
+      "count": 30
+    },
+    {
+      "kind": "MISSION",
+      "duration": 1,
+      "unit": "DAY",
+      "count": 5
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "id": "blemishine",
+  "game_id": "char_423_blemsh",
+  "stars": 6,
+  "global": false,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 5
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-ROC-1": 6,
+        "M-DEV-1": 4,
+        "K-WHI-2": 5
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-SUG-2": 5,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-DEF-3": 5,
+        "M-DEV-2": 5,
+        "M-ROC-2": 7,
+        "Y-LMD-4": 30000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-IRO-2": 4,
+        "M-SUG-2": 3,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-KET-3": 6,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-MAN-3": 3,
+        "M-RMA-3": 4,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-DEF-5": 4,
+        "M-RMA-5": 4,
+        "M-RMA-4": 7,
+        "Y-LMD-4": 180000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-GRI-4": 4,
+        "M-KOH-3": 7,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-DEV-4": 3,
+        "M-IRO-4": 6,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 6,
+        "M-KET-4": 5,
+        "K-BLU-4": 15
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-ROC-4": 4,
+        "M-GRI-3": 7,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-MAN-4": 4,
+        "M-DEV-4": 5,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-KET-5": 6,
+        "M-ALL-4": 6,
+        "K-BLU-4": 15
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 8,
+      "cost": {
+        "M-GEL-4": 4,
+        "M-ROC-3": 11,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 9,
+      "cost": {
+        "M-RMA-4": 4,
+        "M-MAN-4": 7,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 6,
+        "M-ALL-4": 5,
+        "K-BLU-4": 15
+      }
+    }
+  ],
+  "name": {
+    "en": "Blemishine",
+    "zh": "瑕光"
+  },
+  "alias": [
+    "xia guang",
+    "xiaguang"
+  ],
+  "skills": [
+    {
+      "name": {
+        "zh": "光芒涌动"
+      }
+    },
+    {
+      "name": {
+        "zh": "慑敌辉光"
+      }
+    },
+    {
+      "name": {
+        "zh": "先贤化身"
+      }
+    }
+  ],
+  "kind": "DEFENDER"
+}

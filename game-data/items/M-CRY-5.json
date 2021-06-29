@@ -1,0 +1,31 @@
+{
+  "id": "M-CRY-5",
+  "game_id": 30145,
+  "tier": 5,
+  "global": true,
+  "kind": "CRYSTAL",
+  "sort": 2600,
+  "name": {
+    "en": "Crystalline Electroassembly",
+    "ja": "結晶制御装置",
+    "ko": "결정 전자 장치",
+    "zh": "晶体电子单元"
+  },
+  "alias": [
+    "jing ti dian zi dan yuan",
+    "jingtidianzidanyuan"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 1,
+      "morale": 8,
+      "cost": {
+        "Y-LMD-4": 400,
+        "M-CRY-4": 1,
+        "M-GEL-4": 2,
+        "M-ALL-4": 1
+      }
+    }
+  ]
+}

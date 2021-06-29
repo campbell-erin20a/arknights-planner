@@ -1,0 +1,29 @@
+{
+  "id": "C-SNI-3",
+  "game_id": 3241,
+  "tier": 3,
+  "global": true,
+  "kind": "CHIP",
+  "operator": "SNIPER",
+  "sort": 2733,
+  "name": {
+    "en": "Sniper Chip",
+    "ja": "初級狙撃SoC",
+    "ko": "스나이퍼 칩",
+    "zh": "狙击芯片"
+  },
+  "alias": [
+    "ju ji xin pian",
+    "jujixinpian"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 2,
+      "morale": 1,
+      "cost": {
+        "C-CAS-3": 3
+      }
+    }
+  ]
+}

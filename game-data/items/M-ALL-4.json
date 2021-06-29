@@ -1,0 +1,31 @@
+{
+  "id": "M-ALL-4",
+  "game_id": 31024,
+  "tier": 4,
+  "global": true,
+  "kind": "ALLOY",
+  "sort": 2500,
+  "name": {
+    "en": "Incandescent Alloy Block",
+    "ja": "上級熾合金",
+    "ko": "열합금 팩",
+    "zh": "炽合金块"
+  },
+  "alias": [
+    "chi he jin kuai",
+    "chihejinkuai"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 1,
+      "morale": 4,
+      "cost": {
+        "Y-LMD-4": 300,
+        "M-ALL-3": 1,
+        "M-DEV-3": 1,
+        "M-GRI-3": 1
+      }
+    }
+  ]
+}

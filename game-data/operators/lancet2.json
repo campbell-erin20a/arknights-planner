@@ -1,0 +1,16 @@
+{
+  "id": "lancet2",
+  "game_id": "char_285_medic2",
+  "stars": 1,
+  "global": true,
+  "upgrades": [],
+  "name": {
+    "en": "Lancet-2",
+    "ja": "Lancet-2",
+    "ko": "Lancet-2",
+    "zh": "Lancet-2"
+  },
+  "alias": [],
+  "skills": [],
+  "kind": "MEDIC"
+}

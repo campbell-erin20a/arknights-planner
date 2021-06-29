@@ -1,0 +1,31 @@
+{
+  "id": "X-EXP-4",
+  "game_id": 2003,
+  "tier": 4,
+  "global": true,
+  "kind": "BATTLE_RECORD",
+  "sort": 1102,
+  "name": {
+    "en": "Tactical Battle Record",
+    "ja": "中級作戦記録",
+    "ko": "중급작전기록",
+    "zh": "中级作战记录"
+  },
+  "alias": [
+    "zhong ji zuo zhan ji lu",
+    "zhongjizuozhanjilu"
+  ],
+  "producers": [
+    {
+      "kind": "MONTHLY",
+      "count": 6,
+      "day": 16
+    },
+    {
+      "kind": "MISSION",
+      "duration": 7,
+      "unit": "DAY",
+      "count": 4
+    }
+  ]
+}

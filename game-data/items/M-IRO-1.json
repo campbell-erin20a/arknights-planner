@@ -1,0 +1,19 @@
+{
+  "id": "M-IRO-1",
+  "game_id": 30041,
+  "tier": 1,
+  "global": true,
+  "kind": "IRON",
+  "sort": 2203,
+  "name": {
+    "en": "Oriron Shard",
+    "ja": "異鉄の欠片",
+    "ko": "이철 조각",
+    "zh": "异铁碎片"
+  },
+  "alias": [
+    "yi tie sui pian",
+    "yitiesuipian"
+  ],
+  "producers": []
+}

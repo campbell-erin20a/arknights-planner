@@ -1,0 +1,30 @@
+{
+  "id": "M-EST-3",
+  "game_id": 30033,
+  "tier": 3,
+  "global": true,
+  "kind": "ESTER",
+  "sort": 2001,
+  "name": {
+    "en": "Polyester Pack",
+    "ja": "中級エステル",
+    "ko": "폴리에스테르 번들",
+    "zh": "聚酸酯组"
+  },
+  "alias": [
+    "中級えすてる",
+    "ju suan zhi zu",
+    "jusuanzhizu"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 1,
+      "morale": 2,
+      "cost": {
+        "Y-LMD-4": 200,
+        "M-EST-2": 4
+      }
+    }
+  ]
+}

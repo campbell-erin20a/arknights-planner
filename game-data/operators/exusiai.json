@@ -1,0 +1,206 @@
+{
+  "id": "exusiai",
+  "game_id": "char_103_angel",
+  "stars": 6,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 5
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-ROC-1": 6,
+        "M-DEV-1": 4,
+        "K-WHI-2": 5
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-SUG-2": 5,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-SNI-3": 5,
+        "M-ROC-2": 12,
+        "M-KET-2": 4,
+        "Y-LMD-4": 30000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-EST-2": 4,
+        "M-IRO-2": 4,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-IRO-3": 6,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-KET-3": 3,
+        "M-KOH-3": 6,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-SNI-5": 4,
+        "M-KET-5": 4,
+        "M-SUG-4": 5,
+        "Y-LMD-4": 180000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-DEV-4": 3,
+        "M-IRO-3": 4,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-GRI-4": 4,
+        "M-KOH-4": 9,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-KET-5": 6,
+        "M-SUG-4": 6,
+        "K-BLU-4": 15
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-KOH-4": 4,
+        "M-KET-3": 8,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-RMA-4": 4,
+        "M-MAN-4": 7,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-KET-5": 6,
+        "M-KOH-4": 7,
+        "K-BLU-4": 15
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 8,
+      "cost": {
+        "M-MAN-4": 4,
+        "M-DEV-3": 4,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 9,
+      "cost": {
+        "M-ROC-4": 4,
+        "M-GRI-4": 9,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 6,
+        "M-EST-4": 6,
+        "K-BLU-4": 15
+      }
+    }
+  ],
+  "name": {
+    "en": "Exusiai",
+    "ja": "エクシア",
+    "ko": "엑시아",
+    "zh": "能天使"
+  },
+  "alias": [
+    "えくしあ",
+    "neng tian shi",
+    "nengtianshi"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Charging Mode",
+        "ja": "アサルトモード",
+        "ko": "어설트 모드",
+        "zh": "冲锋模式"
+      }
+    },
+    {
+      "name": {
+        "en": "Shooting Mode",
+        "ja": "バーストモード",
+        "ko": "슈팅 모드",
+        "zh": "扫射模式"
+      }
+    },
+    {
+      "name": {
+        "en": "Overloading Mode",
+        "ja": "オーバーロード",
+        "ko": "과부하 모드",
+        "zh": "过载模式"
+      }
+    }
+  ],
+  "kind": "SNIPER"
+}

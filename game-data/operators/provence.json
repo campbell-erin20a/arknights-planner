@@ -1,0 +1,166 @@
+{
+  "id": "provence",
+  "game_id": "char_145_prove",
+  "stars": 5,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-KET-1": 5,
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-DEV-2": 2,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-SNI-3": 4,
+        "M-KET-2": 4,
+        "M-IRO-2": 3,
+        "Y-LMD-4": 20000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-ROC-2": 8,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-DEV-3": 3,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-KOH-3": 3,
+        "M-KET-3": 3,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-SNI-5": 3,
+        "M-SUG-4": 9,
+        "M-DEV-3": 7,
+        "Y-LMD-4": 120000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-MAN-4": 3,
+        "M-DEV-3": 2,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-RMA-4": 3,
+        "M-MAN-4": 5,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-KET-5": 4,
+        "M-SUG-4": 4,
+        "K-BLU-4": 10
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-GRI-4": 3,
+        "M-KOH-3": 4,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-ROC-4": 3,
+        "M-GRI-4": 6,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 4,
+        "M-ROC-4": 4,
+        "K-BLU-4": 10
+      }
+    }
+  ],
+  "name": {
+    "en": "Provence",
+    "ja": "プロヴァンス",
+    "ko": "프로방스",
+    "zh": "普罗旺斯"
+  },
+  "alias": [
+    "ぷろゔぁんす",
+    "pu luo wang si",
+    "puluowangsi"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Wolf's Eye",
+        "ja": "ウルフアイ",
+        "ko": "늑대의 눈",
+        "zh": "狼眼"
+      }
+    },
+    {
+      "name": {
+        "en": "Prey Seeker",
+        "ja": "鮮血の匂い",
+        "ko": "먹이 사냥",
+        "zh": "杀戮嗅觉"
+      }
+    }
+  ],
+  "kind": "SNIPER"
+}

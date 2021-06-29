@@ -1,0 +1,29 @@
+{
+  "id": "M-IRO-2",
+  "game_id": 30042,
+  "tier": 2,
+  "global": true,
+  "kind": "IRON",
+  "sort": 2202,
+  "name": {
+    "en": "Oriron",
+    "ja": "初級異鉄",
+    "ko": "이철",
+    "zh": "异铁"
+  },
+  "alias": [
+    "yi tie",
+    "yitie"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 1,
+      "morale": 1,
+      "cost": {
+        "Y-LMD-4": 100,
+        "M-IRO-1": 3
+      }
+    }
+  ]
+}

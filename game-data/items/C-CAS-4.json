@@ -1,0 +1,29 @@
+{
+  "id": "C-CAS-4",
+  "game_id": 3252,
+  "tier": 4,
+  "global": true,
+  "kind": "CHIP",
+  "operator": "CASTER",
+  "sort": 2724,
+  "name": {
+    "en": "Caster Chip Pack",
+    "ja": "中級術師SoC",
+    "ko": "캐스터 칩셋",
+    "zh": "术师芯片组"
+  },
+  "alias": [
+    "shu shi xin pian zu",
+    "shushixinpianzu"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 2,
+      "morale": 2,
+      "cost": {
+        "C-SNI-4": 3
+      }
+    }
+  ]
+}

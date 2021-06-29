@@ -1,0 +1,20 @@
+{
+  "id": "M-KOH-3",
+  "game_id": 30073,
+  "tier": 3,
+  "global": true,
+  "kind": "KOHL",
+  "sort": 1401,
+  "name": {
+    "en": "Loxic Kohl",
+    "ja": "合成コール",
+    "ko": "로식 콜",
+    "zh": "扭转醇"
+  },
+  "alias": [
+    "合成こーる",
+    "niu zhuan chun",
+    "niuzhuanchun"
+  ],
+  "producers": []
+}

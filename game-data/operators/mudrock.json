@@ -1,0 +1,194 @@
+{
+  "id": "mudrock",
+  "game_id": "char_311_mudrok",
+  "stars": 6,
+  "global": false,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 5
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-SUG-1": 5,
+        "M-KET-1": 4,
+        "K-WHI-2": 5
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-EST-2": 5,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-DEF-3": 5,
+        "M-ROC-2": 12,
+        "M-KET-2": 4,
+        "Y-LMD-4": 30000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-IRO-2": 4,
+        "M-SUG-2": 3,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-KET-3": 6,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-DEV-3": 3,
+        "M-GEL-3": 4,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-DEF-5": 4,
+        "M-CRY-5": 4,
+        "M-ALL-4": 5,
+        "Y-LMD-4": 180000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-MAN-4": 4,
+        "M-DEV-3": 4,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-ROC-4": 4,
+        "M-GRI-4": 9,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 6,
+        "M-CRY-4": 4,
+        "K-BLU-4": 15
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-CRY-4": 4,
+        "M-GEL-3": 3,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-GEL-4": 4,
+        "M-ROC-4": 10,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-KET-5": 6,
+        "M-ALL-4": 6,
+        "K-BLU-4": 15
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 8,
+      "cost": {
+        "M-RMA-4": 4,
+        "M-MAN-3": 5,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 9,
+      "cost": {
+        "M-IRO-4": 4,
+        "M-ALL-4": 7,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 6,
+        "M-GEL-4": 6,
+        "K-BLU-4": 15
+      }
+    }
+  ],
+  "name": {
+    "en": "Mudrock",
+    "zh": "泥岩"
+  },
+  "alias": [
+    "ni yan",
+    "niyan"
+  ],
+  "skills": [
+    {
+      "name": {
+        "zh": "防御力强化·γ型"
+      }
+    },
+    {
+      "name": {
+        "zh": "岩崩锤"
+      }
+    },
+    {
+      "name": {
+        "zh": "秽壤的血脉"
+      }
+    }
+  ],
+  "kind": "DEFENDER"
+}

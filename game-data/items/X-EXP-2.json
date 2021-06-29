@@ -1,0 +1,37 @@
+{
+  "id": "X-EXP-2",
+  "game_id": 2001,
+  "tier": 2,
+  "global": true,
+  "kind": "BATTLE_RECORD",
+  "sort": 1104,
+  "name": {
+    "en": "Drill Battle Record",
+    "ja": "入門作戦記録",
+    "ko": "기초작전기록",
+    "zh": "基础作战记录"
+  },
+  "alias": [
+    "ji chu zuo zhan ji lu",
+    "jichuzuozhanjilu"
+  ],
+  "producers": [
+    {
+      "kind": "MONTHLY",
+      "count": 10,
+      "day": 2
+    },
+    {
+      "kind": "MISSION",
+      "duration": 7,
+      "unit": "DAY",
+      "count": 4
+    },
+    {
+      "kind": "MISSION",
+      "duration": 1,
+      "unit": "DAY",
+      "count": 8
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "id": "grani",
+  "game_id": "char_220_grani",
+  "stars": 5,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-ROC-1": 10,
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-SUG-2": 3,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-VAN-3": 4,
+        "M-ROC-2": 8,
+        "M-SUG-2": 8,
+        "Y-LMD-4": 20000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-EST-2": 5,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-IRO-3": 4,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-KET-3": 2,
+        "M-KOH-3": 4,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-VAN-5": 3,
+        "M-RMA-4": 7,
+        "M-IRO-3": 13,
+        "Y-LMD-4": 120000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-DEV-4": 2,
+        "M-IRO-3": 3,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-MAN-4": 3,
+        "M-DEV-4": 4,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 4,
+        "M-KOH-4": 5,
+        "K-BLU-4": 10
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-KOH-4": 3,
+        "M-KET-3": 5,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-GRI-4": 3,
+        "M-KOH-4": 6,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-KET-5": 4,
+        "M-RMA-4": 4,
+        "K-BLU-4": 10
+      }
+    }
+  ],
+  "name": {
+    "en": "Grani",
+    "ja": "グラニ",
+    "ko": "그라니",
+    "zh": "格拉尼"
+  },
+  "alias": [
+    "ぐらに",
+    "ge la ni",
+    "gelani"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "DEF Up γ",
+        "ja": "防御力強化γ",
+        "ko": "방어 강화γ",
+        "zh": "防御力强化·γ型"
+      }
+    },
+    {
+      "name": {
+        "en": "Press the Attack!",
+        "ja": "引かない！",
+        "ko": "임전무퇴!",
+        "zh": "永不后退！"
+      }
+    }
+  ],
+  "kind": "VANGUARD"
+}

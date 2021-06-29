@@ -1,0 +1,206 @@
+{
+  "id": "hellagur",
+  "game_id": "char_188_helage",
+  "stars": 6,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 5
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-EST-1": 6,
+        "M-IRO-1": 4,
+        "K-WHI-2": 5
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-IRO-2": 4,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-GUA-3": 5,
+        "M-SUG-2": 10,
+        "M-ROC-2": 6,
+        "Y-LMD-4": 30000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-KET-2": 4,
+        "M-ROC-2": 5,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-MAN-3": 6,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-GRI-3": 4,
+        "M-ROC-3": 5,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-GUA-5": 4,
+        "M-DEV-5": 4,
+        "M-EST-4": 7,
+        "Y-LMD-4": 180000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-SUG-4": 4,
+        "M-RMA-3": 5,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-KET-4": 4,
+        "M-EST-4": 7,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 6,
+        "M-IRO-4": 5,
+        "K-BLU-4": 15
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-EST-4": 4,
+        "M-ROC-3": 8,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-DEV-4": 3,
+        "M-IRO-4": 6,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 6,
+        "M-IRO-4": 4,
+        "K-BLU-4": 15
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 8,
+      "cost": {
+        "M-IRO-4": 4,
+        "M-SUG-3": 4,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 9,
+      "cost": {
+        "M-KOH-4": 4,
+        "M-KET-4": 8,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 6,
+        "M-GRI-4": 5,
+        "K-BLU-4": 15
+      }
+    }
+  ],
+  "name": {
+    "en": "Hellagur",
+    "ja": "ヘラグ",
+    "ko": "헬라그",
+    "zh": "赫拉格"
+  },
+  "alias": [
+    "へらぐ",
+    "he la ge",
+    "helage"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Crescent Moon",
+        "ja": "新月",
+        "ko": "초승달",
+        "zh": "新月"
+      }
+    },
+    {
+      "name": {
+        "en": "Half Moon",
+        "ja": "弦月",
+        "ko": "그믐달",
+        "zh": "弦月"
+      }
+    },
+    {
+      "name": {
+        "en": "Full Moon",
+        "ja": "満月",
+        "ko": "보름달",
+        "zh": "满月"
+      }
+    }
+  ],
+  "kind": "GUARD"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "M-DEV-5",
+  "game_id": 30125,
+  "tier": 5,
+  "global": true,
+  "kind": "DEVICE",
+  "sort": 1301,
+  "name": {
+    "en": "Bipolar Nanoflake",
+    "ja": "ナノフレーク",
+    "ko": "바이폴라 나노플레이크 칩",
+    "zh": "双极纳米片"
+  },
+  "alias": [
+    "なのふれーく",
+    "shuang ji na mi pian",
+    "shuangjinamipian"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 1,
+      "morale": 8,
+      "cost": {
+        "Y-LMD-4": 400,
+        "M-DEV-4": 1,
+        "M-KET-4": 2
+      }
+    }
+  ]
+}

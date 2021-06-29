@@ -1,0 +1,20 @@
+{
+  "presets": [
+    [ "razzle/babel", {
+      "preset-env": {
+        "exclude": [
+          "transform-regenerator",
+          "transform-async-to-generator"
+        ]
+      },
+      "preset-react": {
+        "runtime": "automatic",
+        "importSource": "@emotion/react"
+      }
+    } ]
+  ],
+  "plugins": [
+    "@emotion/babel-plugin",
+    'graphql-tag',
+  ],
+}

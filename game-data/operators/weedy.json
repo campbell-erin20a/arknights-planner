@@ -1,0 +1,206 @@
+{
+  "id": "weedy",
+  "game_id": "char_400_weedy",
+  "stars": 6,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 5
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-DEV-1": 4,
+        "M-EST-1": 4,
+        "K-WHI-2": 5
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-ROC-2": 7,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-SPE-3": 5,
+        "M-DEV-2": 6,
+        "M-SUG-2": 4,
+        "Y-LMD-4": 30000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-SUG-2": 4,
+        "M-KET-2": 4,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-KOH-3": 7,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-ROC-3": 5,
+        "M-DEV-3": 4,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-SPE-5": 4,
+        "M-RMA-5": 4,
+        "M-MAN-4": 6,
+        "Y-LMD-4": 180000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-MAN-4": 4,
+        "M-DEV-3": 4,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-ROC-4": 4,
+        "M-GRI-4": 9,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 6,
+        "M-ALL-4": 5,
+        "K-BLU-4": 15
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-GRI-4": 4,
+        "M-KOH-3": 7,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-DEV-4": 3,
+        "M-IRO-4": 6,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 6,
+        "M-GEL-4": 6,
+        "K-BLU-4": 15
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 8,
+      "cost": {
+        "M-RMA-4": 4,
+        "M-MAN-3": 5,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 9,
+      "cost": {
+        "M-KOH-4": 4,
+        "M-KET-4": 8,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 10,
+      "cost": {
+        "M-KET-5": 6,
+        "M-GEL-4": 7,
+        "K-BLU-4": 15
+      }
+    }
+  ],
+  "name": {
+    "en": "Weedy",
+    "ja": "ウィーディ",
+    "ko": "위디",
+    "zh": "温蒂"
+  },
+  "alias": [
+    "うぃーでぃ",
+    "wen di",
+    "wendi"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Barrel Burst",
+        "ja": "砲身強打",
+        "ko": "포관 타격",
+        "zh": "炮管敲击"
+      }
+    },
+    {
+      "name": {
+        "en": "Hydraulics Mode",
+        "ja": "ハイドロキャノン",
+        "ko": "물대포 모드",
+        "zh": "水炮模式"
+      }
+    },
+    {
+      "name": {
+        "en": "Liquid Nitrogen Cannon",
+        "ja": "LN2キャノン",
+        "ko": "액체 질소 대포",
+        "zh": "液氮大炮"
+      }
+    }
+  ],
+  "kind": "SPECIALIST"
+}

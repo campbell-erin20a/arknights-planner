@@ -1,0 +1,206 @@
+{
+  "id": "shining",
+  "game_id": "char_147_shining",
+  "stars": 6,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 5
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-ROC-1": 6,
+        "M-DEV-1": 4,
+        "K-WHI-2": 5
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-DEV-2": 3,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-MED-3": 5,
+        "M-KET-2": 6,
+        "M-EST-2": 5,
+        "Y-LMD-4": 30000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-ROC-2": 5,
+        "M-DEV-2": 3,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-MAN-3": 6,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-GRI-3": 4,
+        "M-ROC-3": 5,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-MED-5": 4,
+        "M-DEV-5": 4,
+        "M-IRO-4": 5,
+        "Y-LMD-4": 180000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-RMA-4": 4,
+        "M-MAN-3": 5,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-EST-4": 4,
+        "M-ROC-4": 10,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 6,
+        "M-IRO-4": 4,
+        "K-BLU-4": 15
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-ROC-4": 4,
+        "M-GRI-3": 7,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-IRO-4": 4,
+        "M-SUG-4": 7,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 6,
+        "M-GRI-4": 5,
+        "K-BLU-4": 15
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 8,
+      "cost": {
+        "M-SUG-4": 4,
+        "M-RMA-3": 5,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 9,
+      "cost": {
+        "M-KET-4": 4,
+        "M-EST-4": 7,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 10,
+      "cost": {
+        "M-KET-5": 6,
+        "M-GRI-4": 6,
+        "K-BLU-4": 15
+      }
+    }
+  ],
+  "name": {
+    "en": "Shining",
+    "ja": "シャイニング",
+    "ko": "샤이닝",
+    "zh": "闪灵"
+  },
+  "alias": [
+    "しゃいにんぐ",
+    "shan ling",
+    "shanling"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Creed",
+        "ja": "信条",
+        "ko": "신조",
+        "zh": "信条"
+      }
+    },
+    {
+      "name": {
+        "en": "Auto Protect",
+        "ja": "オートカバー",
+        "ko": "자동 엄호",
+        "zh": "自动掩护"
+      }
+    },
+    {
+      "name": {
+        "en": "Creed Field",
+        "ja": "教導の結界",
+        "ko": "신조의 역장",
+        "zh": "教条力场"
+      }
+    }
+  ],
+  "kind": "MEDIC"
+}

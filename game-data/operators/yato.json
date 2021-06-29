@@ -1,0 +1,20 @@
+{
+  "id": "yato",
+  "game_id": "char_502_nblade",
+  "stars": 2,
+  "global": true,
+  "upgrades": [],
+  "name": {
+    "en": "Yato",
+    "ja": "ヤトウ",
+    "ko": "야토",
+    "zh": "夜刀"
+  },
+  "alias": [
+    "やとう",
+    "ye dao",
+    "yedao"
+  ],
+  "skills": [],
+  "kind": "VANGUARD"
+}

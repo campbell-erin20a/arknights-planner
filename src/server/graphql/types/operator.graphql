@@ -1,0 +1,49 @@
+
+type OperatorConnection {
+  pageInfo: PageInfo!
+  edges: [OperatorEdge!]!
+}
+type OperatorEdge {
+  cursor: String!
+  operator: Operator!
+}
+
+enum OperatorKind {
+  CASTER
+  DEFENDER
+  GUARD
+  MEDIC
+  SNIPER
+  SPECIALIST
+  SUPPORTER
+  VANGUARD
+}
+type Operator {
+  id: ID!
+  game_id: String!
+  global: Boolean!
+
+  name(language: Language): String!
+  name_i18n: I18NString!
+
+  stars: Int!
+  kind: OperatorKind!
+  skills: [Skill!]!
+  # upgrades(available: Boolean = false): [Upgrade!]!
+
+  owned: Boolean!
+  elite: Int!
+  level: Int!
+  skill: Int!
+  trust: Int!
+  potential: Int!
+}
+
+extend type Mutation {
+  setOperatorOwned(id: ID!, value: Boolean!): Operator!
+  setOperatorElite(id: ID!, value: Int!): Operator!
+  setOperatorLevel(id: ID!, value: Int!): Operator!
+  setOperatorSkill(id: ID!, value: Int!): Operator!
+  setOperatorTrust(id: ID!, value: Int!): Operator!
+  setOperatorPotential(id: ID!, value: Int!): Operator!
+}

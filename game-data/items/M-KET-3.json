@@ -1,0 +1,30 @@
+{
+  "id": "M-KET-3",
+  "game_id": 30053,
+  "tier": 3,
+  "global": true,
+  "kind": "KETON",
+  "sort": 2301,
+  "name": {
+    "en": "Aketon",
+    "ja": "中級アケトン",
+    "ko": "아케톤 응집체 번들",
+    "zh": "酮凝集组"
+  },
+  "alias": [
+    "中級あけとん",
+    "tong ning ji zu",
+    "tongningjizu"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 1,
+      "morale": 2,
+      "cost": {
+        "Y-LMD-4": 200,
+        "M-KET-2": 4
+      }
+    }
+  ]
+}

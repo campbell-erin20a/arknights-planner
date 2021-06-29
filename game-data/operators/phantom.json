@@ -1,0 +1,206 @@
+{
+  "id": "phantom",
+  "game_id": "char_250_phatom",
+  "stars": 6,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 5
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-ROC-1": 6,
+        "M-DEV-1": 4,
+        "K-WHI-2": 5
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-SUG-2": 5,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-SPE-3": 5,
+        "M-KET-2": 7,
+        "M-ROC-2": 7,
+        "Y-LMD-4": 30000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-EST-2": 4,
+        "M-IRO-2": 4,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-MAN-3": 6,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-GEL-3": 4,
+        "M-IRO-3": 4,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-SPE-5": 4,
+        "M-KET-5": 4,
+        "M-GEL-4": 9,
+        "Y-LMD-4": 180000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-ROC-4": 4,
+        "M-GRI-3": 7,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-KOH-4": 4,
+        "M-KET-4": 8,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 6,
+        "M-ALL-4": 6,
+        "K-BLU-4": 15
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-KET-4": 4,
+        "M-GEL-3": 4,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-MAN-4": 4,
+        "M-DEV-4": 5,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-KET-5": 6,
+        "M-ALL-4": 6,
+        "K-BLU-4": 15
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 8,
+      "cost": {
+        "M-DEV-4": 3,
+        "M-IRO-3": 4,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 9,
+      "cost": {
+        "M-GRI-4": 4,
+        "M-KOH-4": 9,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 6,
+        "M-GEL-4": 6,
+        "K-BLU-4": 15
+      }
+    }
+  ],
+  "name": {
+    "en": "Phantom",
+    "ja": "ファントム",
+    "ko": "팬텀",
+    "zh": "傀影"
+  },
+  "alias": [
+    "ふぁんとむ",
+    "kui ying",
+    "kuiying"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Phantom of the Night",
+        "ja": "闇夜の影法師",
+        "ko": "어두운 밤의 유령",
+        "zh": "暗夜魅影"
+      }
+    },
+    {
+      "name": {
+        "en": "Bloody Opus",
+        "ja": "血染めの楽章",
+        "ko": "핏빛 악장",
+        "zh": "血色乐章"
+      }
+    },
+    {
+      "name": {
+        "en": "Night Raid",
+        "ja": "襲来の悪夢",
+        "ko": "밤의 장막의 기습",
+        "zh": "夜幕突袭"
+      }
+    }
+  ],
+  "kind": "SPECIALIST"
+}

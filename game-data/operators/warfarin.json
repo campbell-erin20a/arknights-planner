@@ -1,0 +1,166 @@
+{
+  "id": "warfarin",
+  "game_id": "char_171_bldsk",
+  "stars": 5,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-KET-1": 5,
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-DEV-2": 2,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-MED-3": 4,
+        "M-KET-2": 4,
+        "M-SUG-2": 2,
+        "Y-LMD-4": 20000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-ROC-2": 8,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-RMA-3": 3,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-ROC-3": 4,
+        "M-DEV-3": 2,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-MED-5": 3,
+        "M-DEV-4": 5,
+        "M-SUG-3": 17,
+        "Y-LMD-4": 120000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-SUG-4": 3,
+        "M-RMA-3": 3,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-IRO-4": 3,
+        "M-SUG-4": 5,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 4,
+        "M-GRI-4": 4,
+        "K-BLU-4": 10
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-EST-4": 3,
+        "M-ROC-3": 4,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-KET-4": 3,
+        "M-EST-4": 5,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 4,
+        "M-DEV-4": 3,
+        "K-BLU-4": 10
+      }
+    }
+  ],
+  "name": {
+    "en": "Warfarin",
+    "ja": "ワルファリン",
+    "ko": "와파린",
+    "zh": "华法琳"
+  },
+  "alias": [
+    "わるふぁりん",
+    "hua fa lin",
+    "huafalin"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Emergency Triage",
+        "ja": "救急包帯法",
+        "ko": "응급처치용 밴드",
+        "zh": "紧急包扎"
+      }
+    },
+    {
+      "name": {
+        "en": "Unstable Plasma",
+        "ja": "不安定血漿",
+        "ko": "불안정 혈장",
+        "zh": "不稳定血浆"
+      }
+    }
+  ],
+  "kind": "MEDIC"
+}

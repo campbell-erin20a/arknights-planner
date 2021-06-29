@@ -1,0 +1,166 @@
+{
+  "id": "sesa",
+  "game_id": "char_379_sesa",
+  "stars": 5,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-KET-1": 5,
+        "K-WHI-2": 4
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-DEV-2": 2,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-SNI-3": 4,
+        "M-KET-2": 4,
+        "M-SUG-2": 2,
+        "Y-LMD-4": 20000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-ROC-2": 8,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-RMA-3": 3,
+        "K-GRE-3": 6
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-GRI-3": 2,
+        "M-ROC-3": 4,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-SNI-5": 3,
+        "M-GRI-4": 8,
+        "M-ROC-3": 18,
+        "Y-LMD-4": 120000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-KET-4": 3,
+        "M-GEL-3": 2,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-RMA-4": 3,
+        "M-MAN-4": 5,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 4,
+        "M-ALL-4": 4,
+        "K-BLU-4": 10
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-ROC-4": 3,
+        "M-GRI-3": 4,
+        "K-BLU-4": 5
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-GRI-4": 3,
+        "M-KOH-4": 6,
+        "K-BLU-4": 6
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 4,
+        "M-MAN-4": 3,
+        "K-BLU-4": 10
+      }
+    }
+  ],
+  "name": {
+    "en": "Sesa",
+    "ja": "シェーシャ",
+    "ko": "세사",
+    "zh": "慑砂"
+  },
+  "alias": [
+    "しぇーしゃ",
+    "she sha",
+    "shesha"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "ATK Up γ",
+        "ja": "攻撃力強化γ",
+        "ko": "공격 강화γ",
+        "zh": "攻击力强化·γ型"
+      }
+    },
+    {
+      "name": {
+        "en": "Delayed Concussive Parts",
+        "ja": "ディレイドボンバー",
+        "ko": "딜레이 진탕 부품",
+        "zh": "延时震荡零件"
+      }
+    }
+  ],
+  "kind": "SNIPER"
+}

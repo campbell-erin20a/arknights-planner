@@ -1,0 +1,19 @@
+{
+  "id": "M-CRY-3",
+  "game_id": 31033,
+  "tier": 3,
+  "global": true,
+  "kind": "CRYSTAL",
+  "sort": 2602,
+  "name": {
+    "en": "Crystalline Component",
+    "ja": "素子結晶",
+    "ko": "결정 부품",
+    "zh": "晶体元件"
+  },
+  "alias": [
+    "jing ti yuan jian",
+    "jingtiyuanjian"
+  ],
+  "producers": []
+}

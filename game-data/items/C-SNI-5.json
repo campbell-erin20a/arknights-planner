@@ -1,0 +1,31 @@
+{
+  "id": "C-SNI-5",
+  "game_id": 3243,
+  "tier": 5,
+  "global": true,
+  "kind": "CHIP",
+  "operator": "SNIPER",
+  "sort": 2713,
+  "name": {
+    "en": "Sniper Dualchip",
+    "ja": "上級狙撃SoC",
+    "ko": "스나이퍼 듀얼 칩",
+    "zh": "狙击双芯片"
+  },
+  "alias": [
+    "ju ji shuang xin pian",
+    "jujishuangxinpian"
+  ],
+  "producers": [
+    {
+      "kind": "FACTORY",
+      "count": 1,
+      "duration": 60,
+      "unit": "MINUTE",
+      "cost": {
+        "C-CAT-4": 1,
+        "C-SNI-4": 2
+      }
+    }
+  ]
+}

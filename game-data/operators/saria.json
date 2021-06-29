@@ -1,0 +1,206 @@
+{
+  "id": "saria",
+  "game_id": "char_202_demkni",
+  "stars": 6,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 5
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-IRO-1": 5,
+        "M-SUG-1": 4,
+        "K-WHI-2": 5
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-EST-2": 5,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-DEF-3": 5,
+        "M-SUG-2": 8,
+        "M-KET-2": 5,
+        "Y-LMD-4": 30000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-IRO-2": 4,
+        "M-SUG-2": 3,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-ROC-3": 8,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-SUG-3": 4,
+        "M-IRO-3": 5,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-DEF-5": 4,
+        "M-DEV-5": 4,
+        "M-MAN-4": 5,
+        "Y-LMD-4": 180000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-EST-4": 4,
+        "M-ROC-3": 8,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-DEV-4": 3,
+        "M-IRO-4": 6,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 6,
+        "M-MAN-4": 5,
+        "K-BLU-4": 15
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-IRO-4": 4,
+        "M-SUG-3": 4,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-KOH-4": 4,
+        "M-KET-4": 8,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-DEV-5": 6,
+        "M-KET-4": 5,
+        "K-BLU-4": 15
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 8,
+      "cost": {
+        "M-KET-4": 4,
+        "M-EST-3": 6,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 9,
+      "cost": {
+        "M-MAN-4": 4,
+        "M-DEV-4": 5,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 10,
+      "cost": {
+        "M-KET-5": 6,
+        "M-RMA-4": 6,
+        "K-BLU-4": 15
+      }
+    }
+  ],
+  "name": {
+    "en": "Saria",
+    "ja": "サリア",
+    "ko": "사리아",
+    "zh": "塞雷娅"
+  },
+  "alias": [
+    "さりあ",
+    "sai lei ya",
+    "saileiya"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "First Aid",
+        "ja": "応急処置",
+        "ko": "응급처치",
+        "zh": "急救"
+      }
+    },
+    {
+      "name": {
+        "en": "Medicine Dispensing",
+        "ja": "薬剤配置",
+        "ko": "약제 배급",
+        "zh": "药物配置"
+      }
+    },
+    {
+      "name": {
+        "en": "Calcification",
+        "ja": "硬質化",
+        "ko": "칼슘화",
+        "zh": "钙质化"
+      }
+    }
+  ],
+  "kind": "DEFENDER"
+}

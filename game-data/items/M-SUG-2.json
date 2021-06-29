@@ -1,0 +1,28 @@
+{
+  "id": "M-SUG-2",
+  "game_id": 30022,
+  "tier": 2,
+  "global": true,
+  "kind": "SUGAR",
+  "sort": 2102,
+  "name": {
+    "en": "Sugar",
+    "ja": "初級糖原",
+    "ko": "포도당",
+    "zh": "糖"
+  },
+  "alias": [
+    "tang"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 1,
+      "morale": 1,
+      "cost": {
+        "Y-LMD-4": 100,
+        "M-SUG-1": 3
+      }
+    }
+  ]
+}

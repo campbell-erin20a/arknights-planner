@@ -1,0 +1,20 @@
+{
+  "id": "M-EST-1",
+  "game_id": 30031,
+  "tier": 1,
+  "global": true,
+  "kind": "ESTER",
+  "sort": 2003,
+  "name": {
+    "en": "Ester",
+    "ja": "エステル原料",
+    "ko": "에스테르 원료",
+    "zh": "酯原料"
+  },
+  "alias": [
+    "えすてる原料",
+    "zhi yuan liao",
+    "zhiyuanliao"
+  ],
+  "producers": []
+}

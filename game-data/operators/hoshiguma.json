@@ -1,0 +1,206 @@
+{
+  "id": "hoshiguma",
+  "game_id": "char_136_hsguma",
+  "stars": 6,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 5
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-EST-1": 6,
+        "M-IRO-1": 4,
+        "K-WHI-2": 5
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-SUG-2": 5,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-DEF-3": 5,
+        "M-ROC-2": 11,
+        "M-IRO-2": 5,
+        "Y-LMD-4": 30000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-EST-2": 4,
+        "M-IRO-2": 4,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-RMA-3": 6,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-ROC-3": 5,
+        "M-DEV-3": 4,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-DEF-5": 4,
+        "M-KET-5": 4,
+        "M-GRI-4": 5,
+        "Y-LMD-4": 180000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-SUG-4": 4,
+        "M-RMA-3": 5,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-KET-4": 4,
+        "M-EST-4": 7,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-KET-5": 6,
+        "M-GRI-4": 6,
+        "K-BLU-4": 15
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-EST-4": 4,
+        "M-ROC-3": 8,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-DEV-4": 3,
+        "M-IRO-4": 6,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-KET-5": 6,
+        "M-EST-4": 6,
+        "K-BLU-4": 15
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 8,
+      "cost": {
+        "M-IRO-4": 4,
+        "M-SUG-3": 4,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 9,
+      "cost": {
+        "M-KOH-4": 4,
+        "M-KET-4": 8,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 6,
+        "M-KOH-4": 7,
+        "K-BLU-4": 15
+      }
+    }
+  ],
+  "name": {
+    "en": "Hoshiguma",
+    "ja": "ホシグマ",
+    "ko": "호시구마",
+    "zh": "星熊"
+  },
+  "alias": [
+    "ほしぐま",
+    "xing xiong",
+    "xingxiong"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Warpath",
+        "ja": "戦意昂揚",
+        "ko": "전의 고양",
+        "zh": "战意"
+      }
+    },
+    {
+      "name": {
+        "en": "Thorns",
+        "ja": "荊棘",
+        "ko": "가시덤불",
+        "zh": "荆棘"
+      }
+    },
+    {
+      "name": {
+        "en": "Saw of Strength",
+        "ja": "般若",
+        "ko": "반야회전참",
+        "zh": "力之锯"
+      }
+    }
+  ],
+  "kind": "DEFENDER"
+}

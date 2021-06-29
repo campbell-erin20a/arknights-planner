@@ -1,0 +1,19 @@
+{
+  "id": "M-GRI-3",
+  "game_id": 30093,
+  "tier": 3,
+  "global": true,
+  "kind": "GRINDSTONE",
+  "sort": 1501,
+  "name": {
+    "en": "Grindstone",
+    "ja": "砥石",
+    "ko": "연마석",
+    "zh": "研磨石"
+  },
+  "alias": [
+    "yan mo shi",
+    "yanmoshi"
+  ],
+  "producers": []
+}

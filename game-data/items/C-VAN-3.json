@@ -1,0 +1,29 @@
+{
+  "id": "C-VAN-3",
+  "game_id": 3211,
+  "tier": 3,
+  "global": true,
+  "kind": "CHIP",
+  "operator": "VANGUARD",
+  "sort": 2730,
+  "name": {
+    "en": "Vanguard Chip",
+    "ja": "初級先鋒SoC",
+    "ko": "뱅가드 칩",
+    "zh": "先锋芯片"
+  },
+  "alias": [
+    "xian feng xin pian",
+    "xianfengxinpian"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 2,
+      "morale": 1,
+      "cost": {
+        "C-SUP-3": 3
+      }
+    }
+  ]
+}

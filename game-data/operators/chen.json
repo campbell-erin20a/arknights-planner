@@ -1,0 +1,205 @@
+{
+  "id": "chen",
+  "game_id": "char_010_chen",
+  "stars": 6,
+  "global": true,
+  "upgrades": [
+    {
+      "kind": "SKILL",
+      "level": 2,
+      "cost": {
+        "K-WHI-2": 5
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 3,
+      "cost": {
+        "M-ROC-1": 6,
+        "M-DEV-1": 4,
+        "K-WHI-2": 5
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 4,
+      "cost": {
+        "M-SUG-2": 5,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 1,
+      "cost": {
+        "C-GUA-3": 5,
+        "M-ROC-2": 12,
+        "M-DEV-2": 3,
+        "Y-LMD-4": 30000
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 5,
+      "cost": {
+        "M-EST-2": 4,
+        "M-IRO-2": 4,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 6,
+      "cost": {
+        "M-DEV-3": 4,
+        "K-GRE-3": 8
+      }
+    },
+    {
+      "kind": "SKILL",
+      "level": 7,
+      "cost": {
+        "M-KOH-3": 5,
+        "M-KET-3": 4,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "ELITE",
+      "level": 2,
+      "cost": {
+        "C-GUA-5": 4,
+        "M-KET-5": 4,
+        "M-KOH-4": 6,
+        "Y-LMD-4": 180000
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 8,
+      "cost": {
+        "M-MAN-4": 4,
+        "M-DEV-3": 4,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 9,
+      "cost": {
+        "M-ROC-4": 4,
+        "M-GRI-4": 9,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 0,
+      "level": 10,
+      "cost": {
+        "M-KET-5": 6,
+        "M-KOH-4": 7,
+        "K-BLU-4": 15
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 8,
+      "cost": {
+        "M-GRI-4": 4,
+        "M-KOH-3": 7,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 9,
+      "cost": {
+        "M-SUG-4": 4,
+        "M-RMA-4": 8,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 1,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 6,
+        "M-EST-4": 6,
+        "K-BLU-4": 15
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 8,
+      "cost": {
+        "M-RMA-4": 4,
+        "M-MAN-3": 5,
+        "K-BLU-4": 8
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 9,
+      "cost": {
+        "M-SUG-4": 4,
+        "M-RMA-4": 8,
+        "K-BLU-4": 12
+      }
+    },
+    {
+      "kind": "MASTERY",
+      "index": 2,
+      "level": 10,
+      "cost": {
+        "M-RMA-5": 6,
+        "M-IRO-4": 5,
+        "K-BLU-4": 15
+      }
+    }
+  ],
+  "name": {
+    "en": "Ch'en",
+    "ja": "チェン",
+    "ko": "첸",
+    "zh": "陈"
+  },
+  "alias": [
+    "ちぇん",
+    "chen"
+  ],
+  "skills": [
+    {
+      "name": {
+        "en": "Sheathed Strike",
+        "ja": "鞘打ち",
+        "ko": "칼집 공격",
+        "zh": "鞘击"
+      }
+    },
+    {
+      "name": {
+        "en": "Chi Xiao - Unsheath",
+        "ja": "赤霄・抜刀",
+        "ko": "적소-발도",
+        "zh": "赤霄·拔刀"
+      }
+    },
+    {
+      "name": {
+        "en": "Chi Xiao - Shadowless",
+        "ja": "赤霄・絶影",
+        "ko": "적소-절영",
+        "zh": "赤霄·绝影"
+      }
+    }
+  ],
+  "kind": "GUARD"
+}

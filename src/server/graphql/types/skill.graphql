@@ -1,0 +1,42 @@
+
+enum SkillRecoveryKind {
+  PASSIVE
+  PER_SECOND
+  OFFENSIVE
+  DEFENSIVE
+}
+enum SkillActivationKind {
+  PASSIVE
+  MANUAL
+  AUTOMATIC
+}
+type Skill {
+  id: ID!
+
+  name(language: Language): String!
+  name_i18n: I18NString!
+
+  recovery: SkillRecoveryKind!
+  activation: SkillActivationKind!
+  level(level: Int = 10): SkillLevel!
+  levels: [SkillLevel!]!
+
+  mastery: Int!
+}
+
+extend type Mutation {
+  setSkillMastery(operator_id: ID!, skill_id: ID!, value: Int!): Skill!
+}
+
+type SkillLevel {
+  skill: Skill!
+  level: Int!
+
+  sp: Int
+  initial: Int
+
+  text(language: Language): String!
+  text_i18n: I18NString!
+
+  # TODO: Eventually parameterize the skill text etc etc
+}

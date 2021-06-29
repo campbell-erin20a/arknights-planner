@@ -1,0 +1,16 @@
+{
+  "id": "12f",
+  "game_id": "char_009_12fce",
+  "stars": 2,
+  "global": true,
+  "upgrades": [],
+  "name": {
+    "en": "12F",
+    "ja": "12F",
+    "ko": "12F",
+    "zh": "12F"
+  },
+  "alias": [],
+  "skills": [],
+  "kind": "CASTER"
+}

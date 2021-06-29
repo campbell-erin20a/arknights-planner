@@ -1,0 +1,20 @@
+{
+  "id": "M-SUG-1",
+  "game_id": 30021,
+  "tier": 1,
+  "global": true,
+  "kind": "SUGAR",
+  "sort": 2103,
+  "name": {
+    "en": "Sugar Substitute",
+    "ja": "ブドウ糖",
+    "ko": "대체당",
+    "zh": "代糖"
+  },
+  "alias": [
+    "ぶどう糖",
+    "dai tang",
+    "daitang"
+  ],
+  "producers": []
+}

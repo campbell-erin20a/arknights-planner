@@ -1,0 +1,31 @@
+{
+  "id": "M-CRY-4",
+  "game_id": 31034,
+  "tier": 4,
+  "global": true,
+  "kind": "CRYSTAL",
+  "sort": 2601,
+  "name": {
+    "en": "Crystalline Circuit",
+    "ja": "結晶回路",
+    "ko": "결정 회로",
+    "zh": "晶体电路"
+  },
+  "alias": [
+    "jing ti dian lu",
+    "jingtidianlu"
+  ],
+  "producers": [
+    {
+      "kind": "WORKSHOP",
+      "count": 1,
+      "morale": 4,
+      "cost": {
+        "Y-LMD-4": 300,
+        "M-CRY-3": 2,
+        "M-GEL-3": 1,
+        "M-ALL-3": 1
+      }
+    }
+  ]
+}

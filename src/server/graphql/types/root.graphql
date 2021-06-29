@@ -1,0 +1,61 @@
+
+
+type Query {
+  user_id: ID!
+  language: Language
+  theme: Theme
+
+  # operator(id: ID!): Operator
+  # operators(first: Int, after: String, last: Int, before: String): OperatorConnection!
+
+  # plan(id: ID!): Plan
+  # plans: [Plan!]!
+}
+
+type Mutation {
+  setTheme(theme: Theme): Query!
+  setLanguage(language: Language): Query!
+
+  # createPlan(name: String!): Query!
+  # deletePlan(plan_id: ID!): Query!
+}
+
+
+type PageInfo {
+  hasPreviousPage: Boolean!
+  hasNextPage: Boolean!
+  startCursor: String!
+  endCursor: String!
+}
+
+enum Language {
+  en
+  ja
+  ko
+  ru
+  zh
+}
+type I18NString {
+  en: String
+  ja: String
+  ko: String
+  ru: String
+  zh: String!
+}
+
+enum Theme {
+  DARK
+  LIGHT
+}
+
+enum DurationUnit {
+  WEEK
+  DAY
+  HOUR
+  MINUTE
+  SECOND
+}
+type Duration {
+  unit: DurationUnit!
+  value: Int!
+}

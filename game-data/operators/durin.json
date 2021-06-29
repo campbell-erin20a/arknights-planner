@@ -1,0 +1,20 @@
+{
+  "id": "durin",
+  "game_id": "char_501_durin",
+  "stars": 2,
+  "global": true,
+  "upgrades": [],
+  "name": {
+    "en": "Durin",
+    "ja": "ドゥリン",
+    "ko": "두린",
+    "zh": "杜林"
+  },
+  "alias": [
+    "どぅりん",
+    "du lin",
+    "dulin"
+  ],
+  "skills": [],
+  "kind": "CASTER"
+}
